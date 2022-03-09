@@ -1,0 +1,22 @@
+create_text_form("StdForm","Standard",0,"%v","%v",NULL,NULL,NULL,NULL);
+create_form_set("GeminiForms3","StdForm");
+
+create_item("ap_nms_IRF232_19930601","Basic Description: NMOS Transistor, Part number: IRF232, Key parameters: Vto=3 Kp=2.59155E-05","M",262144,-1,NULL,"Component Parameters","Non-linear Model","#uselib \"AnalogParts\" , \"%d\"\n%d:%t %# %44?0%:%31?%C%:_net%c%;%;%e %r%b%8?%29?%:%30?%p %:%k%?[%1i]%;=%p %;%;%e%e","ap_nms_IRF232_19930601","%t%b%r%38?%:\n%30?%s%:%k%?[%1i]%;=%s%;%;%e%e%;","SYM_EE_MOS1",0,NULL,32,
+create_parm("Vtoscale","Vto scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Cgsoscale","Cgso scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Afscale","Af scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Idsmodscale","Idsmod scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Kfscale","Kf scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Isscale","Is scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Pbscale","Pb scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Cbdscale","Cbd scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Cgboscale","Cgbo scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Kpscale","Kp scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Rdscale","Rd scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Toxscale","Tox scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Uoscale","Uo scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Lambdascale","Lambda scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Cgdoscale","Cgdo scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Gammascale","Gamma scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Af","Af value",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Kf","Kf value",73216,"GeminiForms3",-1,prm("StdForm","")));

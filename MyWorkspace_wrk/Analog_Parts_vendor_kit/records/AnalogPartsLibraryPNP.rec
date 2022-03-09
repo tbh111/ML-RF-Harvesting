@@ -1,0 +1,3243 @@
+<?xml version="1.0" ?>
+<COMPONENTS>
+ <COMPONENT>
+    <NAME>ap_pnp_2N2605_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N2605, Key parameters: Is=1E-14 Bf=220 Tf=5.3E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N2894_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N2894, Key parameters: Is=1.35492E-15 Bf=119.7473666 Tf=2.03804E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N2904_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N2904, Key parameters: Is=6.19608E-15 Bf=92.7897541 Tf=6.2917E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N2904A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N2904A, Key parameters: Is=7.47555E-15 Bf=173.6500125 Tf=2.54817E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N2905_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N2905, Key parameters: Is=2.21842E-14 Bf=274.0574468 Tf=4.43872E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N2905A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N2905A, Key parameters: Is=1.2057E-14 Bf=199.527 Tf=4.55218E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N2906_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N2906, Key parameters: Is=1.75027E-14 Bf=148.5627949 Tf=5.85292E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N2906A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N2906A, Key parameters: Is=5.42245E-15 Bf=88.7299743 Tf=2.84634E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N2907_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N2907, Key parameters: Is=1.2539E-14 Bf=170.1982158 Tf=6.8346E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N2907A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N2907A, Key parameters: Is=1.2446E-14 Bf=145.3917939 Tf=4.8845E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N2944A_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N2944A, Key parameters: Is=1.4831E-13 Bf=400 Tf=1.6E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N2945A_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N2945A, Key parameters: Is=1.4831E-13 Bf=400 Tf=1.6E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N2946A_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N2946A, Key parameters: Is=1.4831E-13 Bf=400 Tf=1.6E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3244_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3244, Key parameters: Is=1E-08 Bf=100 Tf=7.9577E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3245_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3245, Key parameters: Is=1E-08 Bf=60 Tf=9.0946E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3249_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3249, Key parameters: Is=7.2774E-13 Bf=150 Tf=1.7684E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3250_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3250, Key parameters: Is=3.08375E-15 Bf=211.1059546 Tf=2.89017E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3250A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3250A, Key parameters: Is=2.63E-14 Bf=80 Tf=6.36E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3251_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3251, Key parameters: Is=2.53365E-15 Bf=208.297 Tf=2.52522E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3251A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3251A, Key parameters: Is=2.85125E-15 Bf=334.8081941 Tf=3.97E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3485_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3485, Key parameters: Is=1.4081E-13 Bf=80 Tf=6.3662E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3485A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3485A, Key parameters: Is=1.4081E-13 Bf=100 Tf=6.3662E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3486_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3486, Key parameters: Is=8.15071E-15 Bf=171.05 Tf=4.95336E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3486A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3486A, Key parameters: Is=1.4081E-13 Bf=160 Tf=6.3662E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3494_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N3494, Key parameters: Is=7.313E-15 Bf=92 Tf=3.87E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3495_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N3495, Key parameters: Is=7.313E-15 Bf=92 Tf=3.87E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3496_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3496, Key parameters: Is=7.313E-15 Bf=92 Tf=3.87E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3497_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N3497, Key parameters: Is=8.09551E-15 Bf=146.0765374 Tf=5.11343E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3546_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N3546, Key parameters: Is=9.92156E-16 Bf=78.1530626 Tf=7.06969E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3634_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3634, Key parameters: Is=2.25588E-14 Bf=165.612 Tf=5.06025E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3635_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3635, Key parameters: Is=1.4E-13 Bf=200 Tf=5.3052E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3636_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3636, Key parameters: Is=1.07014E-14 Bf=102.456 Tf=2.499E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3637_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3637, Key parameters: Is=1.22573E-14 Bf=172.6629943 Tf=2.91548E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3645_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National_Semiconductor, Basic Description: PNP Transistor, Part number: 2N3645, Key parameters: Is=1.4081E-13 Bf=150 Tf=6.3662E-10</DESCRIPTION>
+    <VENDOR>National_Semiconductor</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3720_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3720, Key parameters: Is=1.34E-12 Bf=67 Tf=1.414E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3740_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3740, Key parameters: Is=4.44456E-14 Bf=100 Tf=1.04247E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3740A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3740A, Key parameters: Is=3.316E-13 Bf=241.7 Tf=3.98E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3741_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3741, Key parameters: Is=4.55746E-14 Bf=100 Tf=9.88674E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3741A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3741A, Key parameters: Is=3.316E-13 Bf=241.7 Tf=3.98E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3743_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3743, Key parameters: Is=4.433E-12 Bf=50 Tf=1E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3762_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3762, Key parameters: Is=1.06452E-14 Bf=93.3141 Tf=3.6518E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3763_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3763, Key parameters: Is=2.432E-13 Bf=72 Tf=7.96E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3764_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N3764, Key parameters: Is=2.4318E-13 Bf=120 Tf=7.9577E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3765_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N3765, Key parameters: Is=2.432E-13 Bf=72 Tf=7.96E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3789_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3789, Key parameters: Is=6.233E-12 Bf=249 Tf=4E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3790_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3790, Key parameters: Is=5E-12 Bf=44.9648548 Tf=9.27052E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3791_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3791, Key parameters: Is=5E-12 Bf=167.7843565 Tf=9.94627E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3792_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3792, Key parameters: Is=1.20948E-12 Bf=221.8738437 Tf=9.27308E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3798_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3798, Key parameters: Is=1E-14 Bf=220 Tf=5.3E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3799_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3799, Key parameters: Is=1E-14 Bf=480 Tf=5.3E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3806_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3806, Key parameters: Is=2.72E-14 Bf=250 Tf=3.1E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3807_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3807, Key parameters: Is=2.72E-14 Bf=380 Tf=3.1E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3808_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3808, Key parameters: Is=2.72E-14 Bf=250 Tf=3.1E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3809_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3809, Key parameters: Is=2.72E-14 Bf=380 Tf=3.1E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3810_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3810, Key parameters: Is=8.50496E-15 Bf=328.274 Tf=9.22749E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3810A_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N3810A, Key parameters: Is=2.72E-14 Bf=250 Tf=3.1E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3811_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3811, Key parameters: Is=1.33646E-14 Bf=497.4636543 Tf=8.3424625E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3811A_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N3811A, Key parameters: Is=2.72E-14 Bf=380 Tf=3.1E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3812_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3812, Key parameters: Is=2.72E-14 Bf=250 Tf=3.1E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3813_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3813, Key parameters: Is=2.72E-14 Bf=380 Tf=3.1E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3814_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3814, Key parameters: Is=2.72E-14 Bf=250 Tf=3.1E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3815_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3815, Key parameters: Is=2.72E-14 Bf=380 Tf=3.1E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3816_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3816, Key parameters: Is=2.72E-14 Bf=250 Tf=3.1E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3816A_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N3816A, Key parameters: Is=2.72E-14 Bf=250 Tf=3.1E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3817_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3817, Key parameters: Is=2.72E-14 Bf=380 Tf=3.1E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3868_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3868, Key parameters: Is=6.119E-12 Bf=60 Tf=1.592E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3905_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N3905, Key parameters: Is=2.15951E-14 Bf=152.503 Tf=2.30011E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3906_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3906, Key parameters: Is=5.76815E-15 Bf=393.021154 Tf=4.73711E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3962_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3962, Key parameters: Is=1E-14 Bf=220 Tf=5.3E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3963_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3963, Key parameters: Is=5.53586E-15 Bf=255.26</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3964_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3964, Key parameters: Is=1.80768E-14 Bf=429.07 Tf=2.20399E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N3965_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N3965, Key parameters: Is=1E-14 Bf=480 Tf=5.3E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4026_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N4026, Key parameters: Is=1E-14 Bf=230 Tf=4.5E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4032_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N4032, Key parameters: Is=1E-14 Bf=230 Tf=4.5E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4033_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N4033, Key parameters: Is=1E-14 Bf=230 Tf=4.5E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4036_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N4036, Key parameters: Is=3.40476E-14 Bf=159.868 Tf=6.32333E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4037_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N4037, Key parameters: Is=5.70767E-14 Bf=147.1304373 Tf=8.9087E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4125_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N4125, Key parameters: Is=2.61651E-15 Bf=101.481617 Tf=4.15951E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4126_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N4126, Key parameters: Is=5.52332E-15 Bf=352.114 Tf=2.49696E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4208_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N4208, Key parameters: Is=6.09525E-16 Bf=105.0503034 Tf=1.43504E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4209_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N4209, Key parameters: Is=1.31388E-15 Bf=154.0972202 Tf=1.21694E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4260_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N4260, Key parameters: Is=2.42138E-16 Bf=74.6097 Tf=3.22999E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4261_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N4261, Key parameters: Is=4.384E-15 Bf=100 Tf=3E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4402_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N4402, Key parameters: Is=2.02968E-14 Bf=190.2535019 Tf=3.3298E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4403_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N4403, Key parameters: Is=1.46655E-14 Bf=203.911472 Tf=3.08932E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4404_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N4404, Key parameters: Is=2.1107E-13 Bf=80 Tf=6.366E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4405_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N4405, Key parameters: Is=2.1107E-13 Bf=80 Tf=6.366E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4453_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N4453, Key parameters: Is=7.92E-15 Bf=170 Tf=3.98E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4918_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N4918, Key parameters: Is=5.31238E-14 Bf=100 Tf=1.01474E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4919_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N4919, Key parameters: Is=1.323E-13 Bf=235 Tf=5.3E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4920_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N4920, Key parameters: Is=1.70924E-14 Bf=160 Tf=2.85834E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4957_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N4957, Key parameters: Is=2.5729E-16 Bf=102.8368714 Tf=1.99051E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N4959_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N4959, Key parameters: Is=6.124E-11 Bf=45 Tf=6.63E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5086_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N5086, Key parameters: Is=9.46847E-15 Bf=320.177 Tf=6.33153E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5087_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N5087, Key parameters: Is=1.21621E-14 Bf=406.7528175 Tf=3.26412E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5160_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N5160, Key parameters: Is=6.60154E-15 Bf=121.5369133 Tf=1.18641E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5193_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N5193, Key parameters: Is=6.387E-12 Bf=230 Tf=8E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5194_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N5194, Key parameters: Is=6E-13 Bf=100 Tf=1.05301E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5195_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N5195, Key parameters: Is=6.387E-12 Bf=230 Tf=8E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5323_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N5323, Key parameters: Is=6.34601E-13 Bf=170.46 Tf=5.96803E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5400_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N5400, Key parameters: Is=1.88073E-14 Bf=133.485 Tf=5.4921E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5401_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N5401, Key parameters: Is=2.60433E-14 Bf=157.033 Tf=1.23161E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5415_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N5415, Key parameters: Is=3.80964E-14 Bf=128.795 Tf=1.17659E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5416_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N5416, Key parameters: Is=3.79027E-14 Bf=118.4840589 Tf=1.81407E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5583_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N5583, Key parameters: Is=8.61613E-15 Bf=99.27 Tf=9.30165E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5679_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N5679, Key parameters: Is=2.9568E-14 Bf=70.1784 Tf=1.0568E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5680_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N5680, Key parameters: Is=6.50403E-14 Bf=61.1581561 Tf=1.3093425E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5683_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N5683, Key parameters: Is=3.917E-11 Bf=125 Tf=4.5473E-08</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5684_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N5684, Key parameters: Is=3.917E-11 Bf=125 Tf=4.5473E-08</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5879_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N5879, Key parameters: Is=2.09535E-13 Bf=100 Tf=1.01704E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5880_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N5880, Key parameters: Is=2.03E-11 Bf=170 Tf=1E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5883_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N5883, Key parameters: Is=1.908E-11 Bf=518.9 Tf=3.98E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N5884_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N5884, Key parameters: Is=1.908E-11 Bf=518.9 Tf=3.98E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6040_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6040, Key parameters: Is=1.011E-15 Bf=35000 Tf=1.5E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6041_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6041, Key parameters: Is=1.011E-15 Bf=35000 Tf=1.5E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6042_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6042, Key parameters: Is=1.011E-15 Bf=35000 Tf=1.5E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6052_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N6052, Key parameters: Is=1E-13 Bf=4500000 Tf=4E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6109_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N6109, Key parameters: Is=7E-13 Bf=120 Tf=8.57047E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6186_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6186, Key parameters: Is=3.929E-12 Bf=80 Tf=5.3E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6187_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6187, Key parameters: Is=3.929E-12 Bf=150 Tf=5.3E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6188_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6188, Key parameters: Is=3.929E-12 Bf=80 Tf=5.3E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6189_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6189, Key parameters: Is=3.929E-12 Bf=150 Tf=5.3E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6190_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6190, Key parameters: Is=3.673E-12 Bf=85 Tf=1.06E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6191_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6191, Key parameters: Is=3.673E-12 Bf=150 Tf=1.06E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6192_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6192, Key parameters: Is=3.673E-12 Bf=85 Tf=1.06E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6193_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6193, Key parameters: Is=3.673E-12 Bf=150 Tf=1.06E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6226_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6226, Key parameters: Is=5.31E-15 Bf=129 Tf=5E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6227_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6227, Key parameters: Is=5.31E-15 Bf=129 Tf=5E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6228_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6228, Key parameters: Is=5.31E-15 Bf=129 Tf=5E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6229_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6229, Key parameters: Is=7.97E-12 Bf=170 Tf=1.59E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6230_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6230, Key parameters: Is=7.97E-12 Bf=170 Tf=1.59E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6231_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N6231, Key parameters: Is=7.97E-12 Bf=170 Tf=1.59E-08</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6287_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6287, Key parameters: Is=1.439E-08 Bf=16000 Tf=1.592E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6378_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2N6378, Key parameters: Is=1.67E-11 Bf=100 Tf=2.153E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6436_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6436, Key parameters: Is=5.0336E-11 Bf=70 Tf=3.98E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6437_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6437, Key parameters: Is=1.30964E-13 Bf=100 Tf=2.99425E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6438_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6438, Key parameters: Is=5.0336E-11 Bf=70 Tf=3.98E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6609_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N6609, Key parameters: Is=1.21097E-13 Bf=80 Tf=1.0357E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6728_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National_Semiconductor, Basic Description: PNP Transistor, Part number: 2N6728, Key parameters: Is=3E-14 Bf=130 Tf=8.6E-10</DESCRIPTION>
+    <VENDOR>National_Semiconductor</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6729_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National_Semiconductor, Basic Description: PNP Transistor, Part number: 2N6729, Key parameters: Is=1.38015E-13 Bf=110.873 Tf=1.98511E-09</DESCRIPTION>
+    <VENDOR>National_Semiconductor</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6730_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National_Semiconductor, Basic Description: PNP Transistor, Part number: 2N6730, Key parameters: Is=3E-14 Bf=130 Tf=8.6E-10</DESCRIPTION>
+    <VENDOR>National_Semiconductor</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N6732_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National_Semiconductor, Basic Description: PNP Transistor, Part number: 2N6732, Key parameters: Is=3E-14 Bf=130 Tf=8.6E-10</DESCRIPTION>
+    <VENDOR>National_Semiconductor</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2N869A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2N869A, Key parameters: Is=7.92E-15 Bf=170 Tf=3.98E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1005_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1005, Key parameters: Is=3.06E-19 Bf=94 Tf=2.013E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1011_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1011, Key parameters: Is=1E-14 Bf=100 Tf=2.274E-08</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1015_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1015, Key parameters: Is=2.432E-14 Bf=167.3 Tf=3.5E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1037KS_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1037KS, Key parameters: Is=4.374E-13 Bf=225.2 Tf=3.1E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1052_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Hitachi, Basic Description: PNP Transistor, Part number: 2SA1052, Key parameters: Is=9.783E-15 Bf=200 Tf=2E-10</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1077_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1077, Key parameters: Is=8.47675E-17 Bf=120 Tf=2.4E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1083_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Hitachi, Basic Description: PNP Transistor, Part number: 2SA1083, Key parameters: Is=9.801E-14 Bf=517 Tf=1.176E-09</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1084_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1084, Key parameters: Is=4.5625423E-14 Bf=610 Tf=8.95E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1085_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1085, Key parameters: Is=4.5625423E-14 Bf=610 Tf=8.95E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1121_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Hitachi, Basic Description: PNP Transistor, Part number: 2SA1121, Key parameters: Is=6.198E-14 Bf=186 Tf=4E-10</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1152_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1152, Key parameters: Is=8.8456E-13 Bf=202 Tf=1.3E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1153_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1153, Key parameters: Is=2.42E-14 Bf=171 Tf=2.8E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1154_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1154, Key parameters: Is=4.71802E-16 Bf=210 Tf=1.082E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1161_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1161, Key parameters: Is=1.716E-16 Bf=76.47 Tf=4.55E-18</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1162_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1162, Key parameters: Is=2.432E-14 Bf=167.3 Tf=3.5E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1175_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1175, Key parameters: Is=6.884E-14 Bf=220 Tf=6.8E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1190_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Hitachi, Basic Description: PNP Transistor, Part number: 2SA1190, Key parameters: Is=5.744E-14 Bf=534 Tf=1.171E-09</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1206_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1206, Key parameters: Is=1.4929919E-13 Bf=125 Tf=5.5E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1225_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Toshiba, Basic Description: PNP Transistor, Part number: 2SA1225, Key parameters: Is=1E-14 Bf=135 Tf=1.307E-09</DESCRIPTION>
+    <VENDOR>Toshiba</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1226_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Hitachi, Basic Description: PNP Transistor, Part number: 2SA1226, Key parameters: Is=5.716E-16 Bf=128 Tf=1E-10</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1302_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1302, Key parameters: Is=5.276561E-08 Bf=140 Tf=4.667E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1330_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: 2SA1330, Key parameters: Is=4.902E-14 Bf=221 Tf=4E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1384_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Toshiba, Basic Description: PNP Transistor, Part number: 2SA1384, Key parameters: Is=1.642E-14 Bf=70.9 Tf=2E-09</DESCRIPTION>
+    <VENDOR>Toshiba</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1385_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1385, Key parameters: Is=2.36E-15 Bf=275 Tf=2.27E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1402_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1402, Key parameters: Is=2.345E-14 Bf=110 Tf=1.6E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1403_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1403, Key parameters: Is=1.416E-14 Bf=100 Tf=1.6E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1404_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1404, Key parameters: Is=2.454E-14 Bf=100 Tf=2.9E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1405_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1405, Key parameters: Is=4.666E-14 Bf=95 Tf=2.9E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1406_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1406, Key parameters: Is=2.09E-14 Bf=95 Tf=3.4E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1407_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1407, Key parameters: Is=2.09E-14 Bf=95 Tf=3.4E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1412_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1412, Key parameters: Is=6.4633E-13 Bf=63 Tf=5.685E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1424_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1424, Key parameters: Is=8.594669E-15 Bf=120 Tf=2.419E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1460_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1460, Key parameters: Is=1.69179E-11 Bf=130 Tf=3E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1464_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1464, Key parameters: Is=3.0642E-13 Bf=180 Tf=300.0P</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1494_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1494, Key parameters: Is=2.9938914E-09 Bf=148 Tf=6E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA1598_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA1598, Key parameters: Is=1E-14 Bf=290 Tf=2E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA490_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA490, Key parameters: Is=1.34E-12 Bf=67 Tf=1.414E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA495_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Toshiba, Basic Description: PNP Transistor, Part number: 2SA495, Key parameters: Is=1.921E-14 Bf=208 Tf=3.343E-11</DESCRIPTION>
+    <VENDOR>Toshiba</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA496_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA496, Key parameters: Is=1E-14 Bf=220 Tf=5.3E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA503_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA503, Key parameters: Is=2.1888E-13 Bf=200 Tf=3.6172E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA504_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA504, Key parameters: Is=2.1888E-13 Bf=200 Tf=3.6172E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA505_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA505, Key parameters: Is=1E-14 Bf=220 Tf=5.3E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA562_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Toshiba, Basic Description: PNP Transistor, Part number: 2SA562, Key parameters: Is=1E-14 Bf=195 Tf=1.307E-09</DESCRIPTION>
+    <VENDOR>Toshiba</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA673_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA673, Key parameters: Is=9.486E-11 Bf=115 Tf=5.75E-07</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA673A_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA673A, Key parameters: Is=9.486E-11 Bf=115 Tf=5.75E-07</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA733_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA733, Key parameters: Is=5.59E-14 Bf=205 Tf=7E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA739_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA739, Key parameters: Is=1.402E-12 Bf=110 Tf=1.061E-08</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA812_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA812, Key parameters: Is=3.752E-14 Bf=328 Tf=6E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA915_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA915, Key parameters: Is=2.5E-16 Bf=143 Tf=1.75E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA933_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA933, Key parameters: Is=5.66431E-13 Bf=270 Tf=2.8E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA958_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA958, Key parameters: Is=3.678E-09 Bf=190 Tf=7.958E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA965_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA965, Key parameters: Is=1.6202846E-10 Bf=185 Tf=7.26E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA968_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA968, Key parameters: Is=7.23823E-13 Bf=149 Tf=1.184E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA968A_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA968A, Key parameters: Is=7.23823E-13 Bf=149 Tf=1.184E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SA968B_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SA968B, Key parameters: Is=7.23823E-13 Bf=149 Tf=1.184E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB502A_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SB502A, Key parameters: Is=9.8797998E-09 Bf=110 Tf=2.3E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB503A_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SB503A, Key parameters: Is=9.8797998E-09 Bf=110 Tf=2.3E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB508_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SB508, Key parameters: Is=9.8797998E-09 Bf=110 Tf=2.3E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB546A_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SB546A, Key parameters: Is=1E-14 Bf=100 Tf=2.274E-08</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB605_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SB605, Key parameters: Is=4.70802E-16 Bf=210 Tf=1.082E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB633_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SB633, Key parameters: Is=1.3478E-11 Bf=145 Tf=1.989E-08</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB641_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National_Semiconductor, Basic Description: PNP Transistor, Part number: 2SB641, Key parameters: Is=1.093E-14 Bf=174 Tf=9.7E-10</DESCRIPTION>
+    <VENDOR>National_Semiconductor</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB649_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SB649, Key parameters: Is=2.935E-13 Bf=216 Tf=8.569E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB736_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SB736, Key parameters: Is=3.3113E-13 Bf=235 Tf=1.199E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB745_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National_Semiconductor, Basic Description: PNP Transistor, Part number: 2SB745, Key parameters: Is=4.138E-14 Bf=430 Tf=1.217E-09</DESCRIPTION>
+    <VENDOR>National_Semiconductor</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB804_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SB804, Key parameters: Is=4.642E-14 Bf=142.5 Tf=1.099E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB819_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National_Semiconductor, Basic Description: PNP Transistor, Part number: 2SB819, Key parameters: Is=2.276E-13 Bf=289 Tf=4.58E-10</DESCRIPTION>
+    <VENDOR>National_Semiconductor</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB857_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: 2SB857, Key parameters: Is=1.258E-12 Bf=116 Tf=3.43E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB953_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National_Semiconductor, Basic Description: PNP Transistor, Part number: 2SB953, Key parameters: Is=8.215E-13 Bf=250 Tf=8E-10</DESCRIPTION>
+    <VENDOR>National_Semiconductor</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_2SB976_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National_Semiconductor, Basic Description: PNP Transistor, Part number: 2SB976, Key parameters: Is=6.59E-13 Bf=502 Tf=3.43E-11</DESCRIPTION>
+    <VENDOR>National_Semiconductor</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_AT802_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: AT802, Key parameters: Is=8.752E-16 Bf=75.2 Tf=1.7684E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_BC327_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: BC327, Key parameters: Is=4.14952E-14 Bf=222.462528 Tf=1.8167E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_BC556_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: BC556, Key parameters: Is=2.12687E-14 Bf=255.4867 Tf=7.64117E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_BC557A_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: BC557A, Key parameters: Is=1.72533E-14 Bf=349.8457293 Tf=3.6491E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_BC640_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: BC640, Key parameters: Is=6.93724E-14 Bf=183.6625677 Tf=9.93472345E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_BCX17_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: BCX17, Key parameters: Is=9.96378E-15 Bf=301.8299468</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_BCY79_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: BCY79, Key parameters: Is=8.65065E-15 Bf=213.9245626 Tf=7.99892E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_BD244_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: BD244, Key parameters: Is=5E-13 Bf=70 Tf=9.98932E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_CA3096P_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: CA3096P, Key parameters: Is=5.03463E-15 Bf=83.4128364 Tf=4.343453E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_D45H10_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: D45H10, Key parameters: Is=6.31E-13 Bf=115 Tf=2.158E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_D45H11_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: D45H11, Key parameters: Is=6E-13 Bf=100 Tf=8.99901E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_D45H1_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: D45H1, Key parameters: Is=6.31E-13 Bf=115 Tf=2.158E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_D45H2_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: D45H2, Key parameters: Is=6.31E-13 Bf=115 Tf=2.158E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_D45H4_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: D45H4, Key parameters: Is=6.31E-13 Bf=115 Tf=2.158E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_D45H5_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: D45H5, Key parameters: Is=6.31E-13 Bf=115 Tf=2.158E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_D45H7_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: D45H7, Key parameters: Is=6.31E-13 Bf=115 Tf=2.158E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_D45H8_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: D45H8, Key parameters: Is=6.31E-13 Bf=115 Tf=2.158E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_IDEALPNP_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: IDEALPNP, Key parameters: Bf=75</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_LT5839_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: LT5839, Key parameters: Is=5.036433E-15 Bf=101.9374365 Tf=1.84323E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MD3250_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MD3250, Key parameters: Is=1E-13 Bf=77 Tf=9E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJ11017_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MJ11017, Key parameters: Is=1.931E-09 Bf=69 Tf=6E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJ15016_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MJ15016, Key parameters: Is=1.002E-11 Bf=200 Tf=2.27E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJ15023_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MJ15023, Key parameters: Is=1.754E-13 Bf=82 Tf=1.99E-08</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJ15025_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MJ15025, Key parameters: Is=2E-13 Bf=50 Tf=7.34343E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJ15051_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MJ15051, Key parameters: Is=7.404E-12 Bf=130 Tf=1.65E-08</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJ2955_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MJ2955, Key parameters: Is=3.00963E-13 Bf=100 Tf=9.63384E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJ2955A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MJ2955A, Key parameters: Is=1.002E-11 Bf=200 Tf=2.27E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJ6502_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MJ6502, Key parameters: Is=1.2284E-11 Bf=68 Tf=2.4E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJ6503_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MJ6503, Key parameters: Is=1.2284E-11 Bf=68 Tf=2.4E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJE15029_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MJE15029, Key parameters: Is=2E-13 Bf=100 Tf=1.50765E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJE15031_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MJE15031, Key parameters: Is=1.3717E-10 Bf=150 Tf=1.872E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJE170_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MJE170, Key parameters: Is=9.8797998E-09 Bf=110 Tf=2.3E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJE171_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MJE171, Key parameters: Is=9.8797998E-09 Bf=110 Tf=2.3E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJE172_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MJE172, Key parameters: Is=9.8797998E-09 Bf=110 Tf=2.3E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJE350_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MJE350, Key parameters: Is=1.402E-12 Bf=110 Tf=1.061E-08</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJE6040_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MJE6040, Key parameters: Is=1.011E-15 Bf=35000 Tf=1.5E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJE6041_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MJE6041, Key parameters: Is=1.011E-15 Bf=35000 Tf=1.5E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MJE6042_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MJE6042, Key parameters: Is=1.011E-15 Bf=35000 Tf=1.5E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MM2907_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MM2907, Key parameters: Is=1.57469E-14 Bf=171.7934545 Tf=5.01063E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MM4049_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MM4049, Key parameters: Is=2.69428E-16 Bf=44.1701654 Tf=1.393246E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MMBR4957_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MMBR4957, Key parameters: Is=9.52924E-17 Bf=139.7570565 Tf=2.57295E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MMBT3906_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MMBT3906, Key parameters: Is=1.11065E-14 Bf=308.3276581 Tf=5.324257E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPQ2907_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MPQ2907, Key parameters: Is=2.43636E-11 Bf=196.2536248 Tf=4.38364E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS3640_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPS3640, Key parameters: Is=1.79969E-15 Bf=347.216 Tf=1.1E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS4126_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MPS4126, Key parameters: Is=1.0141E-14 Bf=219.7897252</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6651_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MPS6651, Key parameters: Is=8.16163E-14 Bf=264.8822966 Tf=2.58777E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS8598_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MPS8598, Key parameters: Is=2.05509E-14 Bf=215.3209385 Tf=5.80551E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS8599_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MPS8599, Key parameters: Is=1.53E-14 Bf=234.8234</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSA55_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MPSA55, Key parameters: Is=5.15913E-14 Bf=144.796 Tf=2.82212E-10</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSA56_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPSA56, Key parameters: Is=5.7789E-14 Bf=184.1202394 Tf=1.17579E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSA92_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPSA92, Key parameters: Is=2.32842E-14 Bf=164.78 Tf=7.3537E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSA93_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPSA93, Key parameters: Is=1E-14 Bf=105 Tf=1.25E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSH81_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPSH81, Key parameters: Is=3.66396E-16 Bf=194.407 Tf=1.69575E-10</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSU60_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MPSU60, Key parameters: Is=2.154435E-14 Bf=97 Tf=1E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MRF521_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MRF521, Key parameters: Is=5.73491E-16 Bf=67.087485</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MRF524_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MRF524, Key parameters: Is=1.22527E-15 Bf=73.6647327 Tf=3.43254E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MRF536_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MRF536, Key parameters: Is=1.54393E-15 Bf=81.3763478 Tf=2.89896E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MRF543_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MRF543, Key parameters: Is=1.35658E-15 Bf=34.7346345</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MRF545_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MRF545, Key parameters: Is=1.69968E-14 Bf=87.7309848</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MRF547_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MRF547, Key parameters: Is=8.43592E-15 Bf=61.6907296</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MRF549_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: MRF549, Key parameters: Is=7.03849E-15 Bf=146.4734383</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP127_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP127, Key parameters: Is=7.716E-09 Bf=12000 Tf=1.592E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP30_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP30, Key parameters: Is=2.54635E-13 Bf=101.5634637 Tf=1.71198E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP30A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP30A, Key parameters: Is=1.08365E-12 Bf=77.7386466 Tf=6.87237E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP30B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP30B, Key parameters: Is=1E-14 Bf=100 Tf=2.274E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP30C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP30C, Key parameters: Is=1.55237E-13 Bf=268.9436563 Tf=7.93583E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP30D_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP30D, Key parameters: Is=7.63464E-13 Bf=254.8343645 Tf=1.10852E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP30E_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP30E, Key parameters: Is=1E-14 Bf=100 Tf=2.274E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP30F_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP30F, Key parameters: Is=1E-14 Bf=100 Tf=2.274E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP32_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP32, Key parameters: Is=1.7573E-11 Bf=195 Tf=1.989E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP32A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP32A, Key parameters: Is=1.7573E-11 Bf=195 Tf=1.989E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP32B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP32B, Key parameters: Is=1.7573E-11 Bf=195 Tf=1.989E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP32C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP32C, Key parameters: Is=1.7573E-11 Bf=195 Tf=1.989E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP42_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP42, Key parameters: Is=1.3478E-11 Bf=145 Tf=1.989E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP42A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP42A, Key parameters: Is=1.3478E-11 Bf=145 Tf=1.989E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP42B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP42B, Key parameters: Is=1.3478E-11 Bf=145 Tf=1.989E-08</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIP42C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: TIP42C, Key parameters: Is=6.64115E-13 Bf=100 Tf=6.1234E-09</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIS93_19930601</NAME>
+    <DESCRIPTION>Basic Description: PNP Transistor, Part number: TIS93, Key parameters: Is=5.12864E-14 Bf=150 Tf=2.4E-09</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_DH3467CD_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: DH3467CD, Package: Ceramic, Key parameters: Is=336.7e-15 Bf=118.1 Tf=800e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_DH3467CN_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: DH3467CN, Package: Molded, Key parameters: Is=336.7e-15 Bf=118.1 Tf=800e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_DH3468CD_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: DH3468CD, Package: Ceramic, Key parameters: Is=336.7e-15 Bf=73.94 Tf=800e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_DH3468CN_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: DH3468CN, Package: Molded, Key parameters: Is=336.7e-15 Bf=73.94 Tf=800e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MM3905_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MM3905, Package: TO-52, Key parameters: Is=62.33e-15 Bf=100.2 Tf=553.5e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MM3906_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MM3906, Package: TO-52, Key parameters: Is=62.33e-15 Bf=195.8 Tf=438.1e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MM4001_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MM4001, Package: TO-39, Key parameters: Is=1.224e-12 Bf=80.26 Tf=526.3e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MM4258_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MM4258, Package: TO-18, Key parameters: Is=704.9E-18 Bf=2.268e3 Tf=100.6e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS2907_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPS2907, Package: TO-92, Key parameters: Is=4.661e-15 Bf=402.8 Tf=417.6e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS3638_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS3638, Package: TO-92, Key parameters: Is=650.6E-18 Bf=63.49 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS3638A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS3638A, Package: TO-92, Key parameters: Is=650.6E-18 Bf=164.7 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS3639_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS3639, Package: TO-92, Key parameters: Is=545.6E-18 Bf=59.22 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS3640_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS3640, Package: TO-92, Key parameters: Is=545.6E-18 Bf=59.22 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS3644_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS3644, Package: TO-92, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS3645_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS3645, Package: TO-92, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS3702_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS3702, Package: TO-92, Key parameters: Is=650.6E-18 Bf=133.8 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS3703_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS3703, Package: TO-92, Key parameters: Is=650.6E-18 Bf=66.92 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS3905_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS3905, Package: TO-92, Key parameters: Is=1.41e-15 Bf=90.35 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS3906_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS3906, Package: TO-92, Key parameters: Is=1.41e-15 Bf=180.7 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS4258_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPS4258, Package: TO-92, Key parameters: Is=150.1E-18 Bf=218.5 Tf=111.1e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS4354_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS4354, Package: TO-92, Key parameters: Is=12.27e-12 Bf=154.9 Tf=866.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS4355_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS4355, Package: TO-92, Key parameters: Is=12.27e-12 Bf=194.8 Tf=867e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS4356_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS4356, Package: TO-92, Key parameters: Is=12.27e-12 Bf=110.2 Tf=866.1e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6516_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS6516, Package: TO-92, Key parameters: Is=1.41e-15 Bf=97.44 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6517_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS6517, Package: TO-92, Key parameters: Is=1.41e-15 Bf=175.4 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6518_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS6518, Package: TO-92, Key parameters: Is=1.41e-15 Bf=292.3 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6519_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPS6519, Package: TO-92, Key parameters: Is=6.277e-15 Bf=549.9 Tf=228.3e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6522_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPS6522, Package: TO-92, Key parameters: Is=3.983e-15 Bf=479.5 Tf=344e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6523_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS6523, Package: TO-92, Key parameters: Is=6.734e-15 Bf=446.6 Tf=468e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6533_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS6533, Package: TO-92, Key parameters: Is=650.6E-18 Bf=77.22 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6534_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS6534, Package: TO-92, Key parameters: Is=650.6E-18 Bf=173.2 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6535_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS6535, Package: TO-92, Key parameters: Is=650.6E-18 Bf=70.35 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6562_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS6562, Package: TO-92, Key parameters: Is=12.27e-12 Bf=121 Tf=866.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6563_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPS6563, Package: TO-92, Key parameters: Is=3.771e-15 Bf=146.6 Tf=449e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6651_19930602</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPS6651, Package: TO-92, Key parameters: Is=53.11e-15 Bf=152.5 Tf=671.7e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6726_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPS6726, Package: TO-92, Key parameters: Is=24.64e-15 Bf=154.5 Tf=645.4e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6727_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPS6727, Package: TO-92, Key parameters: Is=24.64e-15 Bf=154.5 Tf=645.4e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6728_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPS6728, Package: TO-92, Key parameters: Is=9.348e-15 Bf=166.8 Tf=685.2e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS6729_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPS6729, Package: TO-92, Key parameters: Is=9.348e-15 Bf=166.8 Tf=685.2e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS8598_19930602</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPS8598, Package: TO-92, Key parameters: Is=10.68e-15 Bf=187.7 Tf=591.1e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPS8599_19930602</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPS8599, Package: TO-92, Key parameters: Is=10.68e-15 Bf=187.7 Tf=591.1e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSA55_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPSA55, Package: TO-92, Key parameters: Is=12.27e-12 Bf=91.63 Tf=865.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSA56_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPSA56, Package: TO-92, Key parameters: Is=12.27e-12 Bf=91.63 Tf=865.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSA70_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPSA70, Package: TO-92, Key parameters: Is=6.734e-15 Bf=144.4 Tf=467.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSA92_19930602</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPSA92, Package: TO-92, Key parameters: Is=218.9e-15 Bf=99 Tf=1.395e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSA93_19930602</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPSA93, Package: TO-92, Key parameters: Is=218.9e-15 Bf=99 Tf=1.395e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSL51_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: MPSL51, Package: TO-92, Key parameters: Is=21.48e-15 Bf=116.7 Tf=639.1e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSW51_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPSW51, Package: TO-92, Key parameters: Is=24.64e-15 Bf=154.5 Tf=645.4e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSW51A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPSW51A, Package: TO-92, Key parameters: Is=24.64e-15 Bf=154.5 Tf=645.4e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSW55_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPSW55, Package: TO-92, Key parameters: Is=9.348e-15 Bf=166.8 Tf=685.2e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSW56_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPSW56, Package: TO-92, Key parameters: Is=9.348e-15 Bf=166.8 Tf=685.2e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSW60_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPSW60, Package: TO-92, Key parameters: Is=40.74e-15 Bf=105 Tf=1.654e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSW92_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPSW92, Package: TO-92, Key parameters: Is=40.74e-15 Bf=105 Tf=1.654e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_MPSW93_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: MPSW93, Package: TO-92, Key parameters: Is=40.74e-15 Bf=105 Tf=1.654e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_NS3762_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: NS3762, Package: TO-39, Key parameters: Is=336.7e-15 Bf=102.7 Tf=800e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_NS3763_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: NS3763, Package: TO-39, Key parameters: Is=336.7e-15 Bf=88.32 Tf=800e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_NS3905_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: NS3905, Package: TO-18, Key parameters: Is=1.41e-15 Bf=90.35 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_NS3906_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: NS3906, Package: TO-18, Key parameters: Is=1.41e-15 Bf=180.7 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_NS4234_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: NS4234, Package: TO-39, Key parameters: Is=12.27e-12 Bf=71.49 Tf=285.2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN2906_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN2906, Package: TO-92, Key parameters: Is=650.6E-18 Bf=94.38 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN2906A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN2906A, Package: TO-92, Key parameters: Is=650.6E-18 Bf=94.38 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN2907_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN2907, Package: TO-92, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN2907A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN2907A, Package: TO-92, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN3638_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN3638, Package: TO-92, Key parameters: Is=650.6E-18 Bf=63.49 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN3638A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN3638A, Package: TO-92, Key parameters: Is=650.6E-18 Bf=164.7 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN3639_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN3639, Package: TO-92, Key parameters: Is=545.6E-18 Bf=59.22 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN3640_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN3640, Package: TO-92, Key parameters: Is=545.6E-18 Bf=59.22 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN3644_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN3644, Package: TO-92, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN3645_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN3645, Package: TO-92, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4121_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4121, Package: TO-92, Key parameters: Is=1.41e-15 Bf=122.2 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4122_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4122, Package: TO-92, Key parameters: Is=1.41e-15 Bf=219.7 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4142_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4142, Package: TO-92, Key parameters: Is=650.6E-18 Bf=94.38 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4143_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4143, Package: TO-92, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4248_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4248, Package: TO-92, Key parameters: Is=6.734e-15 Bf=122.3 Tf=467.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4249_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4249, Package: TO-92, Key parameters: Is=6.734e-15 Bf=161.4 Tf=467.4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4250_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4250, Package: TO-92, Key parameters: Is=6.734e-15 Bf=388.2 Tf=467.9e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4250A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4250A, Package: TO-92, Key parameters: Is=6.734e-15 Bf=388.2 Tf=467.9e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4258_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4258, Package: TO-92, Key parameters: Is=545.6E-18 Bf=61.42 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4258A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4258A, Package: TO-92, Key parameters: Is=545.6E-18 Bf=61.42 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4354_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4354, Package: TO-92, Key parameters: Is=12.27e-12 Bf=154.9 Tf=866.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4355_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4355, Package: TO-92, Key parameters: Is=12.27e-12 Bf=194.8 Tf=867e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4356_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4356, Package: TO-92, Key parameters: Is=12.27e-12 Bf=110.2 Tf=866.1e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4916_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4916, Package: TO-92, Key parameters: Is=1.41e-15 Bf=77.95 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN4917_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN4917, Package: TO-92, Key parameters: Is=1.41e-15 Bf=219.7 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN5138_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN5138, Package: TO-92, Key parameters: Is=1.41e-15 Bf=274.6 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN5139_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN5139, Package: TO-92, Key parameters: Is=1.41e-15 Bf=235.6 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN5140_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN5140, Package: TO-92, Key parameters: Is=545.6E-18 Bf=27.42 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN5142_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN5142, Package: TO-92, Key parameters: Is=650.6E-18 Bf=65.21 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN5143_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN5143, Package: TO-92, Key parameters: Is=650.6E-18 Bf=65.21 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN5447_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN5447, Package: TO-92, Key parameters: Is=12.27e-12 Bf=128.7 Tf=872.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_PN5910_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: PN5910, Package: TO-92, Key parameters: Is=545.6E-18 Bf=59.22 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N1132_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N1132, Package: TO-5, Key parameters: Is=650.6E-18 Bf=70.35 Tf=757.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N1132A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N1132A, Package: TO-39, Key parameters: Is=3.919e-15 Bf=65.87 Tf=1.124e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N2604_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N2604, Package: TO-46, Key parameters: Is=6.734e-15 Bf=66.17 Tf=466.9e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N2605_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N2605, Package: TO-46, Key parameters: Is=6.734e-15 Bf=163.8 Tf=467.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N2696_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N2696, Package: TO-18, Key parameters: Is=650.6E-18 Bf=60.06 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N2894_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N2894, Package: TO-52, Key parameters: Is=867.6E-18 Bf=90.02 Tf=160.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N2894A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N2894A, Package: TO-52, Key parameters: Is=867.6E-18 Bf=81.33 Tf=161.2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N2904_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N2904, Package: TO-5, Key parameters: Is=650.6E-18 Bf=94.38 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N2904A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N2904A, Package: TO-5, Key parameters: Is=650.6E-18 Bf=68.64 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N2905_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N2905, Package: TO-5, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N2905A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N2905A, Package: TO-5, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N2906_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N2906, Package: TO-18, Key parameters: Is=650.6E-18 Bf=94.38 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N2906A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N2906A, Package: TO-18, Key parameters: Is=650.6E-18 Bf=94.38 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N2907_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N2907, Package: TO-18, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N2907A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N2907A, Package: TO-18, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3012_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3012, Package: TO-52, Key parameters: Is=867.6E-18 Bf=70.34 Tf=160.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3072_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3072, Package: TO-5, Key parameters: Is=650.6E-18 Bf=60.06 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3073_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3073, Package: TO-18, Key parameters: Is=650.6E-18 Bf=60.06 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3120_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3120, Package: TO-5, Key parameters: Is=650.6E-18 Bf=60.06 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3121_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3121, Package: TO-18, Key parameters: Is=650.6E-18 Bf=60.06 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3133_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3133, Package: TO-5, Key parameters: Is=650.6E-18 Bf=94.38 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3134_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3134, Package: TO-5, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3135_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3135, Package: TO-18, Key parameters: Is=650.6E-18 Bf=94.38 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3136_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3136, Package: TO-18, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3209_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3209, Package: TO-52, Key parameters: Is=867.6E-18 Bf=70.34 Tf=160.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3244_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3244, Package: TO-39, Key parameters: Is=336.7e-15 Bf=149 Tf=800e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3245_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3245, Package: TO-39, Key parameters: Is=336.7e-15 Bf=89.34 Tf=800e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3248_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3248, Package: TO-52, Key parameters: Is=867.6E-18 Bf=90.02 Tf=160.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3249_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3249, Package: TO-52, Key parameters: Is=867.6E-18 Bf=181.4 Tf=160.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3250_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3250, Package: TO-18, Key parameters: Is=1.41e-15 Bf=90.35 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3250A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N3250A, Package: TO-18, Key parameters: Is=62.33e-15 Bf=100.2 Tf=438e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3251_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3251, Package: TO-18, Key parameters: Is=1.41e-15 Bf=180.7 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3251A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N3251A, Package: TO-18, Key parameters: Is=62.33e-15 Bf=195.8 Tf=364.9e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3304_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3304, Package: TO-52, Key parameters: Is=545.6E-18 Bf=59.22 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3451_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3451, Package: TO-52, Key parameters: Is=545.6E-18 Bf=59.22 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3467_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3467, Package: TO-39, Key parameters: Is=336.7e-15 Bf=118.1 Tf=800e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3468_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3468, Package: TO-39, Key parameters: Is=336.7e-15 Bf=73.94 Tf=800e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3485_19930601</NAME>
+    <DESCRIPTION>Manufacturer: TI, Basic Description: PNP Transistor, Part number: Q2N3485, Package: TO-46, Key parameters: Is=9.913e-15 Bf=81.67 Tf=404.3e-12</DESCRIPTION>
+    <VENDOR>TI</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3485A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N3485A, Package: TO-46, Key parameters: Is=3.919e-15 Bf=88.75 Tf=533e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3486_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N3486, Package: TO-46, Key parameters: Is=3.919e-15 Bf=151 Tf=533e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3486A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N3486A, Package: TO-46, Key parameters: Is=3.919e-15 Bf=222.3 Tf=533e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3502_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3502, Package: TO-5, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3503_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3503, Package: TO-5, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3504_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3504, Package: TO-18, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3505_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3505, Package: TO-18, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3545_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3545, Package: TO-52, Key parameters: Is=867.6E-18 Bf=74.77 Tf=160.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3546_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3546, Package: TO-52, Key parameters: Is=867.6E-18 Bf=64.79 Tf=160.9e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3547_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3547, Package: TO-18, Key parameters: Is=6.734e-15 Bf=207.8 Tf=467.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3548_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3548, Package: TO-18, Key parameters: Is=6.734e-15 Bf=163.8 Tf=568.9e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3549_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3549, Package: TO-18, Key parameters: Is=6.734e-15 Bf=207.8 Tf=569.1e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3550_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3550, Package: TO-18, Key parameters: Is=6.734e-15 Bf=324.8 Tf=569.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3576_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3576, Package: TO-52, Key parameters: Is=867.6E-18 Bf=74.77 Tf=161.1e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3634_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N3634, Package: TO-39, Key parameters: Is=1.224e-12 Bf=89.45 Tf=520e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3635_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N3635, Package: TO-39, Key parameters: Is=1.224e-12 Bf=207.9 Tf=526.9e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3636_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N3636, Package: TO-39, Key parameters: Is=1.224e-12 Bf=97.09 Tf=524.7e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3637_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N3637, Package: TO-39, Key parameters: Is=1.224e-12 Bf=176.6 Tf=526.8e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3638_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3638, Package: TO-92, Key parameters: Is=650.6E-18 Bf=63.49 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3638A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3638A, Package: TO-92, Key parameters: Is=650.6E-18 Bf=164.7 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3639_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3639, Package: TO-92, Key parameters: Is=545.6E-18 Bf=59.22 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3640_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3640, Package: TO-92, Key parameters: Is=545.6E-18 Bf=59.22 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3644_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3644, Package: TO-92, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3645_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3645, Package: TO-92, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3702_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3702, Package: TO-92, Key parameters: Is=650.6E-18 Bf=133.8 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3703_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3703, Package: TO-92, Key parameters: Is=650.6E-18 Bf=66.92 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3762_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N3762, Package: TO-39, Key parameters: Is=7.894e-15 Bf=4.2K Tf=556.3e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3763_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N3763, Package: TO-39, Key parameters: Is=7.894e-15 Bf=2.8K Tf=556.3e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3799_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3799, Package: TO-18, Key parameters: Is=6.734e-15 Bf=478.3 Tf=569.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3905_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3905, Package: TO-92, Key parameters: Is=1.41e-15 Bf=90.35 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N3906_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N3906, Package: TO-92, Key parameters: Is=1.41e-15 Bf=180.7 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4058_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4058, Package: TO-92, Key parameters: Is=6.734e-15 Bf=185.8 Tf=568.9e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4059_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4059, Package: TO-92, Key parameters: Is=6.734e-15 Bf=161.4 Tf=467.4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4061_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4061, Package: TO-92, Key parameters: Is=6.734e-15 Bf=161.4 Tf=467.4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4062_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4062, Package: TO-92, Key parameters: Is=6.734e-15 Bf=319.9 Tf=467.9e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4121_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4121, Package: TO-92, Key parameters: Is=1.41e-15 Bf=122.2 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4122_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4122, Package: TO-92, Key parameters: Is=1.41e-15 Bf=219.7 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4125_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4125, Package: TO-92, Key parameters: Is=1.41e-15 Bf=85.04 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4126_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4126, Package: TO-92, Key parameters: Is=1.41e-15 Bf=203.7 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4142_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4142, Package: TO-92, Key parameters: Is=650.6E-18 Bf=94.38 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4143_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4143, Package: TO-92, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4208_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4208, Package: TO-52, Key parameters: Is=545.6E-18 Bf=59.22 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4209_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4209, Package: TO-52, Key parameters: Is=545.6E-18 Bf=76.77 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4234_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N4234, Package: TO-39, Key parameters: Is=8.528e-15 Bf=128.3 Tf=26.44e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4235_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N4235, Package: TO-39, Key parameters: Is=8.528e-15 Bf=128.3 Tf=26.44e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4236_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N4236, Package: TO-39, Key parameters: Is=8.528e-15 Bf=128.3 Tf=26.44e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4248_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4248, Package: TO-92, Key parameters: Is=6.734e-15 Bf=122.3 Tf=467.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4249_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4249, Package: TO-92, Key parameters: Is=6.734e-15 Bf=161.4 Tf=467.4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4250_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4250, Package: TO-92, Key parameters: Is=6.734e-15 Bf=388.2 Tf=467.9e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4250A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4250A, Package: TO-92, Key parameters: Is=6.734e-15 Bf=388.2 Tf=467.9e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4258_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4258, Package: TO-92, Key parameters: Is=545.6E-18 Bf=61.42 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4258A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4258A, Package: TO-92, Key parameters: Is=545.6E-18 Bf=61.42 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4260_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N4260, Package: TO-72, Key parameters: Is=22.2e-15 Bf=71.78 Tf=28.97e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4261_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N4261, Package: TO-72, Key parameters: Is=22.2e-15 Bf=71.78 Tf=27.59e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4288_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4288, Package: TO-92, Key parameters: Is=6.734e-15 Bf=278.4 Tf=467.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4289_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4289, Package: TO-92, Key parameters: Is=6.734e-15 Bf=278.4 Tf=467.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4290_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4290, Package: TO-92, Key parameters: Is=650.6E-18 Bf=145.9 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4291_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4291, Package: TO-92, Key parameters: Is=650.6E-18 Bf=207.6 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4354_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4354, Package: TO-92, Key parameters: Is=12.27e-12 Bf=154.9 Tf=866.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4355_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4355, Package: TO-92, Key parameters: Is=12.27e-12 Bf=194.8 Tf=867e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4356_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4356, Package: TO-92, Key parameters: Is=12.27e-12 Bf=110.2 Tf=866.1e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4402_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4402, Package: TO-92, Key parameters: Is=650.6E-18 Bf=108 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4403_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4403, Package: TO-92, Key parameters: Is=650.6E-18 Bf=216.2 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4404_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N4404, Package: TO-39, Key parameters: Is=163.9e-15 Bf=74.25 Tf=387.8e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4405_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N4405, Package: TO-39, Key parameters: Is=163.9e-15 Bf=185.4 Tf=388e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4406_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N4406, Package: TO-39, Key parameters: Is=25.18e-15 Bf=70.06 Tf=342.7e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4407_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N4407, Package: TO-39, Key parameters: Is=25.18e-15 Bf=161.8 Tf=342.7e-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4916_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4916, Package: TO-92, Key parameters: Is=1.41e-15 Bf=77.95 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4917_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4917, Package: TO-92, Key parameters: Is=1.41e-15 Bf=219.7 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4964_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4964, Package: TO-92, Key parameters: Is=6.734e-15 Bf=144.4 Tf=467.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4965_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4965, Package: TO-92, Key parameters: Is=6.734e-15 Bf=254.1 Tf=467.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4971_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4971, Package: TO-92, Key parameters: Is=650.6E-18 Bf=94.38 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N4972_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N4972, Package: TO-92, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5022_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5022, Package: TO-39, Key parameters: Is=336.7e-15 Bf=86.26 Tf=800e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5023_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5023, Package: TO-39, Key parameters: Is=336.7e-15 Bf=108.9 Tf=800e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5056_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5056, Package: TO-52, Key parameters: Is=867.6E-18 Bf=64.79 Tf=161.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5057_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5057, Package: TO-52, Key parameters: Is=867.6E-18 Bf=74.77 Tf=161.1e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5086_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5086, Package: TO-92, Key parameters: Is=6.734e-15 Bf=254.1 Tf=467.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5087_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5087, Package: TO-92, Key parameters: Is=6.734e-15 Bf=254.1 Tf=467.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5138_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5138, Package: TO-92, Key parameters: Is=1.41e-15 Bf=274.6 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5139_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5139, Package: TO-92, Key parameters: Is=1.41e-15 Bf=235.6 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5140_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5140, Package: TO-92, Key parameters: Is=545.6E-18 Bf=27.42 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5142_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5142, Package: TO-92, Key parameters: Is=650.6E-18 Bf=65.21 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5143_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5143, Package: TO-92, Key parameters: Is=650.6E-18 Bf=65.21 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5221_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5221, Package: TO-92, Key parameters: Is=650.6E-18 Bf=138.8 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5226_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5226, Package: TO-92, Key parameters: Is=650.6E-18 Bf=138.8 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5227_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5227, Package: TO-92, Key parameters: Is=6.734e-15 Bf=198 Tf=467.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5354_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5354, Package: TO-92, Key parameters: Is=650.6E-18 Bf=66.92 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5355_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5355, Package: TO-92, Key parameters: Is=650.6E-18 Bf=166.3 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5365_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5365, Package: TO-92, Key parameters: Is=650.6E-18 Bf=66.92 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5366_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5366, Package: TO-92, Key parameters: Is=650.6E-18 Bf=166.3 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5400_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5400, Package: TO-92, Key parameters: Is=21.48e-15 Bf=93.44 Tf=641.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5401_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5401, Package: TO-92, Key parameters: Is=21.48e-15 Bf=132.1 Tf=641.9e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5415_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N5415, Package: TO-39, Key parameters: Is=77.48e-15 Bf=60.15 Tf=3.386e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5416_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N5416, Package: TO-39, Key parameters: Is=77.48e-15 Bf=53.77 Tf=3.386e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5447_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5447, Package: TO-92, Key parameters: Is=650.6E-18 Bf=133.8 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5448_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5448, Package: TO-92, Key parameters: Is=12.27e-12 Bf=65.28 Tf=871.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5679_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N5679, Package: TO-39, Key parameters: Is=20.75e-15 Bf=87.7 Tf=1.191e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5680_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N5680, Package: TO-39, Key parameters: Is=20.75e-15 Bf=87.7 Tf=1.191e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5771_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5771, Package: TO-92, Key parameters: Is=545.6E-18 Bf=76.77 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5817_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5817, Package: TO-92, Key parameters: Is=650.6E-18 Bf=127 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N5910_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N5910, Package: TO-92, Key parameters: Is=545.6E-18 Bf=59.22 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N6518_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N6518, Package: TO-92, Key parameters: Is=34.9e-15 Bf=139.5 Tf=1.648e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N6519_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N6519, Package: TO-92, Key parameters: Is=34.9e-15 Bf=125.7 Tf=1.649e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N6520_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PNP Transistor, Part number: Q2N6520, Package: TO-92, Key parameters: Is=34.9e-15 Bf=90.34 Tf=1.648e-9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N722_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N722, Package: TO-18, Key parameters: Is=650.6E-18 Bf=70.35 Tf=757.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N869_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N869, Package: TO-52, Key parameters: Is=867.6E-18 Bf=54.93 Tf=160.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N869A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N869A, Package: TO-52, Key parameters: Is=867.6E-18 Bf=81.33 Tf=160.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N995_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N995, Package: TO-52, Key parameters: Is=867.6E-18 Bf=80.2 Tf=160.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_Q2N995A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: Q2N995A, Package: TO-52, Key parameters: Is=867.6E-18 Bf=71.34 Tf=160.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_ST3906_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: ST3906, Package: TO-92, Key parameters: Is=1.41e-15 Bf=180.7 Tf=179.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_ST5771_1_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: ST5771-1, Package: TO-92, Key parameters: Is=545.6E-18 Bf=66.9 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_ST5771_2_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: ST5771-2, Package: TO-92, Key parameters: Is=545.6E-18 Bf=76.77 Tf=118.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIS91_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: TIS91, Package: TO-92, Key parameters: Is=650.6E-18 Bf=168.2 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TIS93_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: TIS93, Package: TO-92, Key parameters: Is=650.6E-18 Bf=168.2 Tf=761.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TN2904A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: TN2904A, Package: TO-237, Key parameters: Is=650.6E-18 Bf=94.38 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TN2905_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: TN2905, Package: TO-237, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TN2905A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: TN2905A, Package: TO-237, Key parameters: Is=650.6E-18 Bf=231.7 Tf=603.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TN4036_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: TN4036, Package: TO-237, Key parameters: Is=12.27e-12 Bf=82.34 Tf=865.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pnp_TN4037_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PNP Transistor, Part number: TN4037, Package: TO-237, Key parameters: Is=12.27e-12 Bf=121 Tf=866.3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+</COMPONENTS>

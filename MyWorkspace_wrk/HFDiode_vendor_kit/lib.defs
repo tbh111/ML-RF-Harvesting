@@ -1,0 +1,5 @@
+# ADS technology library definitions file
+INCLUDE  $HPEESOF_DIR/oalibs/tech.defs
+
+DEFINE HFDiode ./HFDiode
+ASSIGN HFDiode libMode readOnly

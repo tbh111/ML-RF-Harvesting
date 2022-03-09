@@ -1,0 +1,735 @@
+<?xml version="1.0" ?>
+<COMPONENTS>
+ <COMPONENT>
+    <NAME>ap_pms_2SJ130_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Hitachi, Basic Description: PMOS Transistor, Part number: 2SJ130, Key parameters: Vto=-3.045 Kp=0.46</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IDEALPMOS_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IDEALPMOS, Key parameters: Vto=-1 Kp=1E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IFP5P12_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IFP5P12, Key parameters: Vto=-4.484 Kp=1.27</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9130_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: PMOS Transistor, Part number: IRF9130, Key parameters: Vto=-3.485 Kp=5.02</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9131_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: PMOS Transistor, Part number: IRF9131, Key parameters: Vto=-3.485 Kp=5.02</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9132_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRF9132, Key parameters: Vto=-3.485 Kp=5.02</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9133_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: PMOS Transistor, Part number: IRF9133, Key parameters: Vto=-3.485 Kp=5.02</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9140_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRF9140, Key parameters: Vto=-3.2 Kp=3.51</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9214_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRF9214, Key parameters: Vto=-3.549 Kp=3.168</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9240_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: PMOS Transistor, Part number: IRF9240, Key parameters: Vto=-3.549 Kp=3.168</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9242_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRF9242, Key parameters: Vto=-3.549 Kp=3.168</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9243_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRF9243, Key parameters: Vto=-3.549 Kp=3.168</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9510_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRF9510, Key parameters: Vto=-3.961 Kp=0.613</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9511_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRF9511, Key parameters: Vto=-3.961 Kp=0.613</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9512_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRF9512, Key parameters: Vto=-3.961 Kp=0.613</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9513_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRF9513, Key parameters: Vto=-3.961 Kp=0.613</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9520_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRF9520, Key parameters: Vto=-4.095 Kp=11.779</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9521_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRF9521, Key parameters: Vto=-4.095 Kp=11.779</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9522_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRF9522, Key parameters: Vto=-4.095 Kp=11.779</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9523_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRF9523, Key parameters: Vto=-4.095 Kp=11.779</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9630_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRF9630, Key parameters: Vto=-3.597 Kp=3.35</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9110_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: PMOS Transistor, Part number: IRFF9110, Key parameters: Vto=-3.961 Kp=0.613</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9111_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: PMOS Transistor, Part number: IRFF9111, Key parameters: Vto=-3.961 Kp=0.613</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9112_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: PMOS Transistor, Part number: IRFF9112, Key parameters: Vto=-3.961 Kp=0.613</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9113_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: PMOS Transistor, Part number: IRFF9113, Key parameters: Vto=-3.961 Kp=0.613</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9120_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: PMOS Transistor, Part number: IRFF9120, Key parameters: Vto=-4.095 Kp=11.779</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9121_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: PMOS Transistor, Part number: IRFF9121, Key parameters: Vto=-4.095 Kp=11.779</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9122_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: PMOS Transistor, Part number: IRFF9122, Key parameters: Vto=-4.095 Kp=11.779</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9123_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: PMOS Transistor, Part number: IRFF9123, Key parameters: Vto=-4.095 Kp=11.779</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9220_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: PMOS Transistor, Part number: IRFF9220, Key parameters: Vto=-3.18 Kp=0.81799994</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9221_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRFF9221, Key parameters: Vto=-3.18 Kp=0.81799994</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9222_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRFF9222, Key parameters: Vto=-3.18 Kp=0.81799994</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9223_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRFF9223, Key parameters: Vto=-3.18 Kp=0.81799994</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9230_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: PMOS Transistor, Part number: IRFF9230, Key parameters: Vto=-3.21 Kp=2.08</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9231_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRFF9231, Key parameters: Vto=-3.21 Kp=2.08</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9232_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRFF9232, Key parameters: Vto=-3.21 Kp=2.08</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFF9233_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRFF9233, Key parameters: Vto=-3.21 Kp=2.08</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFP9140_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: IRFP9140, Key parameters: Vto=-3.314575 Kp=11.431406</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_MPM3002P_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: MPM3002P, Key parameters: Vto=-3.795571 Kp=2.146904</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_RFM5P12_19930601</NAME>
+    <DESCRIPTION>Manufacturer: RCA, Basic Description: PMOS Transistor, Part number: RFM5P12, Key parameters: Vto=-4.484 Kp=1.27</DESCRIPTION>
+    <VENDOR>RCA</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_RFM5P15_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: RFM5P15, Key parameters: Vto=-4.484 Kp=1.27</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_RFM6P08_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: RFM6P08, Key parameters: Vto=-2.971 Kp=2.798</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_RFM6P10_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: RFM6P10, Key parameters: Vto=-2.971 Kp=2.798</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_RFP5P15_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: RFP5P15, Key parameters: Vto=-4.484 Kp=1.27</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_RFP6P08_19930601</NAME>
+    <DESCRIPTION>Manufacturer: RCA, Basic Description: PMOS Transistor, Part number: RFP6P08, Key parameters: Vto=-2.971 Kp=2.798</DESCRIPTION>
+    <VENDOR>RCA</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_VP0300M_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Siliconix, Basic Description: PMOS Transistor, Part number: VP0300M, Key parameters: Vto=-3.272 Kp=0.128</DESCRIPTION>
+    <VENDOR>Siliconix</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_VP0545_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Supertex, Basic Description: PMOS Transistor, Part number: VP0545, Key parameters: Vto=-3.72961 Kp=1</DESCRIPTION>
+    <VENDOR>Supertex</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_VP0645_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Supertex, Basic Description: PMOS Transistor, Part number: VP0645, Key parameters: Vto=-2.99062 Kp=2.86797</DESCRIPTION>
+    <VENDOR>Supertex</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_VPO3D_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: VPO3D, Key parameters: Vto=-3.466509 Kp=1.795962</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_VPO3E_19930601</NAME>
+    <DESCRIPTION>Basic Description: PMOS Transistor, Part number: VPO3E, Key parameters: Vto=-3.27921 Kp=2.25</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9130_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9130, Package: Rectifier, Key parameters: Vto=-3.698 Kp=10.21e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9131_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9131, Package: Rectifier, Key parameters: Vto=-3.698 Kp=10.21e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9132_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9132, Package: Rectifier, Key parameters: Vto=-3.698 Kp=10.21e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9133_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9133, Package: Rectifier, Key parameters: Vto=-3.698 Kp=10.21e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9140_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9140, Package: Rectifier, Key parameters: Vto=-3.67 Kp=10.15e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9141_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9141, Package: Rectifier, Key parameters: Vto=-3.67 Kp=10.15e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9142_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9142, Package: Rectifier, Key parameters: Vto=-3.67 Kp=10.15e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9143_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9143, Package: Rectifier, Key parameters: Vto=-3.67 Kp=10.15e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9230_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9230, Package: Rectifier, Key parameters: Vto=-3.323 Kp=10.39e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9231_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9231, Package: Rectifier, Key parameters: Vto=-3.323 Kp=10.39e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9232_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9232, Package: Rectifier, Key parameters: Vto=-3.323 Kp=10.39e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9233_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9233, Package: Rectifier, Key parameters: Vto=-3.323 Kp=10.39e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9240_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9240, Package: Rectifier, Key parameters: Vto=-3.807 Kp=10.53e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9241_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9241, Package: Rectifier, Key parameters: Vto=-3.807 Kp=10.53e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9242_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9242, Package: Rectifier, Key parameters: Vto=-3.807 Kp=10.53e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9243_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9243, Package: Rectifier, Key parameters: Vto=-3.807 Kp=10.53e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9510_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9510, Package: Rectifier, Key parameters: Vto=-3.923 Kp=10.54e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9511_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9511, Package: Rectifier, Key parameters: Vto=-3.923 Kp=10.54e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9512_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9512, Package: Rectifier, Key parameters: Vto=-3.923 Kp=10.54e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9513_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9513, Package: Rectifier, Key parameters: Vto=-3.923 Kp=10.54e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9520_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9520, Package: Rectifier, Key parameters: Vto=-3.571 Kp=10.42e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9521_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9521, Package: Rectifier, Key parameters: Vto=-3.571 Kp=10.42e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9522_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9522, Package: Rectifier, Key parameters: Vto=-3.571 Kp=10.42e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9523_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9523, Package: Rectifier, Key parameters: Vto=-3.571 Kp=10.42e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9530_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9530, Package: Rectifier, Key parameters: Vto=-3.745 Kp=10.57e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9531_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9531, Package: Rectifier, Key parameters: Vto=-3.745 Kp=10.57e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9532_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9532, Package: Rectifier, Key parameters: Vto=-3.745 Kp=10.57e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9533_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9533, Package: Rectifier, Key parameters: Vto=-3.745 Kp=10.57e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9540_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9540, Package: Rectifier, Key parameters: Vto=-3.646 Kp=10.18e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9541_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9541, Package: Rectifier, Key parameters: Vto=-3.646 Kp=10.18e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9542_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9542, Package: Rectifier, Key parameters: Vto=-3.646 Kp=10.18e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9543_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9543, Package: Rectifier, Key parameters: Vto=-3.646 Kp=10.18e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9610_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9610, Package: Rectifier, Key parameters: Vto=-3.814 Kp=10.37e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9611_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9611, Package: Rectifier, Key parameters: Vto=-3.814 Kp=10.37e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9612_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9612, Package: Rectifier, Key parameters: Vto=-3.814 Kp=10.37e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9613_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9613, Package: Rectifier, Key parameters: Vto=-3.814 Kp=10.37e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9620_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9620, Package: Rectifier, Key parameters: Vto=-3.735 Kp=10.15e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9621_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9621, Package: Rectifier, Key parameters: Vto=-3.735 Kp=10.15e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9622_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9622, Package: Rectifier, Key parameters: Vto=-3.735 Kp=10.15e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9623_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9623, Package: Rectifier, Key parameters: Vto=-3.735 Kp=10.15e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9630_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9630, Package: Rectifier, Key parameters: Vto=-3.523 Kp=10.29e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9631_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9631, Package: Rectifier, Key parameters: Vto=-3.523 Kp=10.29e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9632_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9632, Package: Rectifier, Key parameters: Vto=-3.523 Kp=10.29e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9633_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9633, Package: Rectifier, Key parameters: Vto=-3.523 Kp=10.29e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9640_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9640, Package: Rectifier, Key parameters: Vto=-3.813 Kp=10.38e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9641_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9641, Package: Rectifier, Key parameters: Vto=-3.813 Kp=10.38e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9642_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9642, Package: Rectifier, Key parameters: Vto=-3.813 Kp=10.38e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9643_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9643, Package: Rectifier, Key parameters: Vto=-3.813 Kp=10.38e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9Z10_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9Z10, Package: Rectifier, Key parameters: Vto=-3.356 Kp=10.42e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9Z12_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9Z12, Package: Rectifier, Key parameters: Vto=-3.356 Kp=10.42e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9Z20_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9Z20, Package: Rectifier, Key parameters: Vto=-3.362 Kp=10.4e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9Z22_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9Z22, Package: Rectifier, Key parameters: Vto=-3.362 Kp=10.4e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9Z30_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9Z30, Package: Rectifier, Key parameters: Vto=-3.587 Kp=10.36e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRF9Z32_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRF9Z32, Package: Rectifier, Key parameters: Vto=-3.587 Kp=10.36e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFD9010_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRFD9010, Package: Rectifier, Key parameters: Vto=-3.328 Kp=10.25e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFD9012_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRFD9012, Package: Rectifier, Key parameters: Vto=-3.328 Kp=10.25e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFD9020_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRFD9020, Package: Rectifier, Key parameters: Vto=-3.298 Kp=10.34e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFD9022_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRFD9022, Package: Rectifier, Key parameters: Vto=-3.298 Kp=10.34e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFD9110_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRFD9110, Package: Rectifier, Key parameters: Vto=-3.909 Kp=10.29e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFD9113_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRFD9113, Package: Rectifier, Key parameters: Vto=-3.909 Kp=10.29e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFD9120_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRFD9120, Package: Rectifier, Key parameters: Vto=-3.386 Kp=10.35e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFD9123_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRFD9123, Package: Rectifier, Key parameters: Vto=-3.386 Kp=10.35e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFD9210_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRFD9210, Package: Rectifier, Key parameters: Vto=-3.685 Kp=10.15e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFD9213_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRFD9213, Package: Rectifier, Key parameters: Vto=-3.685 Kp=10.15e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFD9220_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRFD9220, Package: Rectifier, Key parameters: Vto=-3.476 Kp=10.18e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_IRFD9223_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: IRFD9223, Package: Rectifier, Key parameters: Vto=-3.476 Kp=10.18e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_M2N6804_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: M2N6804, Package: Rectifier, Key parameters: Vto=-3.68 Kp=10.46e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_M2N6806_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: M2N6806, Package: Rectifier, Key parameters: Vto=-3.345 Kp=10.45e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_M2N6845_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: M2N6845, Package: Rectifier, Key parameters: Vto=-3.533 Kp=10.43e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_M2N6847_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: M2N6847, Package: Rectifier, Key parameters: Vto=-3.661 Kp=10.37e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_M2N6849_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: M2N6849, Package: Rectifier, Key parameters: Vto=-3.64 Kp=10.08e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pms_M2N6851_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: PMOS Transistor, Part number: M2N6851, Package: Rectifier, Key parameters: Vto=-3.252 Kp=10.32e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+</COMPONENTS>

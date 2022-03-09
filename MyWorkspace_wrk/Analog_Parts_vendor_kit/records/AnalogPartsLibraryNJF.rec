@@ -1,0 +1,2721 @@
+<?xml version="1.0" ?>
+<COMPONENTS>
+ <COMPONENT>
+    <NAME>ap_njf_2N3438_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2N3438, Key parameters: Beta=0.0013183 Vto=-0.426363 Cgs=8.1589E-12 Cgd=8.159E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N3823_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N3823, Key parameters: Beta=0.0010274 Vto=-3.1089846 Cgs=4.66655E-12 Cgd=4.71136E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N3955_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2N3955, Key parameters: Beta=0.00061 Vto=-3.5 Cgs=4.5E-12 Cgd=2E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4093_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2N4093, Key parameters: Beta=0.00237 Vto=-4.2 Cgs=9E-12 Cgd=2E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4117_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4117, Key parameters: Beta=4.2E-05 Vto=-1.2 Cgs=3E-12 Cgd=3E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4117A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4117A, Key parameters: Beta=8.58296E-05 Vto=-0.5708978 Cgs=1.63693E-12 Cgd=1.93209E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4118_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4118, Key parameters: Beta=3.75E-05 Vto=-2 Cgs=3E-12 Cgd=3E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4118A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4118A, Key parameters: Beta=3.75E-05 Vto=-2 Cgs=3E-12 Cgd=3E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4119_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4119, Key parameters: Beta=2.41662E-05 Vto=-3.8750598 Cgs=2.34268E-12 Cgd=2.34542E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4119A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4119A, Key parameters: Beta=1.89515E-05 Vto=-4.8696027 Cgs=1.11308E-12 Cgd=6.28981E-13</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4223_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4223, Key parameters: Beta=0.00110583 Vto=-3.1292926 Cgs=4.04E-12 Cgd=3.06E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4338_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2N4338, Key parameters: Beta=0.000832296 Vto=-0.657571 Cgs=7.11305E-12 Cgd=7.4931E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4339_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4339, Key parameters: Beta=0.000662742 Vto=-1.2750635 Cgs=7.35459E-12 Cgd=7.76275E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4340_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4340, Key parameters: Beta=0.000625 Vto=-2 Cgs=3.5E-12 Cgd=3.5E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4341_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4341, Key parameters: Beta=0.000465238 Vto=-4.3422373 Cgs=7.96702E-12 Cgd=8.18959E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4391_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4391, Key parameters: Beta=0.00700923 Vto=-5.80345344 Cgs=2.19173E-11 Cgd=2.29364E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4392_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4392, Key parameters: Beta=0.00673453 Vto=-4.10934536 Cgs=2.23345E-11 Cgd=2.22352E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4393_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4393, Key parameters: Beta=0.0089934536 Vto=-1.73453645 Cgs=1.53632E-11 Cgd=1.54343E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4416_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4416, Key parameters: Beta=0.00143284 Vto=-2.0589636 Cgs=3.81911E-12 Cgd=4.03194E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4416A_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2N4416A, Key parameters: Beta=0.001 Vto=-3.1 Cgs=2E-12 Cgd=2E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4856_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4856, Key parameters: Beta=0.00736724 Vto=-5.0383762 Cgs=2.12726E-11 Cgd=2.16552E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4856A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4856A, Key parameters: Beta=0.002344 Vto=-8 Cgs=1.5E-11 Cgd=1E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4857_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4857, Key parameters: Beta=0.004023542 Vto=-4.4364365 Cgs=1.80723E-11 Cgd=1.72336E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4857A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4857A, Key parameters: Beta=0.005 Vto=-4 Cgs=1.8E-11 Cgd=6E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4858_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4858, Key parameters: Beta=0.00872781 Vto=-1.9737954 Cgs=2.30345E-11 Cgd=2.35776E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4858A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4858A, Key parameters: Beta=0.00456669 Vto=-2.6235885 Cgs=1.76114E-11 Cgd=1.79452E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4859_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4859, Key parameters: Beta=0.00593789 Vto=-7.3165763 Cgs=1.07994E-11 Cgd=1.66703E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4859A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4859A, Key parameters: Beta=0.002344 Vto=-8 Cgs=1.5E-11 Cgd=1E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4860_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4860, Key parameters: Beta=0.005 Vto=-4 Cgs=5E-12 Cgd=2E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4860A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4860A, Key parameters: Beta=0.0054512 Vto=-4.3488301 Cgs=2.08437E-11 Cgd=2.10353E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4861_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4861, Key parameters: Beta=0.00913174 Vto=-1.8721163 Cgs=1.8889E-11 Cgd=1.88475E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N4861A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N4861A, Key parameters: Beta=0.00570133 Vto=-2.1353702 Cgs=2.19229E-11 Cgd=2.18486E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N5397_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National_Semiconductor, Basic Description: NJFET Device, Part number: 2N5397, Key parameters: Beta=0.00123 Vto=-4 Cgs=3.3E-12 Cgd=3.3E-12</DESCRIPTION>
+    <VENDOR>National_Semiconductor</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N5457_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N5457, Key parameters: Beta=0.00133 Vto=-1.5 Cgs=3E-12 Cgd=6E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N5458_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N5458, Key parameters: Beta=0.000666 Vto=-3 Cgs=3E-12 Cgd=6E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N5459_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: 2N5459, Key parameters: Beta=0.000552105 Vto=-2.7926157 Cgs=5.69067E-12 Cgd=5.74686E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N5484_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2N5484, Key parameters: Beta=0.00216311 Vto=-0.9993217 Cgs=4.81179E-12 Cgd=4.93771E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N5486_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2N5486, Key parameters: Beta=0.00119185 Vto=-2.6810373 Cgs=4.21546E-12 Cgd=2.64143E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N5639_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2N5639, Key parameters: Beta=0.00368282 Vto=-3.2680826 Cgs=1.89456E-11 Cgd=1.94282E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N5911_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National_Semiconductor, Basic Description: NJFET Device, Part number: 2N5911, Key parameters: Beta=0.00122 Vto=-3 Cgs=2.8E-12 Cgd=4E-12</DESCRIPTION>
+    <VENDOR>National_Semiconductor</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N5912_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2N5912, Key parameters: Beta=0.00178 Vto=-3 Cgs=2.8E-12 Cgd=1.7E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2N6449_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2N6449, Key parameters: Beta=0.000238 Vto=-4 Cgs=5.5E-12 Cgd=2E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2SK121_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Sony, Basic Description: NJFET Device, Part number: 2SK121, Key parameters: Beta=0.01019 Vto=-0.9669 Cgs=7E-12 Cgd=7E-12</DESCRIPTION>
+    <VENDOR>Sony</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2SK125_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2SK125, Key parameters: Beta=0.003125 Vto=-4 Cgs=6.75E-12 Cgd=1.017E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2SK12_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2SK12, Key parameters: Beta=0.3781 Vto=-2.3 Cgs=9E-12 Cgd=9E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2SK141_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2SK141, Key parameters: Beta=0.001953 Vto=-1.6 Cgs=3E-12 Cgd=3E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2SK141A_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2SK141A, Key parameters: Beta=0.001953 Vto=-1.6 Cgs=3E-12 Cgd=3E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2SK152_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2SK152, Key parameters: Beta=0.0174 Vto=-1.2 Cgs=6E-12 Cgd=2E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2SK156J_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2SK156J, Key parameters: Beta=0.000891 Vto=-0.41483698 Cgs=1E-17 Cgd=1E-17</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2SK156L_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2SK156L, Key parameters: Beta=0.001362 Vto=-0.67869397 Cgs=4E-12 Cgd=4E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2SK30A_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2SK30A, Key parameters: Beta=0.0009764 Vto=-1.336 Cgs=8.2E-12 Cgd=8.2E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2SK316_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2SK316, Key parameters: Beta=0.00547 Vto=-1.6 Cgs=8.05E-12 Cgd=3.45E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2SK520_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2SK520, Key parameters: Beta=0.00375 Vto=-4 Cgs=7.35E-12 Cgd=7.32E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_2SK94_X3_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: 2SK94, Key parameters: Beta=0.01019 Vto=-0.9669 Cgs=7E-12 Cgd=7E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_DN324_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Hewlett_Packard, Basic Description: NJFET Device, Part number: DN324, Key parameters: Beta=0.0006736 Vto=-2.105 Cgs=7E-12 Cgd=6.5E-12</DESCRIPTION>
+    <VENDOR>Hewlett_Packard</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_E2131_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Hewlett_Packard, Basic Description: NJFET Device, Part number: E2131, Key parameters: Beta=0.001822 Vto=-2.169 Cgs=4.5E-12 Cgd=4.5E-12</DESCRIPTION>
+    <VENDOR>Hewlett_Packard</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_FN4117_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: FN4117, Key parameters: Beta=4.2E-05 Vto=-1.2 Cgs=3E-12 Cgd=3E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_FN4118_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: FN4118, Key parameters: Beta=3.75E-05 Vto=-2 Cgs=3E-12 Cgd=3E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_FN4119_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: FN4119, Key parameters: Beta=4.444E-05 Vto=-3 Cgs=3E-12 Cgd=3E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_FN4392_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: FN4392, Key parameters: Beta=0.004082 Vto=-3.5 Cgs=1.2E-11 Cgd=8.5E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_FN4393_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: FN4393, Key parameters: Beta=0.005714 Vto=-1.75 Cgs=1.2E-11 Cgd=8.5E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_IDEALNCH_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: IDEALNCH, Key parameters: Vto=-2</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J110_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: J110, Key parameters: Beta=0.0460062 Vto=-1.8336628 Cgs=9.1602E-11 Cgd=9.60305E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J112_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: J112, Key parameters: Beta=0.0049105 Vto=-3.29735 Cgs=1.6031E-12 Cgd=1.6008E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J309_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: J309, Key parameters: Beta=0.00611126 Vto=-1.8526552 Cgs=1.26597E-11 Cgd=1.28961E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J310_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: J310, Key parameters: Beta=0.00424411 Vto=-2.8031764 Cgs=7.76159E-12 Cgd=1.13093E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MMBF5459_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: MMBF5459, Key parameters: Beta=0.00040927 Vto=-4.4513013 Cgs=8.6709E-12 Cgd=8.5241E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MP844_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Micro_Power_Systems, Basic Description: NJFET Device, Part number: MP844, Key parameters: Beta=0.0013 Vto=-2 Cgs=1.65E-11 Cgd=2.37E-11</DESCRIPTION>
+    <VENDOR>Micro_Power_Systems</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF820_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: MPF820, Key parameters: Beta=0.00432408 Vto=-2.6827535 Cgs=1.79128E-11 Cgd=1.84136E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4117_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: PN4117, Key parameters: Beta=4.2E-05 Vto=-1.2 Cgs=3E-12 Cgd=3E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4118_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: PN4118, Key parameters: Beta=3.75E-05 Vto=-2 Cgs=3E-12 Cgd=3E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4119_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: PN4119, Key parameters: Beta=4.444E-05 Vto=-3 Cgs=3E-12 Cgd=3E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4416_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: PN4416, Key parameters: Beta=0.001 Vto=-3.1 Cgs=2E-12 Cgd=2E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_SST201_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: SST201, Key parameters: Beta=0.002 Vto=-0.5 Cgs=3.5E-12 Cgd=3.5E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_SST202_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: SST202, Key parameters: Beta=0.001 Vto=-1 Cgs=3.5E-12 Cgd=3.5E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_SST203_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: SST203, Key parameters: Beta=0.000625 Vto=-2 Cgs=3.5E-12 Cgd=3.5E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_SST204_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: SST204, Key parameters: Beta=0.0004375 Vto=-4 Cgs=3.5E-12 Cgd=3.5E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_SST4856_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: SST4856, Key parameters: Beta=0.002344 Vto=-8 Cgs=5E-12 Cgd=2E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_SST4857_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: SST4857, Key parameters: Beta=0.005 Vto=-4 Cgs=5E-12 Cgd=2E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_SST4858_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: SST4858, Key parameters: Beta=0.005 Vto=-2 Cgs=5E-12 Cgd=2E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_SST4859_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: SST4859, Key parameters: Beta=0.002344 Vto=-8 Cgs=5E-12 Cgd=2E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_SST4860_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: SST4860, Key parameters: Beta=0.005 Vto=-4 Cgs=5E-12 Cgd=2E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_SST4861_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: SST4861, Key parameters: Beta=0.005 Vto=-2 Cgs=5E-12 Cgd=2E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_SST5457_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: SST5457, Key parameters: Beta=0.00133 Vto=-1.5 Cgs=3E-12 Cgd=6E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_SST5458_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: SST5458, Key parameters: Beta=0.000666 Vto=-3 Cgs=3E-12 Cgd=6E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_SST5459_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: SST5459, Key parameters: Beta=0.0005625 Vto=-4 Cgs=3E-12 Cgd=6E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U308_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: U308, Key parameters: Beta=0.002375 Vto=-4 Cgs=5.8E-12 Cgd=6.5E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U309_19930601</NAME>
+    <DESCRIPTION>Basic Description: NJFET Device, Part number: U309, Key parameters: Beta=0.002375 Vto=-4 Cgs=5.8E-12 Cgd=6.5E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U310_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NJFET Device, Part number: U310, Key parameters: Beta=0.00399454 Vto=-3.5460584 Cgs=1.18096E-11 Cgd=1.18847E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_BC264A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: BC264A, Package: TO-92, Key parameters: Beta=2e-3 Vto=-1.249 Cgs=3.598e-12 Cgd=3.35e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_BC264B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: BC264B, Package: TO-92, Key parameters: Beta=2e-3 Vto=-1.48 Cgs=3.598e-12 Cgd=3.35e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_BC264C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: BC264C, Package: TO-92, Key parameters: Beta=2e-3 Vto=-1.7 Cgs=3.598e-12 Cgd=3.35e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_BC264D_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: BC264D, Package: TO-92, Key parameters: Beta=2e-3 Vto=-1.7 Cgs=3.598e-12 Cgd=3.35e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_BF244A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: BF244A, Package: TO-92, Key parameters: Beta=1.754e-3 Vto=-1.409 Cgs=3.736e-12 Cgd=3.35e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_BF244B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: BF244B, Package: TO-92, Key parameters: Beta=1.6e-3 Vto=-2.29 Cgs=3.736e-12 Cgd=3.35e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_BF244C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: BF244C, Package: TO-92, Key parameters: Beta=1.5e-3 Vto=-3.099 Cgs=3.736e-12 Cgd=3.35e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_BF245A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: BF245A, Package: TO-92, Key parameters: Beta=1.754e-3 Vto=-1.409 Cgs=3.736e-12 Cgd=3.35e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_BF245B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: BF245B, Package: TO-92, Key parameters: Beta=1.6e-3 Vto=-2.29 Cgs=3.736e-12 Cgd=3.35e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_BF245C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: BF245C, Package: TO-92, Key parameters: Beta=1.5e-3 Vto=-3.099 Cgs=3.736e-12 Cgd=3.35e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_BF256A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: BF256A, Package: TO-92, Key parameters: Beta=1.6e-3 Vto=-1.35 Cgs=2.104e-12 Cgd=2.132e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_BF256B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: BF256B, Package: TO-92, Key parameters: Beta=1.5e-3 Vto=-2.3 Cgs=2.104e-12 Cgd=2.132e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_BF256C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: BF256C, Package: TO-92, Key parameters: Beta=1.4e-3 Vto=-3.1 Cgs=2.104e-12 Cgd=2.132e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_DN5564_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: DN5564, Package: TO-71, Key parameters: Beta=9e-3 Vto=-1.9 Cgs=11.9e-12 Cgd=5.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_DN5565_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: DN5565, Package: TO-71, Key parameters: Beta=9e-3 Vto=-1.9 Cgs=11.9e-12 Cgd=5.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_DN5566_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: DN5566, Package: TO-71, Key parameters: Beta=9e-3 Vto=-1.9 Cgs=11.9e-12 Cgd=5.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_DN5567_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: DN5567, Package: TO-71, Key parameters: Beta=9e-3 Vto=-2 Cgs=6.8e-12 Cgd=5.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_FN4117_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: FN4117, Package: TO-72, Key parameters: Beta=49.01e-6 Vto=-1.066 Cgs=4.49e-12 Cgd=4.49e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_FN4117A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: FN4117A, Package: TO-72, Key parameters: Beta=56.27e-6 Vto=-1.209 Cgs=4.49e-12 Cgd=4.49e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_FN4118_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: FN4118, Package: TO-72, Key parameters: Beta=85.1e-6 Vto=-1.259 Cgs=4.49e-12 Cgd=4.49e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_FN4118A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: FN4118A, Package: TO-72, Key parameters: Beta=95.1e-6 Vto=-1.299 Cgs=4.49e-12 Cgd=4.49e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_FN4119_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: FN4119, Package: TO-72, Key parameters: Beta=17.64e-6 Vto=-4.27 Cgs=4.49e-12 Cgd=4.49e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_FN4119A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: FN4119A, Package: TO-72, Key parameters: Beta=22.16e-6 Vto=-4.5 Cgs=4.49e-12 Cgd=4.49e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_FN4392_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: FN4392, Package: TO-18, Key parameters: Beta=7.477e-3 Vto=-3.15 Cgs=11.9e-12 Cgd=5.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_FN4393_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: FN4393, Package: TO-18, Key parameters: Beta=8.4e-3 Vto=-2.1 Cgs=11.9e-12 Cgd=5.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J105_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J105, Package: TO-92, Key parameters: Beta=9e-3 Vto=-6.25 Cgs=142.3e-12 Cgd=140e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J106_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J106, Package: TO-92, Key parameters: Beta=12e-3 Vto=-3.95 Cgs=142.3e-12 Cgd=140e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J107_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J107, Package: TO-92, Key parameters: Beta=15e-3 Vto=-2.9 Cgs=142.3e-12 Cgd=140e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J108_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J108, Package: TO-92, Key parameters: Beta=7.646e-3 Vto=-4.499 Cgs=47.7e-12 Cgd=47.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J109_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J109, Package: TO-92, Key parameters: Beta=12.42e-3 Vto=-3.002 Cgs=47.7e-12 Cgd=47.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J110_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J110, Package: TO-92, Key parameters: Beta=17.3e-3 Vto=-1.379 Cgs=47.7e-12 Cgd=47.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J111_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J111, Package: TO-92, Key parameters: Beta=2.91e-3 Vto=-4.047 Cgs=5.74e-12 Cgd=6.46e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J112_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J112, Package: TO-92, Key parameters: Beta=5.695e-3 Vto=-2.057 Cgs=5.74e-12 Cgd=6.46e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J113_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J113, Package: TO-92, Key parameters: Beta=9.109e-3 Vto=-1.382 Cgs=5.74e-12 Cgd=6.46e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J114_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J114, Package: TO-92, Key parameters: Beta=910.9e-6 Vto=-4.86 Cgs=4.599e-12 Cgd=4.545e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J201_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J201, Package: TO-92, Key parameters: Beta=1.621e-3 Vto=-.6 Cgs=2.992e-12 Cgd=4.667e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J202_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J202, Package: TO-92, Key parameters: Beta=985.5e-6 Vto=-1.612 Cgs=2.992e-12 Cgd=4.667e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J203_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J203, Package: TO-92, Key parameters: Beta=304.5e-6 Vto=-5.369 Cgs=2.992e-12 Cgd=4.667e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J204_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J204, Package: TO-92, Key parameters: Beta=1.004e-3 Vto=-1.139 Cgs=5.4e-12 Cgd=3.58e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J210_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J210, Package: TO-92, Key parameters: Beta=2.222e-3 Vto=-1.526 Cgs=3.496e-12 Cgd=3.913e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J211_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J211, Package: TO-92, Key parameters: Beta=1.808e-3 Vto=-2.9 Cgs=3.496e-12 Cgd=3.913e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J212_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J212, Package: TO-92, Key parameters: Beta=873.3e-6 Vto=-5.029 Cgs=3.496e-12 Cgd=3.913e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J230_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J230, Package: TO-92, Key parameters: Beta=642.1e-6 Vto=-1.718 Cgs=3.882e-12 Cgd=2.59e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J231_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J231, Package: TO-92, Key parameters: Beta=1.004e-3 Vto=-2.107 Cgs=3.882e-12 Cgd=2.59e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J232_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J232, Package: TO-92, Key parameters: Beta=1.509e-3 Vto=-2.3 Cgs=3.882e-12 Cgd=2.59e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3369_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3369, Package: TO-18, Key parameters: Beta=336.2e-6 Vto=-2.07 Cgs=2.916e-12 Cgd=2.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3370_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3370, Package: TO-18, Key parameters: Beta=766.8e-6 Vto=-.65 Cgs=2.916e-12 Cgd=2.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3458_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3458, Package: TO-18, Key parameters: Beta=700e-6 Vto=-3.05 Cgs=2.916e-12 Cgd=2.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3459_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3459, Package: TO-18, Key parameters: Beta=1.265e-3 Vto=-1.4 Cgs=2.916e-12 Cgd=2.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3460_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3460, Package: TO-18, Key parameters: Beta=2.02e-3 Vto=-.55 Cgs=2.916e-12 Cgd=2.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3684_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3684, Package: TO-72, Key parameters: Beta=348.1e-6 Vto=-3.18 Cgs=2.083e-12 Cgd=2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3685_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3685, Package: TO-72, Key parameters: Beta=543.4e-6 Vto=-1.691 Cgs=2.083e-12 Cgd=2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3686_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3686, Package: TO-72, Key parameters: Beta=723.7e-6 Vto=-.957 Cgs=2.083e-12 Cgd=2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3687_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3687, Package: TO-72, Key parameters: Beta=840e-6 Vto=-.5102 Cgs=2.083e-12 Cgd=2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3819_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3819, Package: TO-92, Key parameters: Beta=1.304e-3 Vto=-3 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3821_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3821, Package: TO-72, Key parameters: Beta=1.517e-3 Vto=-.8467 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3822_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3822, Package: TO-72, Key parameters: Beta=1.1e-3 Vto=-1.962 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3823_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3823, Package: TO-72, Key parameters: Beta=1.17e-3 Vto=-3.3 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3824_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3824, Package: TO-72, Key parameters: Beta=436.4e-6 Vto=-2.139 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3921_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3921, Package: TO-71, Key parameters: Beta=1.57e-3 Vto=-1.799 Cgs=4.4e-12 Cgd=8.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3922_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3922, Package: TO-71, Key parameters: Beta=1.57e-3 Vto=-1.799 Cgs=4.4e-12 Cgd=8.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3954_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3954, Package: TO-71, Key parameters: Beta=768.3e-6 Vto=-2.033 Cgs=.86e-12 Cgd=1.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3954A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3954A, Package: TO-71, Key parameters: Beta=768.3e-6 Vto=-2.033 Cgs=.86e-12 Cgd=1.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3955_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3955, Package: TO-71, Key parameters: Beta=768.3e-6 Vto=-2.033 Cgs=.86e-12 Cgd=1.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3955A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3955A, Package: TO-71, Key parameters: Beta=768.3e-6 Vto=-2.033 Cgs=.86e-12 Cgd=1.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3956_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3956, Package: TO-71, Key parameters: Beta=768.3e-6 Vto=-2.033 Cgs=.86e-12 Cgd=1.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3957_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3957, Package: TO-71, Key parameters: Beta=768.3e-6 Vto=-2.033 Cgs=.86e-12 Cgd=1.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3958_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3958, Package: TO-71, Key parameters: Beta=768.3e-6 Vto=-2.033 Cgs=.86e-12 Cgd=1.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3966_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3966, Package: TO-72, Key parameters: Beta=650e-6 Vto=-4.876 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3967_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3967, Package: TO-72, Key parameters: Beta=754.7e-6 Vto=-2.49 Cgs=3.742e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3967A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3967A, Package: TO-72, Key parameters: Beta=754.7e-6 Vto=-2.49 Cgs=3.742e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3968_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3968, Package: TO-72, Key parameters: Beta=1.125e-3 Vto=-1.376 Cgs=3.742e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3968A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3968A, Package: TO-72, Key parameters: Beta=1.125e-3 Vto=-1.376 Cgs=3.742e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3969_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3969, Package: TO-72, Key parameters: Beta=1.57e-3 Vto=-.734 Cgs=3.742e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3969A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3969A, Package: TO-72, Key parameters: Beta=1.57e-3 Vto=-.734 Cgs=3.742e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3970_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3970, Package: TO-18, Key parameters: Beta=4.032e-3 Vto=-4.514 Cgs=9.31e-12 Cgd=10.48e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3971_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3971, Package: TO-18, Key parameters: Beta=6.313e-3 Vto=-2.598 Cgs=9.31e-12 Cgd=10.48e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N3972_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N3972, Package: TO-18, Key parameters: Beta=9.109e-3 Vto=-1.403 Cgs=9.31e-12 Cgd=10.48e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4084_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4084, Package: TO-71, Key parameters: Beta=1.57e-3 Vto=-1.799 Cgs=4.4e-12 Cgd=8.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4085_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4085, Package: TO-71, Key parameters: Beta=1.57e-3 Vto=-1.799 Cgs=4.4e-12 Cgd=8.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4091_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4091, Package: TO-18, Key parameters: Beta=2.658e-3 Vto=-5.743 Cgs=7.06e-12 Cgd=7.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4092_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4092, Package: TO-18, Key parameters: Beta=4.032e-3 Vto=-2.933 Cgs=7.06e-12 Cgd=7.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4093_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4093, Package: TO-18, Key parameters: Beta=5.695e-3 Vto=-1.989 Cgs=7.06e-12 Cgd=7.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4117_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4117, Package: TO-72, Key parameters: Beta=33.07e-6 Vto=-1.2 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4117A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4117A, Package: TO-72, Key parameters: Beta=49.01e-6 Vto=-1.1 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4118_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4118, Package: TO-72, Key parameters: Beta=52.58e-6 Vto=-1.732 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4118A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4118A, Package: TO-72, Key parameters: Beta=52.58e-6 Vto=-1.732 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4119_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4119, Package: TO-72, Key parameters: Beta=68.08e-6 Vto=-2.536 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4119A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4119A, Package: TO-72, Key parameters: Beta=68.08e-6 Vto=-2.536 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4220_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4220, Package: TO-72, Key parameters: Beta=819.8e-6 Vto=-1.195 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4220A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4220A, Package: TO-72, Key parameters: Beta=819.8e-6 Vto=-1.195 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4221_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4221, Package: TO-72, Key parameters: Beta=726.3e-6 Vto=-2.139 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4221A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4221A, Package: TO-72, Key parameters: Beta=726.3e-6 Vto=-2.139 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4222_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4222, Package: TO-72, Key parameters: Beta=436.4e-6 Vto=-4.1 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4222A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4222A, Package: TO-72, Key parameters: Beta=436.4e-6 Vto=-4.1 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4223_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4223, Package: TO-72, Key parameters: Beta=1.04e-3 Vto=-3.05 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4224_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4224, Package: TO-72, Key parameters: Beta=1.04e-3 Vto=-3.12 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4338_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4338, Package: TO-18, Key parameters: Beta=781e-6 Vto=-.6606 Cgs=2.916e-12 Cgd=2.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4339_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4339, Package: TO-18, Key parameters: Beta=555.8e-6 Vto=-1.218 Cgs=2.916e-12 Cgd=2.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4340_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4340, Package: TO-18, Key parameters: Beta=471e-6 Vto=-2.001 Cgs=2.916e-12 Cgd=2.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4341_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4341, Package: TO-18, Key parameters: Beta=387.1e-6 Vto=-3.336 Cgs=2.916e-12 Cgd=2.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4391_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4391, Package: TO-18, Key parameters: Beta=2.658e-3 Vto=-5.803 Cgs=4.76e-12 Cgd=5.35e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4392_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4392, Package: TO-18, Key parameters: Beta=5.108e-3 Vto=-3.018 Cgs=4.29e-12 Cgd=4.83e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4393_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4393, Package: TO-18, Key parameters: Beta=9.109e-3 Vto=-1.422 Cgs=4.06e-12 Cgd=4.57e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4416_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4416, Package: TO-72, Key parameters: Beta=989.4e-6 Vto=-3.06 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4416A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4416A, Package: TO-72, Key parameters: Beta=989.4e-6 Vto=-3.06 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4856_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4856, Package: TO-18, Key parameters: Beta=3.084e-3 Vto=-5.517 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4856A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4856A, Package: TO-18, Key parameters: Beta=3.084e-3 Vto=-5.517 Cgs=5.07e-12 Cgd=5.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4857_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4857, Package: TO-18, Key parameters: Beta=6.313e-3 Vto=-3.05 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4857A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4857A, Package: TO-18, Key parameters: Beta=6.313e-3 Vto=-3.05 Cgs=4.74e-12 Cgd=5.34e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4858_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4858, Package: TO-18, Key parameters: Beta=7.646e-3 Vto=-2.387 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4858A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4858A, Package: TO-18, Key parameters: Beta=7.646e-3 Vto=-2.387 Cgs=4.74e-12 Cgd=5.34e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4859_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4859, Package: TO-18, Key parameters: Beta=3.084e-3 Vto=-5.431 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4859A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4859A, Package: TO-18, Key parameters: Beta=3.084e-3 Vto=-5.431 Cgs=5.07e-12 Cgd=5.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4860_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4860, Package: TO-18, Key parameters: Beta=6.313e-3 Vto=-2.998 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4860A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4860A, Package: TO-18, Key parameters: Beta=6.313e-3 Vto=-2.998 Cgs=4.74e-12 Cgd=5.34e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4861_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4861, Package: TO-18, Key parameters: Beta=8.362e-3 Vto=-2.308 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4861A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4861A, Package: TO-18, Key parameters: Beta=8.362e-3 Vto=-2.308 Cgs=4.74e-12 Cgd=5.34e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4867_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4867, Package: TO-72, Key parameters: Beta=609.1e-6 Vto=-1.145 Cgs=12e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4867A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4867A, Package: TO-72, Key parameters: Beta=609.1e-6 Vto=-1.145 Cgs=12e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4868_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4868, Package: TO-72, Key parameters: Beta=768.3e-6 Vto=-1.643 Cgs=12e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4868A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4868A, Package: TO-72, Key parameters: Beta=768.3e-6 Vto=-1.643 Cgs=12e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4869_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4869, Package: TO-72, Key parameters: Beta=885.7e-6 Vto=-2.512 Cgs=12e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N4869A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N4869A, Package: TO-72, Key parameters: Beta=885.7e-6 Vto=-2.512 Cgs=12e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5045_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5045, Package: TO-71, Key parameters: Beta=1.271e-3 Vto=-1.95 Cgs=2.85e-12 Cgd=5.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5046_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5046, Package: TO-71, Key parameters: Beta=1.271e-3 Vto=-1.95 Cgs=2.85e-12 Cgd=5.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5047_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5047, Package: TO-71, Key parameters: Beta=1.271e-3 Vto=-1.95 Cgs=2.85e-12 Cgd=5.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5078_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5078, Package: TO-72, Key parameters: Beta=850.8e-6 Vto=-3.97 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5103_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5103, Package: TO-72, Key parameters: Beta=1.426e-3 Vto=-1.85 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5104_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5104, Package: TO-72, Key parameters: Beta=1.914e-3 Vto=-1.51 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5105_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5105, Package: TO-72, Key parameters: Beta=1.464e-3 Vto=-2.5 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5196_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5196, Package: TO-71, Key parameters: Beta=812.9e-6 Vto=-2.257 Cgs=1.64e-12 Cgd=3.28e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5197_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5197, Package: TO-71, Key parameters: Beta=812.9e-6 Vto=-2.257 Cgs=1.64e-12 Cgd=3.28e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5198_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5198, Package: TO-71, Key parameters: Beta=812.9e-6 Vto=-2.257 Cgs=1.64e-12 Cgd=3.28e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5199_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5199, Package: TO-71, Key parameters: Beta=812.9e-6 Vto=-2.257 Cgs=1.64e-12 Cgd=3.28e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5245_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5245, Package: TO-92, Key parameters: Beta=1.38e-3 Vto=-2.442 Cgs=3.383e-12 Cgd=3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5246_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5246, Package: TO-92, Key parameters: Beta=1.948e-3 Vto=-1.257 Cgs=3.383e-12 Cgd=3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5247_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5247, Package: TO-92, Key parameters: Beta=1.07e-3 Vto=-3.485 Cgs=3.383e-12 Cgd=3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5248_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5248, Package: TO-92, Key parameters: Beta=849.6e-6 Vto=-3.6 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5358_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5358, Package: TO-72, Key parameters: Beta=1.064e-3 Vto=-.8005 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5359_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5359, Package: TO-72, Key parameters: Beta=760e-3 Vto=-1.12 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5360_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5360, Package: TO-72, Key parameters: Beta=698.5e-6 Vto=-1.703 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5361_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5361, Package: TO-72, Key parameters: Beta=479.8e-6 Vto=-2.659 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5362_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5362, Package: TO-72, Key parameters: Beta=425e-6 Vto=-3.312 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5363_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5363, Package: TO-72, Key parameters: Beta=381.8e-6 Vto=-4.91 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5364_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5364, Package: TO-72, Key parameters: Beta=698.5e-6 Vto=-1.703 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5397_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5397, Package: TO-72, Key parameters: Beta=1.242e-3 Vto=-3.679 Cgs=3.598e-12 Cgd=2.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5398_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5398, Package: TO-72, Key parameters: Beta=1.242e-3 Vto=-3.323 Cgs=3.383e-12 Cgd=3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5432_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5432, Package: TO-52, Key parameters: Beta=9.109e-3 Vto=-5.397 Cgs=35.6e-12 Cgd=35.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5433_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5433, Package: TO-52, Key parameters: Beta=12.42e-3 Vto=-4.16 Cgs=35.6e-12 Cgd=35.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5434_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5434, Package: TO-52, Key parameters: Beta=18.37e-3 Vto=-1.906 Cgs=35.6e-12 Cgd=35.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5452_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5452, Package: TO-71, Key parameters: Beta=768.3e-6 Vto=-2.017 Cgs=.86e-12 Cgd=1.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5453_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5453, Package: TO-71, Key parameters: Beta=768.3e-6 Vto=-2.017 Cgs=.86e-12 Cgd=1.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5454_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5454, Package: TO-71, Key parameters: Beta=768.3e-6 Vto=-2.017 Cgs=.86e-12 Cgd=1.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5457_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5457, Package: TO-92, Key parameters: Beta=1.125e-3 Vto=-1.372 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5458_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5458, Package: TO-92, Key parameters: Beta=488.9e-6 Vto=-2.882 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5459_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5459, Package: TO-92, Key parameters: Beta=377.6e-6 Vto=-4.473 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5484_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5484, Package: TO-92, Key parameters: Beta=2.224e-3 Vto=-1.2 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5485_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5485, Package: TO-92, Key parameters: Beta=1.039e-3 Vto=-2.5 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5486_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5486, Package: TO-92, Key parameters: Beta=736.9e-6 Vto=-3.889 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5515_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5515, Package: TO-71, Key parameters: Beta=518.5e-6 Vto=-2.5 Cgs=14.64e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5516_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5516, Package: TO-71, Key parameters: Beta=518.5e-6 Vto=-2.5 Cgs=14.64e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5517_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5517, Package: TO-71, Key parameters: Beta=518.5e-6 Vto=-2.5 Cgs=14.64e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5518_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5518, Package: TO-71, Key parameters: Beta=518.5e-6 Vto=-2.5 Cgs=14.64e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5519_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5519, Package: TO-71, Key parameters: Beta=518.5e-6 Vto=-2.5 Cgs=14.64e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5520_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5520, Package: TO-71, Key parameters: Beta=518.5e-6 Vto=-2.5 Cgs=14.64e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5521_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5521, Package: TO-71, Key parameters: Beta=518.5e-6 Vto=-2.5 Cgs=14.64e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5522_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5522, Package: TO-71, Key parameters: Beta=518.5e-6 Vto=-2.5 Cgs=14.64e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5523_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5523, Package: TO-71, Key parameters: Beta=518.5e-6 Vto=-2.5 Cgs=14.64e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5524_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5524, Package: TO-71, Key parameters: Beta=518.5e-6 Vto=-2.5 Cgs=14.64e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5545_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5545, Package: TO-71, Key parameters: Beta=1.271e-3 Vto=-2 Cgs=1.64e-12 Cgd=3.28e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5546_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5546, Package: TO-71, Key parameters: Beta=1.271e-3 Vto=-2 Cgs=1.64e-12 Cgd=3.28e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5547_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5547, Package: TO-71, Key parameters: Beta=1.271e-3 Vto=-2 Cgs=1.64e-12 Cgd=3.28e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5555_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5555, Package: TO-92, Key parameters: Beta=642.1e-6 Vto=-5.7 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5556_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5556, Package: TO-72, Key parameters: Beta=2.194e-3 Vto=-.875 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5557_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5557, Package: TO-72, Key parameters: Beta=1.307e-3 Vto=-1.805 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5558_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5558, Package: TO-72, Key parameters: Beta=864e-6 Vto=-2.91 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5561_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5561, Package: TO-71, Key parameters: Beta=1.617e-3 Vto=-1.373 Cgs=7.546e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5562_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5562, Package: TO-71, Key parameters: Beta=1.617e-3 Vto=-1.373 Cgs=7.546e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5563_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5563, Package: TO-71, Key parameters: Beta=1.617e-3 Vto=-1.373 Cgs=7.546e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5564_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5564, Package: TO-71, Key parameters: Beta=9.109e-3 Vto=-1.447 Cgs=9.76e-12 Cgd=8.67e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5565_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5565, Package: TO-71, Key parameters: Beta=9.109e-3 Vto=-1.447 Cgs=9.76e-12 Cgd=8.67e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5566_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5566, Package: TO-71, Key parameters: Beta=9.109e-3 Vto=-1.447 Cgs=9.76e-12 Cgd=8.67e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5638_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5638, Package: TO-92, Key parameters: Beta=3.542e-3 Vto=-4.887 Cgs=5.95e-12 Cgd=6.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5639_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5639, Package: TO-92, Key parameters: Beta=5.108e-3 Vto=-3.264 Cgs=5.53e-12 Cgd=6.22e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5640_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5640, Package: TO-92, Key parameters: Beta=6.964e-3 Vto=-2.15 Cgs=5.29e-12 Cgd=5.95e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5653_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5653, Package: TO-92, Key parameters: Beta=3.084e-3 Vto=-5.119 Cgs=5.59e-12 Cgd=6.29e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5654_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5654, Package: TO-92, Key parameters: Beta=4.554e-3 Vto=-3.294 Cgs=5.22e-12 Cgd=5.88e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5668_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5668, Package: TO-92, Key parameters: Beta=2.224e-3 Vto=-1.24 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5669_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5669, Package: TO-92, Key parameters: Beta=1.117e-3 Vto=-2.51 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5670_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5670, Package: TO-92, Key parameters: Beta=683.1e-6 Vto=-4.25 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5902_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5902, Package: TO-92, Key parameters: Beta=120e-6 Vto=-1.652 Cgs=1.23e-12 Cgd=1.23e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5903_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5903, Package: TO-92, Key parameters: Beta=120e-6 Vto=-1.652 Cgs=1.23e-12 Cgd=1.23e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5904_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5904, Package: TO-78, Key parameters: Beta=120e-6 Vto=-1.652 Cgs=1.23e-12 Cgd=1.23e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5905_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5905, Package: TO-78, Key parameters: Beta=120e-6 Vto=-1.652 Cgs=1.23e-12 Cgd=1.23e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5906_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5906, Package: TO-78, Key parameters: Beta=120e-6 Vto=-1.652 Cgs=1.23e-12 Cgd=1.23e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5907_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5907, Package: TO-78, Key parameters: Beta=120e-6 Vto=-1.652 Cgs=1.23e-12 Cgd=1.23e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5908_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5908, Package: TO-78, Key parameters: Beta=120e-6 Vto=-1.652 Cgs=1.23e-12 Cgd=1.23e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5909_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5909, Package: TO-78, Key parameters: Beta=120e-6 Vto=-1.652 Cgs=1.23e-12 Cgd=1.23e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5911_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5911, Package: TO-78, Key parameters: Beta=2.203e-3 Vto=-2.694 Cgs=3.65e-12 Cgd=2.822e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5912_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5912, Package: TO-78, Key parameters: Beta=2.203e-3 Vto=-2.694 Cgs=3.65e-12 Cgd=2.822e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5949_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5949, Package: TO-92, Key parameters: Beta=656.9e-6 Vto=-4.322 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5950_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5950, Package: TO-92, Key parameters: Beta=696.4e-6 Vto=-3.892 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5951_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5951, Package: TO-92, Key parameters: Beta=736.9e-6 Vto=-3.427 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5952_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5952, Package: TO-92, Key parameters: Beta=1.314e-3 Vto=-2.021 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N5953_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N5953, Package: TO-92, Key parameters: Beta=1.645e-3 Vto=-1.444 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N6483_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N6483, Package: TO-71, Key parameters: Beta=518.5e-6 Vto=-2.5 Cgs=14.64e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N6484_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N6484, Package: TO-71, Key parameters: Beta=518.5e-6 Vto=-2.5 Cgs=14.64e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N6485_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N6485, Package: TO-71, Key parameters: Beta=518.5e-6 Vto=-2.5 Cgs=14.64e-12 Cgd=8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N6905_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N6905, Package: TO-71, Key parameters: Beta=4.032e-3 Vto=-1.215 Cgs=4.08e-12 Cgd=4.08e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N6906_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N6906, Package: TO-71, Key parameters: Beta=4.032e-3 Vto=-1.215 Cgs=4.08e-12 Cgd=4.08e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J2N6907_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J2N6907, Package: TO-71, Key parameters: Beta=4.032e-3 Vto=-1.215 Cgs=4.08e-12 Cgd=4.08e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J300_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J300, Package: TO-92, Key parameters: Beta=1.242e-3 Vto=-3.236 Cgs=3.383e-12 Cgd=3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J304_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J304, Package: TO-92, Key parameters: Beta=729e-6 Vto=-3.52 Cgs=2.205e-12 Cgd=2.17e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J305_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J305, Package: TO-92, Key parameters: Beta=2.104e-3 Vto=-1.44 Cgs=2.205e-12 Cgd=2.17e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J308_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J308, Package: TO-92, Key parameters: Beta=3.688e-3 Vto=-3.095 Cgs=6.2e-12 Cgd=6.2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J309_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J309, Package: TO-92, Key parameters: Beta=4.682e-3 Vto=-2.075 Cgs=6.2e-12 Cgd=6.2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J310_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J310, Package: TO-92, Key parameters: Beta=3.384e-3 Vto=-3.409 Cgs=6.2e-12 Cgd=6.2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J401_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J401, Package: TO-92, Key parameters: Beta=1.577e-3 Vto=-1.316 Cgs=6.044e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J402_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J402, Package: 8-pin, Key parameters: Beta=1.577e-3 Vto=-1.316 Cgs=6.044e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J403_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J403, Package: 8-pin, Key parameters: Beta=1.577e-3 Vto=-1.316 Cgs=6.044e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J404_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J404, Package: 8-pin, Key parameters: Beta=1.577e-3 Vto=-1.316 Cgs=6.044e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J405_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J405, Package: 8-pin, Key parameters: Beta=1.577e-3 Vto=-1.316 Cgs=6.044e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J406_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J406, Package: 8-pin, Key parameters: Beta=1.577e-3 Vto=-1.316 Cgs=6.044e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J410_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J410, Package: 8-pin, Key parameters: Beta=858.8e-6 Vto=-2 Cgs=1e-12 Cgd=2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J411_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J411, Package: 8-pin, Key parameters: Beta=858.8e-6 Vto=-2 Cgs=1e-12 Cgd=2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_J412_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: J412, Package: 8-pin, Key parameters: Beta=858.8e-6 Vto=-2 Cgs=1e-12 Cgd=2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF102_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF102, Package: TO-92, Key parameters: Beta=1.04e-3 Vto=-3.41 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF103_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF103, Package: TO-92, Key parameters: Beta=561.5e-6 Vto=-1.947 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF104_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF104, Package: TO-92, Key parameters: Beta=488.9e-6 Vto=-2.882 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF105_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF105, Package: TO-92, Key parameters: Beta=377.6e-6 Vto=-4.473 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF106_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF106, Package: TO-92, Key parameters: Beta=1.518e-3 Vto=-2.21 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF107_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF107, Package: TO-92, Key parameters: Beta=821.6e-6 Vto=-3.721 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF108_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF108, Package: TO-92, Key parameters: Beta=741.2e-6 Vto=-2.789 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF109_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF109, Package: TO-92, Key parameters: Beta=435e-6 Vto=-3.51 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF110_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF110, Package: TO-92, Key parameters: Beta=769.7e-6 Vto=-3.56 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF111_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF111, Package: TO-92, Key parameters: Beta=769.7e-3 Vto=-3.88 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF112_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF112, Package: TO-92, Key parameters: Beta=377.1e-6 Vto=-3.85 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF256_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF256, Package: TO-92, Key parameters: Beta=1.548e-3 Vto=-2.127 Cgs=3.383e-12 Cgd=3e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF3970_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF3970, Package: TO-18, Key parameters: Beta=4.032e-3 Vto=-4.514 Cgs=9.31e-12 Cgd=10.48e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF3971_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF3971, Package: TO-18, Key parameters: Beta=6.313e-3 Vto=-2.598 Cgs=9.31e-12 Cgd=10.48e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF3972_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF3972, Package: TO-18, Key parameters: Beta=9.109e-3 Vto=-1.403 Cgs=9.31e-12 Cgd=10.48e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4091_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4091, Package: TO-18, Key parameters: Beta=2.658e-3 Vto=-5.743 Cgs=7.06e-12 Cgd=7.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4092_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4092, Package: TO-18, Key parameters: Beta=4.032e-3 Vto=-2.933 Cgs=7.06e-12 Cgd=7.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4093_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4093, Package: TO-18, Key parameters: Beta=5.695e-3 Vto=-1.989 Cgs=7.06e-12 Cgd=7.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4117_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4117, Package: TO-18, Key parameters: Beta=33.07e-6 Vto=-1.2 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4117A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4117A, Package: TO-18, Key parameters: Beta=49.01e-6 Vto=-1.1 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4118_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4118, Package: TO-18, Key parameters: Beta=52.58e-6 Vto=-1.732 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4118A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4118A, Package: TO-18, Key parameters: Beta=52.58e-6 Vto=-1.732 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4119_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4119, Package: TO-18, Key parameters: Beta=68.08e-6 Vto=-2.536 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4119A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4119A, Package: TO-18, Key parameters: Beta=68.08e-6 Vto=-2.536 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4391_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4391, Package: TO-18, Key parameters: Beta=2.658e-3 Vto=-5.803 Cgs=4.76e-12 Cgd=5.35e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4392_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4392, Package: TO-18, Key parameters: Beta=5.108e-3 Vto=-3.018 Cgs=4.29e-12 Cgd=4.83e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4393_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4393, Package: TO-18, Key parameters: Beta=9.109e-3 Vto=-1.422 Cgs=4.06e-12 Cgd=4.57e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4856_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4856, Package: TO-18, Key parameters: Beta=3.084e-3 Vto=-5.517 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4856A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4856A, Package: TO-18, Key parameters: Beta=3.084e-3 Vto=-5.517 Cgs=5.07e-12 Cgd=5.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4857_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4857, Package: TO-18, Key parameters: Beta=6.313e-3 Vto=-3.05 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4857A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4857A, Package: TO-18, Key parameters: Beta=6.313e-3 Vto=-3.05 Cgs=4.74e-12 Cgd=5.34e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4858_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4858, Package: TO-18, Key parameters: Beta=7.646e-3 Vto=-2.387 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4858A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4858A, Package: TO-18, Key parameters: Beta=7.646e-3 Vto=-2.387 Cgs=4.74e-12 Cgd=5.34e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4859_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4859, Package: TO-18, Key parameters: Beta=3.084e-3 Vto=-5.431 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4859A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4859A, Package: TO-18, Key parameters: Beta=3.084e-3 Vto=-5.431 Cgs=5.07e-12 Cgd=5.71e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4860_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4860, Package: TO-18, Key parameters: Beta=6.313e-3 Vto=-2.998 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4860A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4860A, Package: TO-18, Key parameters: Beta=6.313e-3 Vto=-2.998 Cgs=4.74e-12 Cgd=5.34e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4861_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4861, Package: TO-18, Key parameters: Beta=8.362e-3 Vto=-2.308 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF4861A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF4861A, Package: TO-18, Key parameters: Beta=8.362e-3 Vto=-2.308 Cgs=4.74e-12 Cgd=5.34e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_MPF820_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: MPF820, Package: TO-18, Key parameters: Beta=6.964e-3 Vto=-2.204 Cgs=7.06e-12 Cgd=7.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NDF9406_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NDF9406, Package: TO-71, Key parameters: Beta=1.004e-3 Vto=-2.25 Cgs=2.1e-12 Cgd=4.2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NDF9407_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NDF9407, Package: TO-71, Key parameters: Beta=1.004e-3 Vto=-2.25 Cgs=2.1e-12 Cgd=4.2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NDF9408_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NDF9408, Package: TO-71, Key parameters: Beta=1.004e-3 Vto=-2.25 Cgs=2.1e-12 Cgd=4.2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NDF9409_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NDF9409, Package: TO-71, Key parameters: Beta=1.004e-3 Vto=-2.25 Cgs=2.1e-12 Cgd=4.2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NDF9410_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NDF9410, Package: TO-71, Key parameters: Beta=1.004e-3 Vto=-2.25 Cgs=2.1e-12 Cgd=4.2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NF5101_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NF5101, Package: TO-72, Key parameters: Beta=12.42e-3 Vto=-.7414 Cgs=9.56e-12 Cgd=10.76e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NF5102_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NF5102, Package: TO-72, Key parameters: Beta=14.28e-3 Vto=-1.001 Cgs=9.56e-12 Cgd=10.76e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NF5103_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NF5103, Package: TO-72, Key parameters: Beta=14.28e-3 Vto=-1.4 Cgs=9.56e-12 Cgd=10.76e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NF5301_1_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NF5301-1, Package: TO-72, Key parameters: Beta=81.03e-6 Vto=-1.428 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NF5301_2_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NF5301-2, Package: TO-72, Key parameters: Beta=72.27e-6 Vto=-2.123 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NF5301_3_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NF5301-3, Package: TO-72, Key parameters: Beta=72.27e-6 Vto=-1.748 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NF5301_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NF5301, Package: TO-72, Key parameters: Beta=62.04e-6 Vto=-1.887 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NPD5564_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NPD5564, Package: 8-pin, Key parameters: Beta=9.109e-3 Vto=-1.447 Cgs=9.76e-12 Cgd=8.67e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NPD5565_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NPD5565, Package: 8-pin, Key parameters: Beta=9.109e-3 Vto=-1.447 Cgs=9.76e-12 Cgd=8.67e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NPD5566_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NPD5566, Package: 8-pin, Key parameters: Beta=9.109e-3 Vto=-1.447 Cgs=9.76e-12 Cgd=8.67e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NPD8301_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NPD8301, Package: 8-pin, Key parameters: Beta=858.8e-6 Vto=-2 Cgs=1e-12 Cgd=2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NPD8302_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NPD8302, Package: 8-pin, Key parameters: Beta=858.8e-6 Vto=-2 Cgs=1e-12 Cgd=2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_NPD8303_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: NPD8303, Package: 8-pin, Key parameters: Beta=858.8e-6 Vto=-2 Cgs=1e-12 Cgd=2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PF5101_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PF5101, Package: TO-92, Key parameters: Beta=12.42e-3 Vto=-.7627 Cgs=9.56e-12 Cgd=10.76e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PF5102_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PF5102, Package: TO-92, Key parameters: Beta=14.28e-3 Vto=-.9723 Cgs=9.56e-12 Cgd=10.76e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PF5103_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PF5103, Package: TO-92, Key parameters: Beta=14.28e-3 Vto=-1.372 Cgs=9.56e-12 Cgd=10.76e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PF5301_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PF5301, Package: TO-92, Key parameters: Beta=72.27e-6 Vto=-1.798 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PF5301_1_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PF5301-1, Package: TO-92, Key parameters: Beta=95.1e-6 Vto=-1.4 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PF5301_2_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PF5301-2, Package: TO-92, Key parameters: Beta=72.27e-6 Vto=-2.088 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PF5301_3_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PF5301-3, Package: TO-92, Key parameters: Beta=72.27e-6 Vto=-1.951 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN3684_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN3684, Package: TO-92, Key parameters: Beta=348.1e-6 Vto=-3.18 Cgs=2.083e-12 Cgd=2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN3685_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN3685, Package: TO-92, Key parameters: Beta=543.4e-6 Vto=-1.691 Cgs=2.083e-12 Cgd=2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN3686_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN3686, Package: TO-92, Key parameters: Beta=723.7e-6 Vto=-.957 Cgs=2.083e-12 Cgd=2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN3687_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN3687, Package: TO-92, Key parameters: Beta=840e-6 Vto=-.5102 Cgs=2.083e-12 Cgd=2e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4091_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4091, Package: TO-92, Key parameters: Beta=2.417e-3 Vto=-5.481 Cgs=7.06e-12 Cgd=7.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4092_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4092, Package: TO-92, Key parameters: Beta=5.108e-3 Vto=-2.978 Cgs=7.06e-12 Cgd=7.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4093_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4093, Package: TO-92, Key parameters: Beta=8.508e-3 Vto=-1.973 Cgs=7.06e-12 Cgd=7.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4117_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4117, Package: TO-92, Key parameters: Beta=30.26e-6 Vto=-1.412 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4117A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4117A, Package: TO-92, Key parameters: Beta=45.57e-6 Vto=-1.172 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4118_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4118, Package: TO-92, Key parameters: Beta=60.08e-6 Vto=-1.652 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4118A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4118A, Package: TO-92, Key parameters: Beta=60.08e-6 Vto=-1.652 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4119_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4119, Package: TO-92, Key parameters: Beta=72.27e-6 Vto=-2.5 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4119A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4119A, Package: TO-92, Key parameters: Beta=72.27e-6 Vto=-2.5 Cgs=4.93e-12 Cgd=3.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4120_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4120, Package: TO-92, Key parameters: Beta=15.41e-6 Vto=-4.679 Cgs=4.49e-12 Cgd=4.49e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4220_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4220, Package: TO-92, Key parameters: Beta=819.8e-6 Vto=-1.195 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4221_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4221, Package: TO-92, Key parameters: Beta=726.3e-6 Vto=-2.139 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4222_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4222, Package: TO-92, Key parameters: Beta=436.4e-6 Vto=-2.9 Cgs=4.627e-12 Cgd=4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4223_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4223, Package: TO-92, Key parameters: Beta=1.04e-3 Vto=-3.14 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4224_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4224, Package: TO-92, Key parameters: Beta=1.04e-3 Vto=-3.27 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4302_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4302, Package: TO-92, Key parameters: Beta=650e-6 Vto=-1.55 Cgs=2.916e-12 Cgd=2.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4303_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4303, Package: TO-92, Key parameters: Beta=550e-6 Vto=-2.92 Cgs=2.916e-12 Cgd=2.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4304_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4304, Package: TO-92, Key parameters: Beta=350e-6 Vto=-3.85 Cgs=2.916e-12 Cgd=2.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4391_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4391, Package: TO-92, Key parameters: Beta=3.084e-3 Vto=-5.27 Cgs=4.76e-12 Cgd=5.35e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4392_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4392, Package: TO-92, Key parameters: Beta=5.816e-3 Vto=-2.808 Cgs=4.29e-12 Cgd=4.83e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4393_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4393, Package: TO-92, Key parameters: Beta=9.109e-3 Vto=-1.417 Cgs=4.06e-12 Cgd=4.57e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4416_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4416, Package: TO-92, Key parameters: Beta=989.4e-6 Vto=-3.07 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4856_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4856, Package: TO-92, Key parameters: Beta=3.084e-3 Vto=-5.681 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4857_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4857, Package: TO-92, Key parameters: Beta=6.313e-3 Vto=-2.997 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4858_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4858, Package: TO-92, Key parameters: Beta=9.109e-3 Vto=-2.11 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4859_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4859, Package: TO-92, Key parameters: Beta=3.084e-3 Vto=-5.704 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4860_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4860, Package: TO-92, Key parameters: Beta=6.313e-3 Vto=-3.017 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN4861_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN4861, Package: TO-92, Key parameters: Beta=9.109e-3 Vto=-2.18 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN5163_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN5163, Package: TO-92, Key parameters: Beta=1.228e-3 Vto=-3.82 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN5432_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN5432, Package: TO-92, Key parameters: Beta=9.109e-3 Vto=-5.697 Cgs=35.6e-12 Cgd=35.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN5433_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN5433, Package: TO-92, Key parameters: Beta=12.42e-3 Vto=-4.4 Cgs=35.6e-12 Cgd=35.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_PN5434_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: PN5434, Package: TO-92, Key parameters: Beta=17.3e-3 Vto=-1.949 Cgs=35.6e-12 Cgd=35.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_TIS58_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: TIS58, Package: TO-92, Key parameters: Beta=1.46e-3 Vto=-1.921 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_TIS59_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: TIS59, Package: TO-92, Key parameters: Beta=764.6e-6 Vto=-4.14 Cgs=2.414e-12 Cgd=1.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_TIS73_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: TIS73, Package: TO-92, Key parameters: Beta=3.084e-3 Vto=-5.581 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_TIS74_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: TIS74, Package: TO-92, Key parameters: Beta=6.313e-3 Vto=-3.117 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_TIS75_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: TIS75, Package: TO-92, Key parameters: Beta=9.109e-3 Vto=-2.18 Cgs=14.16e-12 Cgd=15.92e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U1897_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U1897, Package: TO-71, Key parameters: Beta=2.741e-3 Vto=-5.5 Cgs=7.06e-12 Cgd=7.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U1898_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U1898, Package: TO-71, Key parameters: Beta=5.108e-3 Vto=-3 Cgs=7.06e-12 Cgd=7.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U1899_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U1899, Package: TO-71, Key parameters: Beta=7.646e-3 Vto=-2.131 Cgs=7.06e-12 Cgd=7.94e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U200_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U200, Package: TO-18, Key parameters: Beta=10.26e-3 Vto=-1.2 Cgs=11.9e-12 Cgd=5.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U201_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U201, Package: TO-18, Key parameters: Beta=8e-3 Vto=-2.45 Cgs=11.9e-12 Cgd=5.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U202_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U202, Package: TO-18, Key parameters: Beta=5.412e-3 Vto=-4 Cgs=11.9e-12 Cgd=5.8e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U257_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U257, Package: TO-78, Key parameters: Beta=2.203e-3 Vto=-2.475 Cgs=3.65e-12 Cgd=2.822e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U290_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U290, Package: TO-52, Key parameters: Beta=9e-3 Vto=-6.25 Cgs=60e-12 Cgd=60e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U291_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U291, Package: TO-52, Key parameters: Beta=15e-3 Vto=-3.6 Cgs=60e-12 Cgd=60e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U308_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U308, Package: TO-52, Key parameters: Beta=4.337e-3 Vto=-2.852 Cgs=5e-12 Cgd=5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U309_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U309, Package: TO-52, Key parameters: Beta=5.04e-3 Vto=-2.026 Cgs=5e-12 Cgd=5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U310_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U310, Package: TO-52, Key parameters: Beta=3.688e-3 Vto=-3.324 Cgs=7.4e-12 Cgd=7.4e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U311_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U311, Package: TO-52, Key parameters: Beta=1.485e-3 Vto=-4.796 Cgs=6.5e-12 Cgd=6.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U312_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U312, Package: TO-52, Key parameters: Beta=1.242e-3 Vto=-3.679 Cgs=3.198e-12 Cgd=2.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U401_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U401, Package: TO-71, Key parameters: Beta=1.577e-3 Vto=-1.316 Cgs=6.044e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U402_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U402, Package: TO-71, Key parameters: Beta=1.577e-3 Vto=-1.316 Cgs=6.044e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U403_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U403, Package: TO-71, Key parameters: Beta=1.577e-3 Vto=-1.316 Cgs=6.044e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U404_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U404, Package: TO-71, Key parameters: Beta=1.577e-3 Vto=-1.316 Cgs=6.044e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U405_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U405, Package: TO-71, Key parameters: Beta=1.577e-3 Vto=-1.316 Cgs=6.044e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U406_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U406, Package: TO-71, Key parameters: Beta=1.577e-3 Vto=-1.316 Cgs=6.044e-12 Cgd=5.6e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U410_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U410, Package: TO-71, Key parameters: Beta=801.3e-6 Vto=-1.866 Cgs=3.03e-12 Cgd=3.03e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U411_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U411, Package: TO-71, Key parameters: Beta=801.3e-6 Vto=-1.866 Cgs=3.03e-12 Cgd=3.03e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U412_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U412, Package: TO-71, Key parameters: Beta=801.3e-6 Vto=-1.866 Cgs=3.03e-12 Cgd=3.03e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U427_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U427, Package: TO-71, Key parameters: Beta=428.6e-6 Vto=-1.25 Cgs=1.7e-12 Cgd=750e-15</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U428_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U428, Package: TO-71, Key parameters: Beta=300e-6 Vto=-1.75 Cgs=1.7e-12 Cgd=750e-15</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U430_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U430, Package: TO-71, Key parameters: Beta=5.412e-3 Vto=-1.952 Cgs=6.49e-12 Cgd=5.85e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U431_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U431, Package: TO-71, Key parameters: Beta=5.412e-3 Vto=-2.802 Cgs=6.49e-12 Cgd=5.85e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U440_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U440, Package: TO-71, Key parameters: Beta=1.978e-3 Vto=-2.839 Cgs=2.47e-12 Cgd=2.11e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U441_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U441, Package: TO-71, Key parameters: Beta=1.978e-3 Vto=-2.839 Cgs=2.47e-12 Cgd=2.11e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U443_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U443, Package: TO-71, Key parameters: Beta=1.978e-3 Vto=-2.839 Cgs=2.47e-12 Cgd=2.11e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_njf_U444_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: NJFET Device, Part number: U444, Package: TO-71, Key parameters: Beta=1.978e-3 Vto=-2.839 Cgs=2.47e-12 Cgd=2.11e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+</COMPONENTS>

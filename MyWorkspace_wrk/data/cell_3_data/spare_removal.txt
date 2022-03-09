@@ -1,0 +1,12 @@
+(nil
+    spare_node_list(2)
+       (
+            "D1._net8"
+            "N__3"
+        )
+    spare_inst_list(2)
+       (
+            "D1.CC"
+            "D1.LL2"
+        )
+)

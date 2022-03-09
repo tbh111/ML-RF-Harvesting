@@ -1,0 +1,279 @@
+<?xml version="1.0" ?>
+<COMPONENTS>
+ <COMPONENT>
+    <NAME>ap_bdg_1S2837_19930601</NAME>
+    <DESCRIPTION>Basic Description: 2 Diode Bridge, Part number: 1S2837, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_1S2838_19930601</NAME>
+    <DESCRIPTION>Basic Description: 2 Diode Bridge, Part number: 1S2838, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_DAN201_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Rohm, Basic Description: 2 Diode Bridge, Part number: DAN201, Key parameters:</DESCRIPTION>
+    <VENDOR>Rohm</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_DAN202_19930601</NAME>
+    <DESCRIPTION>Basic Description: 2 Diode Bridge, Part number: DAN202, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_DAN202K_19930601</NAME>
+    <DESCRIPTION>Basic Description: 2 Diode Bridge, Part number: DAN202K, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_DAP201_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Rohm, Basic Description: 2 Diode Bridge, Part number: DAP201, Key parameters:</DESCRIPTION>
+    <VENDOR>Rohm</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_DAP202_19930601</NAME>
+    <DESCRIPTION>Basic Description: 2 Diode Bridge, Part number: DAP202, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_DAP202K_19930601</NAME>
+    <DESCRIPTION>Basic Description: 2 Diode Bridge, Part number: DAP202K, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_HSM2837_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Hitachi, Basic Description: 2 Diode Bridge, Part number: HSM2837, Key parameters:</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_HSM2838_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Hitachi, Basic Description: 2 Diode Bridge, Part number: HSM2838, Key parameters:</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MBR30045CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MBR30045CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MBR3020CT_19930601</NAME>
+    <DESCRIPTION>Basic Description: 2 Diode Bridge, Part number: MBR3020CT, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MBR3035CT_19930601</NAME>
+    <DESCRIPTION>Basic Description: 2 Diode Bridge, Part number: MBR3035CT, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MBR3035PT_19930601</NAME>
+    <DESCRIPTION>Basic Description: 2 Diode Bridge, Part number: MBR3035PT, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MBR3045CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MBR3045CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MBR3045PT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MBR3045PT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR10005CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR10005CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR10010CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR10010CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR10015CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR10015CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR10020CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR10020CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR1605CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR1605CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR1610CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR1610CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR1615CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR1615CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR1620CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR1620CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR1630CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR1630CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR1640CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR1640CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR1650CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR1650CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR1660CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR1660CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR20005CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR20005CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR20010CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR20010CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR20015CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR20015CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR20020CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR20020CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR3005PT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR3005PT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR3010PT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR3010PT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR3015PT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR3015PT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR3020PT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR3020PT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR3030PT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR3030PT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR3040PT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR3040PT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR605CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR605CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR610CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR610CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR615CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR615CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MUR620CT_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: MUR620CT, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_R712X_19930601</NAME>
+    <DESCRIPTION>Manufacturer: VARO_semiconductor, Basic Description: 2 Diode Bridge, Part number: R712X, Key parameters:</DESCRIPTION>
+    <VENDOR>VARO_semiconductor</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_R714X_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: R714X, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_SD241_19930601</NAME>
+    <DESCRIPTION>Basic Description: 2 Diode Bridge, Part number: SD241, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_SES5403C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 2 Diode Bridge, Part number: SES5403C, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+</COMPONENTS>

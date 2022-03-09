@@ -1,0 +1,78 @@
+
+hpeesofsim (*) 491.update1.0 Mar 16 2019, MINT version 4
+    (64-bit windows built: Sat Mar 16, 2019 19:44:49 +0000)
+
+
+2 spare nodes and 2 spare devices are removed.
+The details can be found in file 'C:\Users\13087\MyWorkspace_wrk\data\.\cell_3_data\spare_removal.txt'.
+
+Warning detected by hpeesofsim in LinearCollapse '_2_' during analysis.
+    LinearCollapse is disabled because there is 'HB' analysis present.
+
+SP SP1[1] <MyLibrary_lib:cell_3:schematic>   freq=(850 MHz->900 MHz)
+
+
+HB HB1[1] <MyLibrary_lib:cell_3:schematic>
+    Number of tones:   1.
+    Number of frequencies:   6.
+    Number of time samples:  16.
+    Number of HB equations (problem size): 121.
+    Auto mode: on.
+    Convergence mode: Auto.
+    Linear solver: direct.
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	119.872 A   	100.0             
+1.0 	856.996 mA  	100.0	1.64091 V    
+        Samanskii-Newton iteration failed
+1.1*	856.996 mA  	100.0	39.7466 mV   
+2.0*	314.334 mA  	100.0	34.3747 mV   
+3.0 	114.667 mA  	100.0	12.0115 mV   
+3.1 	78.8329 mA  	100.0	8.34011 mV   
+3.2*	60.714 mA   	100.0	36.9871 mV   
+4.0 	21.4317 mA  	100.0	15.2874 mV   
+4.1 	14.3704 mA  	100.0	10.9443 mV   
+4.2 	10.8116 mA  	100.0	8.4643 mV    
+4.3 	8.63419 mA  	100.0	6.80171 mV   
+4.4 	7.23174 mA  	100.0	5.60668 mV   
+4.5 	6.20695 mA  	100.0	4.70934 mV   
+4.6 	5.42356 mA  	100.0	4.01494 mV   
+4.7*	4.80448 mA  	100.0	34.0389 mV   
+5.0 	1.50636 mA  	100.0	8.75081 mV   
+5.1 	930.665 uA  	100.0	5.53338 mV   
+5.2 	664.599 uA  	100.0	4.2711 mV    
+5.3 	513.166 uA  	100.0	3.45414 mV   
+5.4 	412.282 uA  	100.0	2.87593 mV   
+5.5 	340.021 uA  	100.0	2.43815 mV   
+5.6 	285.605 uA  	100.0	2.08898 mV   
+5.7 	243.095 uA  	100.0	1.80276 mV   
+5.8*	208.947 uA  	100.0	11.8716 mV   
+6.0 	23.465 uA   	100.0	1.00952 mV   
+6.1 	4.29967 uA  	100.0	177.541 uV   
+6.2 	823.047 nA  	100.0	32.9415 uV   
+6.3 	155.996 nA  	100.0	6.21519 uV   
+6.4 	29.6351 nA  	100.0	1.17581 uV   
+6.5 	5.61697 nA  	100.0	222.801 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+D1._net2                4.416e-04       >       1.116e-06
+D1.DIODE1.a             2.448e-04       >       1.299e-06
+
+o Number of waveforms violating the HB truncation error check:
+        2 out of 2 waveforms.
+o Estimated max HB truncation error: 4.416e-04 @ waveform D1._net2 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.116e-06 for this waveform.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+Resource usage:
+  Total stopwatch time     =     0.67 seconds.
+

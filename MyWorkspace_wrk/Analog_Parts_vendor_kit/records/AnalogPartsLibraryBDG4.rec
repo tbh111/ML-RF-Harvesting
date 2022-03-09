@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<COMPONENTS>
+ <COMPONENT>
+    <NAME>ap_bdg_3N256_19930601</NAME>
+    <DESCRIPTION>Basic Description: 4 Diode Bridge, Part number: 3N256, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_KBPC_35_06_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Gen_Inst_Corp, Basic Description: 4 Diode Bridge, Part number: KBPC, Key parameters:</DESCRIPTION>
+    <VENDOR>Gen_Inst_Corp</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MDA2500_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 4 Diode Bridge, Part number: MDA2500, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MDA2501_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 4 Diode Bridge, Part number: MDA2501, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MDA2502_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 4 Diode Bridge, Part number: MDA2502, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MDA2504_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 4 Diode Bridge, Part number: MDA2504, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MDA2506_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 4 Diode Bridge, Part number: MDA2506, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MDA2508_19930601</NAME>
+    <DESCRIPTION>Basic Description: 4 Diode Bridge, Part number: MDA2508, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MDA2510_19930601</NAME>
+    <DESCRIPTION>Basic Description: 4 Diode Bridge, Part number: MDA2510, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MDA3500_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 4 Diode Bridge, Part number: MDA3500, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MDA3501_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 4 Diode Bridge, Part number: MDA3501, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MDA3502_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 4 Diode Bridge, Part number: MDA3502, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MDA3504_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 4 Diode Bridge, Part number: MDA3504, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MDA3506_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 4 Diode Bridge, Part number: MDA3506, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MDA3508_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 4 Diode Bridge, Part number: MDA3508, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_MDA3510_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: 4 Diode Bridge, Part number: MDA3510, Key parameters:</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_VK648_19930601</NAME>
+    <DESCRIPTION>Manufacturer: VARO_semiconductor, Basic Description: 4 Diode Bridge, Part number: VK648, Key parameters:</DESCRIPTION>
+    <VENDOR>VARO_semiconductor</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_W02M_001_19930601</NAME>
+    <DESCRIPTION>Basic Description: 4 Diode Bridge, Part number: W02M, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_W02M_002_19930601</NAME>
+    <DESCRIPTION>Basic Description: 4 Diode Bridge, Part number: W02M, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_W02M_003_19930601</NAME>
+    <DESCRIPTION>Basic Description: 4 Diode Bridge, Part number: W02M, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_W02M_004_19930601</NAME>
+    <DESCRIPTION>Basic Description: 4 Diode Bridge, Part number: W02M, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_W02M_005_19930601</NAME>
+    <DESCRIPTION>Basic Description: 4 Diode Bridge, Part number: W02M, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_bdg_W02M_006_19930601</NAME>
+    <DESCRIPTION>Basic Description: 4 Diode Bridge, Part number: W02M, Key parameters:</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+</COMPONENTS>

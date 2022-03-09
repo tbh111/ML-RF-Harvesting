@@ -1,0 +1,20 @@
+create_text_form("StdForm","Standard",0,"%v","%v",NULL,NULL,NULL,NULL);
+create_form_set("GeminiForms3","StdForm");
+
+create_item("ap_njf_NF5301_1_19930601","Manufacturer: National, Basic Description: NJFET Device, Part number: NF5301-1, Package: TO-72, Key parameters: Beta=81.03e-6 Vto=-1.428 Cgs=4.93e-12 Cgd=3.94e-12","J",262144,-1,NULL,"Component Parameters","Non-linear Model","#uselib \"AnalogParts\" , \"%d\"\n%d:%t %# %44?0%:%31?%C%:_net%c%;%;%e %r%b%8?%29?%:%30?%p %:%k%?[%1i]%;=%p %;%;%e%e","ap_njf_NF5301_1_19930601","%t%b%r%38?%:\n%30?%s%:%k%?[%1i]%;=%s%;%;%e%e%;","SYM_JFET",0,NULL,32,
+create_parm("Vtoscale","Vto scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Afscale","Af scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Fcscale","Fc scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Tnomscale","Tnom scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Kfscale","Kf scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Isscale","Is scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Pbscale","Pb scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Betascale","Beta scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Imaxscale","Imax scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Cgdscale","Cgd scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Rdscale","Rd scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Lambdascale","Lambda scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Cgsscale","Cgs scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Rsscale","Rs scaling factor (default=1)",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Af","Af value",73216,"GeminiForms3",-1,prm("StdForm","")),
+create_parm("Kf","Kf value",73216,"GeminiForms3",-1,prm("StdForm","")));

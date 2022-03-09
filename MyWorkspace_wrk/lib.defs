@@ -1,0 +1,5 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+DEFINE MyLibrary_lib MyLibrary_lib
+ASSIGN MyLibrary_lib libMode shared
+INCLUDE $HOME/MyWorkspace_wrk/Analog_Parts_vendor_kit/lib.defs
+INCLUDE $HOME/MyWorkspace_wrk/HFDiode_vendor_kit/lib.defs

@@ -1,0 +1,885 @@
+<?xml version="1.0" ?>
+<COMPONENTS>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N4918_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N4918, Package: TO-126, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N4919_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N4919, Package: TO-126, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N4920_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N4920, Package: TO-126, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N5193_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N5193, Package: TO-126, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N5194_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N5194, Package: TO-126, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N5195_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N5195, Package: TO-126, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N5980_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N5980, Package: MOT-90, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N5981_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N5981, Package: MOT-90, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N5982_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N5982, Package: MOT-90, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6021_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6021, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6022_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6022, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6023_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6023, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6024_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6024, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6025_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6025, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6026_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6026, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6106_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6106, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6107_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6107, Package: TO-126, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6108_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6108, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6109_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6109, Package: TO-126, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6110_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6110, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6111_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6111, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6124_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6124, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6125_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6125, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6126_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6126, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6132_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6132, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6133_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6133, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6134_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6134, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6475_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6475, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6476_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6476, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6489_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6489, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6490_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6490, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2N6491_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2N6491, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE30_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE30, Package: MOT-199, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE30A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE30A, Package: MOT-199, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE30B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE30B, Package: MOT-199, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE30C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE30C, Package: MOT-199, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE34_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE34, Package: MOT-199, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE34A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE34A, Package: MOT-199, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE34B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE34B, Package: MOT-199, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE34C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE34C, Package: MOT-199, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE42_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE42, Package: MOT-199, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE42A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE42A, Package: MOT-199, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE42B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE42B, Package: MOT-199, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE42C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE42C, Package: MOT-199, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE370_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE370, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE371_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE371, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE493_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE493, Package: TO-126, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE494_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE494, Package: TO-126, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE2371_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE2371, Package: MOT-199, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE2481_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE2481, Package: MOT-199, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE2901K_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE2901K, Package: MOT-199, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE2901T_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE2901T, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE2955_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE2955, Package: MOT-90, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE2955K_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE2955K, Package: MOT-199, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE2955T_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE2955T, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE3370_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE3370, Package: TO-126, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE3371_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE3371, Package: TO-126, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE4918_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE4918, Package: GENERAL, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE4919_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE4919, Package: GENERAL, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE4920_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE4920, Package: GENERAL, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE5193_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE5193, Package: GENERAL, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE5194_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE5194, Package: GENERAL, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_MJE5195_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: MJE5195, Package: GENERAL, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA1C06_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA1C06, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA1C08_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA1C08, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA1C11_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA1C11, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA30_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA30, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA30A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA30A, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA30B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA30B, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA30C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA30C, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA32_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA32, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA32A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA32A, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA32B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA32B, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA32C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA32C, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA42_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA42, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA42A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA42A, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA42B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA42B, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_RCA42C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: RCA42C, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP30_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP30, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP30A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP30A, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP30B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP30B, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP30C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP30C, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP32_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP32, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP32A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP32A, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP32B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP32B, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP32C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP32C, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP34_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP34, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP34A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP34A, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP34B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP34B, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP34C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP34C, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP42_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP42, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP42A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP42A, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP42B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP42B, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP42C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP42C, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP62_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP62, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP62A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP62A, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP62B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP62B, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP62C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP62C, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP74_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP74, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP74A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP74A, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP74B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP74B, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_TIP2955_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: TIP2955, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q40872_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q40872, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD186_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD186, Package: TO-126, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD188_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD188, Package: TO-126, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD190_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD190, Package: TO-126, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD202_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD202, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD204_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD204, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD223_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD223, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD224_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD224, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD225_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD225, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD234_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD234, Package: TO-126, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD236_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD236, Package: TO-126, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD238_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD238, Package: TO-126, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD240_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD240, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD240A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD240A, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD240B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD240B, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD240C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD240C, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD242_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD242, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD242A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD242A, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD242B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD242B, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD242C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD242C, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD244_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD244, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD244A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD244A, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD244B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD244B, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD244C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD244C, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD346_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD346, Package: TO-220, Key parameters: Is=66.19e-15 Bf=137.6 Tf=23.21e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD434_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD434, Package: TO-126, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD436_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD436, Package: TO-126, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD438_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD438, Package: TO-126, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD440_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD440, Package: TO-126, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD442_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD442, Package: TO-126, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD534_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD534, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD536_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD536, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD538_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD538, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD634_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD634, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD636_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD636, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD638_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD638, Package: TO-220, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD734_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD734, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD736_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD736, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD738_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD738, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD796_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD796, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD798_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD798, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD800_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD800, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_BD802_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: BD802, Package: TO-220, Key parameters: Is=632.4e-15 Bf=112.1 Tf=17.41e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2SA496_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2SA496, Package: TO-126, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_ppr_Q2SA505_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-PNP Transistor, Part number: Q2SA505, Package: TO-126, Key parameters: Is=51.23e-15 Bf=434.1 Tf=13.05e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+</COMPONENTS>

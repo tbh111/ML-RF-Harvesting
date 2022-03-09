@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DCOPData Simulator="hpeesofsim" Version="1.0" Time="周六 3月 5 10:19:24 2022">
+ <Controller name="SP1">
+  <SweepCondition>
+   <P>freq: 8.5000000000000000e+08</P>
+  </SweepCondition>
+  <DC_OPDeclaration/>
+  <DC_Voltages>
+   <V>0: 0.0000000000000000e+00</V>
+   <V>D1._net2: 0.0000000000000000e+00</V>
+   <V>D1._net4: 0.0000000000000000e+00</V>
+   <V>D1._net6: 0.0000000000000000e+00</V>
+   <V>D1.net1: 0.0000000000000000e+00</V>
+   <V>D1.net3: 0.0000000000000000e+00</V>
+   <V>DA_SmithChartMatch1.P1: 0.0000000000000000e+00</V>
+   <V>DA_SmithChartMatch1.P2: 0.0000000000000000e+00</V>
+   <V>N__12: 0.0000000000000000e+00</V>
+   <V>N__13: 0.0000000000000000e+00</V>
+   <V>N__7: 0.0000000000000000e+00</V>
+   <GV>0: 0.0000000000000000e+00</GV>
+  </DC_Voltages>
+  <DC_PinCurrents>
+   <I>D1: 0.0000000000000000e+00, 0.0000000000000000e+00, 0.0000000000000000e+00</I>
+   <I>DA_SmithChartMatch1: 0.0000000000000000e+00, 0.0000000000000000e+00</I>
+   <I>DA_SmithChartMatch1.C1: 0.0000000000000000e+00, 0.0000000000000000e+00</I>
+   <I>DA_SmithChartMatch1.L1: 0.0000000000000000e+00, 0.0000000000000000e+00</I>
+   <I>PORT1: 0.0000000000000000e+00, 0.0000000000000000e+00</I>
+   <I>Term2: 0.0000000000000000e+00, 0.0000000000000000e+00</I>
+  </DC_PinCurrents>
+  <DC_OPInstances/>
+ </Controller>
+</DCOPData>

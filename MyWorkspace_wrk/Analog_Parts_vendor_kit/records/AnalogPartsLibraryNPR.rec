@@ -1,0 +1,1269 @@
+<?xml version="1.0" ?>
+<COMPONENTS>
+ <COMPONENT>
+    <NAME>ap_npr_BD157_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD157, Package: TO-126, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD158_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD158, Package: TO-126, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD159_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD159, Package: TO-126, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD185_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD185, Package: TO-126, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD187_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD187, Package: TO-126, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD189_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD189, Package: TO-126, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD201_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD201, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD203_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD203, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD220_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD220, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD221_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD221, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD222_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD222, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD233_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD233, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD235_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD235, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD237_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD237, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD239_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD239, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD239A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD239A, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD239B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD239B, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD239C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD239C, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD241_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD241, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD241A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD241A, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD241B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD241B, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD241C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD241C, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD243_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD243, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD243A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD243A, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD243B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD243B, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD243C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD243C, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD347_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD347, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD433_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD433, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD435_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD435, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD437_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD437, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD439_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD439, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD441_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD441, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD533_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD533, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD535_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD535, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD537_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD537, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD633_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD633, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD635_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD635, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD637_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD637, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD733_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD733, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD735_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD735, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD737_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD737, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD795_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD795, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD797_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD797, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD799_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD799, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_BD801_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: BD801, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE2480_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE2480, Package: MOT-199, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE2482_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE2482, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE2483_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE2483, Package: MOT-199, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE2801T_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE2801T, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE29_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE29, Package: MOT-199, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE29A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE29A, Package: MOT-199, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE29B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE29B, Package: MOT-199, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE29C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE29C, Package: MOT-199, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE3055_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE3055, Package: MOT-90, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE3055K_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE3055K, Package: MOT-199, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE3055T_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE3055T, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE33_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE33, Package: MOT-199, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE33A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE33A, Package: MOT-199, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE33B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE33B, Package: MOT-199, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE33C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE33C, Package: MOT-199, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE340_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE340, Package: TO-126, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE341_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE341, Package: TO-126, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE3439_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE3439, Package: TO-126, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE344_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE344, Package: TO-126, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE3440_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE3440, Package: TO-126, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE345_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE345, Package: TO-126, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE3520_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE3520, Package: TO-126, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE3521_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE3521, Package: TO-126, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE41_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE41, Package: MOT-199, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE41A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE41A, Package: MOT-199, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE41B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE41B, Package: MOT-199, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE41C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE41C, Package: MOT-199, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE482_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE482, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE483_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE483, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE484_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE484, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE492_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE492, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE4921_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE4921, Package: GENERAL, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE4922_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE4922, Package: GENERAL, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE4923_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE4923, Package: GENERAL, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE5190_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE5190, Package: GENERAL, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE5190J_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE5190J, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE5191_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE5191, Package: GENERAL, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE5191J_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE5191J, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE5192_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE5192, Package: GENERAL, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE5192J_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE5192J, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE520_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE520, Package: TO-126, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE520K_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE520K, Package: TO-199, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE521_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE521, Package: TO-126, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_MJE521K_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: MJE521K, Package: MOT-199, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N3055_19930601</NAME>
+    <DESCRIPTION>Manufacturer: TI, Basic Description: POWER-NPN Transistor, Part number: Q2N3055, Package: TO-3, Key parameters: Is=974.4e-15 Bf=99.49 Tf=39.11e-9</DESCRIPTION>
+    <VENDOR>TI</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N3440_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N3440, Package: TO-39, Key parameters: Is=2.644e-12 Bf=1.557K Tf=2.033e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N4063_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N4063, Package: TO-37, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N4064_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N4064, Package: TO-37, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N4921_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N4921, Package: TO-126, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N4922_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N4922, Package: TO-126, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N4923_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N4923, Package: TO-126, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5190_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5190, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5191_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5191, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5192_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5192, Package: TO-126, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5294_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5294, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5296_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5296, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5298_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5298, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5490_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5490, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5492_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5492, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5494_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5494, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5496_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5496, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5655_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5655, Package: TO-220, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5656_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5656, Package: TO-126, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5657_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5657, Package: TO-126, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5983_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5983, Package: MOT-90, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5984_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5984, Package: MOT-90, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N5985_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N5985, Package: MOT-90, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6098_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6098, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6099_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6099, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6100_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6100, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6101_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6101, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6102_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6102, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6103_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6103, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6121_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6121, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6122_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6122, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6123_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6123, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6129_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6129, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6130_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6130, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6131_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6131, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6175_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6175, Package: TO-5, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6176_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6176, Package: TO-5, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6177_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6177, Package: TO-5, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6288_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6288, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6290_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6290, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6292_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6292, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6465_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6465, Package: TO-66, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6473_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6473, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6474_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6474, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6486_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6486, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6487_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6487, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6488_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6488, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6591_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6591, Package: TO-202, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6592_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6592, Package: TO-202, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6593_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6593, Package: TO-202, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6720_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6720, Package: TO-237, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6721_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6721, Package: TO-237, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6722_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6722, Package: TO-237, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q2N6723_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q2N6723, Package: TO-237, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40513_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40513, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40514_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40514, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40613_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40613, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40618_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40618, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40621_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40621, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40622_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40622, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40624_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40624, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40627_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40627, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40629_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40629, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40630_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40630, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40631_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40631, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40632_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40632, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40871_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40871, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40873_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40873, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40874_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40874, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40875_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40875, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q40876_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q40876, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q41500_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q41500, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_Q41504_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: Q41504, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA1C05_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA1C05, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA1C07_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA1C07, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA1C09_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA1C09, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA1C10_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA1C10, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA1C14_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA1C14, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA29_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA29, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA29A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA29A, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA29B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA29B, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA29C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA29C, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA3054_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA3054, Package: TO-220, Key parameters: Is=1.129e-12 Bf=161 Tf=23.64e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA3055_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA3055, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA31_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA31, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA31A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA31A, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA31B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA31B, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA31C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA31C, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA41_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA41, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA41A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA41A, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA41B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA41B, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCA41C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCA41C, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCP115_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCP115, Package: TO-202, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCP117_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCP117, Package: TO-202, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCP131A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCP131A, Package: TO-202, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCP131B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCP131B, Package: TO-202, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCP133A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCP133A, Package: TO-202, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_RCP133B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: RCP133B, Package: TO-202, Key parameters: Is=321.7e-15 Bf=278.8 Tf=2.066e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP29_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP29, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP29A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP29A, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP29B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP29B, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP29C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP29C, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP3055_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP3055, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP31_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP31, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP31A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP31A, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP31B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP31B, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP31C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP31C, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP33_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP33, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP33A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP33A, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP33B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP33B, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP33C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP33C, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP41_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP41, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP41A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP41A, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP41B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP41B, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP41C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP41C, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP61_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP61, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP61A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP61A, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP61B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP61B, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP61C_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP61C, Package: TO-220, Key parameters: Is=2.447e-12 Bf=208.2 Tf=19.85e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP73_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP73, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP73A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP73A, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_npr_TIP73B_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: POWER-NPN Transistor, Part number: TIP73B, Package: TO-220, Key parameters: Is=457.5e-15 Bf=156.7 Tf=37.34e-9</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+</COMPONENTS>

@@ -1,0 +1,1398 @@
+<?xml version="1.0" ?>
+<COMPONENTS>
+ <COMPONENT>
+    <NAME>di_hp_HBAT540B_20000301</NAME>
+    <DESCRIPTION> HBAT540B: SOT323 Package 3-terminal, HBAT-540x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS282C_20000301</NAME>
+    <DESCRIPTION> HSMS282C: SOT323 Package 3-terminal, HSMS-282x series pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS281E_20000301</NAME>
+    <DESCRIPTION> HSMS281E: SOT323 Package 3-terminal, HSMS-281x common anode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbv3102l_19930908</NAME>
+    <DESCRIPTION> mmbv3102l: SOT23, PN if(max)=200, Vr(max)=30, P(max)=200, VHF Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS286C_20000301</NAME>
+    <DESCRIPTION> HSMS286C: SOT323 Package 3-terminal, HSMS-286x series pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mbd101_19930908</NAME>
+    <DESCRIPTION> mbd101: 182-02, SCHOTTKY if(max)=NA, Vr(max)=4, P(max)=280, UHF Mixer</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bb833_19930908</NAME>
+    <DESCRIPTION> bb833: SOD323, PN if(max)=20, Vr(max)=30, P(max)=NA, RF Tuning</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bb639_19930908</NAME>
+    <DESCRIPTION> bb639: SOD323, PN if(max)=20, Vr(max)=30, P(max)=NA, RF Tuning</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS282K_20000301</NAME>
+    <DESCRIPTION> HSMS282K: SOT363 Package 6-terminal, HSMS-282x High isolation unconnected pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2800_20000301</NAME>
+    <DESCRIPTION> HSMS2800: SOT23 Package 3-terminal, HSMS-280x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS286K_20000301</NAME>
+    <DESCRIPTION> HSMS286K: SOT363 Package 6-terminal, HSMS-286x High isolation unconnected pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS8202_20000301</NAME>
+    <DESCRIPTION> HSMS8202: SOT23 Package 3-terminal, HSMS-820x series pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_1n5444a_19930908</NAME>
+    <DESCRIPTION> 1n5444a: 51-02, PN if(max)=NA, Vr(max)=30, P(max)=400, Tuning, UHF</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2824_20000301</NAME>
+    <DESCRIPTION> HSMS2824: SOT23 Package 3-terminal, HSMS-282x common cathode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2808_20000301</NAME>
+    <DESCRIPTION> HSMS2808: SOT143 Package 4-terminal, HSMS-280x bridge quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sny_1t33_19930908</NAME>
+    <DESCRIPTION> 1t33: M205, PN if(max)=NA, Vr(max)=30, P(max)=NA, CATV Tuning</DESCRIPTION>
+    <VENDOR>Sony</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2864_20000301</NAME>
+    <DESCRIPTION> HSMS2864: SOT23 Package 3-terminal, HSMS-286x common cathode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_baw56lt1_19930908</NAME>
+    <DESCRIPTION> baw56lt1: SOT23, PN if(max)=NA, Vr(max)=70, P(max)=NA, Low Current Switching</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbv109l_19930908</NAME>
+    <DESCRIPTION> mmbv109l: SOT23, PN if(max)=200, Vr(max)=30, P(max)=200, VHF Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS270C_20000301</NAME>
+    <DESCRIPTION> HSMS270C: SOT323 Package 3-terminal, HSMS-270x series</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bb640_19930908</NAME>
+    <DESCRIPTION> bb640: SOD323, PN if(max)=20, Vr(max)=30, P(max)=NA, RF Tuning</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbv2101l_19930908</NAME>
+    <DESCRIPTION> mmbv2101l: SOT23, PN if(max)=200, Vr(max)=30, P(max)=200, FM/TV Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HBAT540C_20000301</NAME>
+    <DESCRIPTION> HBAT540C: SOT323 Package 3-terminal, HBAT-540x series</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS281F_20000301</NAME>
+    <DESCRIPTION> HSMS281F: SOT323 Package 3-terminal, HSMS-281x common cathode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bb535_19930908</NAME>
+    <DESCRIPTION> bb535: SOD323, PN if(max)=20, Vr(max)=30, P(max)=NA, VHF Tuning</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bat64_19930908</NAME>
+    <DESCRIPTION> bat64: SOT23, SCHOTTKY if(max)=200, Vr(max)=30, P(max)=230, Bias Isolation, Clamping</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbv2105l_19930908</NAME>
+    <DESCRIPTION> mmbv2105l: SOT23, PN if(max)=200, Vr(max)=30, P(max)=200, FM/TV Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hit_1ss166_19930908</NAME>
+    <DESCRIPTION> 1ss166: UMD, SCHOTTKY if(max)=15, Vr(max)=10, P(max)=150, CATV Mixer</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbv2109l_19930908</NAME>
+    <DESCRIPTION> mmbv2109l: SOT23, PN if(max)=200, Vr(max)=30, P(max)=200, FM/TV Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS282L_20000301</NAME>
+    <DESCRIPTION> HSMS282L: SOT363 Package 6-terminal, HSMS-282x unconnected trio</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mv2115_19930908</NAME>
+    <DESCRIPTION> mv2115: 182-02, PN if(max)=200, Vr(max)=30, P(max)=280, FM/TV Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS280P_20000301</NAME>
+    <DESCRIPTION> HSMS280P: SOT363 Package 6-terminal, HSMS-280x bridge quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mv2107_19930908</NAME>
+    <DESCRIPTION> mv2107: 182-02, PN if(max)=200, Vr(max)=30, P(max)=280, FM/TV Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS286L_20000301</NAME>
+    <DESCRIPTION> HSMS286L: SOT363 Package 6-terminal, HSMS-286x unconnected trio</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_1n5453a_19930908</NAME>
+    <DESCRIPTION> 1n5453a: 51-02, PN if(max)=NA, Vr(max)=30, P(max)=400, Tuning, UHF</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hit_hsm2694_19930908</NAME>
+    <DESCRIPTION> hsm2694: SOT23, PN if(max)=NA, Vr(max)=35, P(max)=150, Tuner Band Switch</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2825_20000301</NAME>
+    <DESCRIPTION> HSMS2825: SOT143 Package 4-terminal, HSMS-282x unconnected pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2817_20000301</NAME>
+    <DESCRIPTION> HSMS2817: SOT143 Package 4-terminal, HSMS-281x ring quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2865_20000301</NAME>
+    <DESCRIPTION> HSMS2865: SOT143 Package 4-terminal, HSMS-286x unconnected pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hit_hsm88as_19930908</NAME>
+    <DESCRIPTION> hsm88as: SOT23, SCHOTTKY if(max)=15, Vr(max)=10, P(max)=NA, CATV Mixer</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS282E_20000301</NAME>
+    <DESCRIPTION> HSMS282E: SOT323 Package 3-terminal, HSMS-282x common anode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS286E_20000301</NAME>
+    <DESCRIPTION> HSMS286E: SOT323 Package 3-terminal, HSMS-286x common anode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sny_1t362_19930908</NAME>
+    <DESCRIPTION> 1t362: SOD323, PN if(max)=NA, Vr(max)=30, P(max)=NA, VHF-UHF Tuning</DESCRIPTION>
+    <VENDOR>Sony</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS282M_20000301</NAME>
+    <DESCRIPTION> HSMS282M: SOT363 Package 6-terminal, HSMS-282x common cathode quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2810_20000301</NAME>
+    <DESCRIPTION> HSMS2810: SOT23 Package 3-terminal, HSMS-281x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bav99_19930908</NAME>
+    <DESCRIPTION> bav99: SOT23, SCHOTTKY if(max)=250, Vr(max)=70, P(max)=330, High Speed Switching</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2802_20000301</NAME>
+    <DESCRIPTION> HSMS2802: SOT23 Package 3-terminal, HSMS-280x series</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2850_20000301</NAME>
+    <DESCRIPTION> HSMS2850: SOT23 Package 3-terminal, HSMS-285x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mv7005t1_19930908</NAME>
+    <DESCRIPTION> mv7005t1: SOT223, PN if(max)=50, Vr(max)=15, P(max)=280, High Capacitance Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2818_20000301</NAME>
+    <DESCRIPTION> HSMS2818: SOT143 Package 4-terminal, HSMS-281x bridge quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_bav99lt1_19930908</NAME>
+    <DESCRIPTION> bav99lt1: SOT23, PN if(max)=NA, Vr(max)=70, P(max)=NA, Low Current Switching</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS280B_20000301</NAME>
+    <DESCRIPTION> HSMS280B: SOT323 Package 3-terminal, HSMS-280x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS282F_20000301</NAME>
+    <DESCRIPTION> HSMS282F: SOT323 Package 3-terminal, HSMS-282x common cathode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hit_hsu277_19930908</NAME>
+    <DESCRIPTION> hsu277: URP, PN if(max)=NA, Vr(max)=NA, P(max)=NA, NA</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS286F_20000301</NAME>
+    <DESCRIPTION> HSMS286F: SOT323 Package 3-terminal, HSMS-286x common cathode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sny_1t363_19930908</NAME>
+    <DESCRIPTION> 1t363: SOD323, PN if(max)=NA, Vr(max)=30, P(max)=NA, CATV Tuning</DESCRIPTION>
+    <VENDOR>Sony</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbd353lt1_19930908</NAME>
+    <DESCRIPTION> mmbd353lt1: SOT23, SCHOTTKY if(max)=NA, Vr(max)=4, P(max)=225, UHF-VHF Mixer/Detector</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS282N_20000301</NAME>
+    <DESCRIPTION> HSMS282N: SOT363 Package 6-terminal, HSMS-282x common anode quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS280R_20000301</NAME>
+    <DESCRIPTION> HSMS280R: SOT363 Package 6-terminal, HSMS-280x ring quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mv2109_19930908</NAME>
+    <DESCRIPTION> mv2109: 182-02, PN if(max)=200, Vr(max)=30, P(max)=280, FM/TV Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2803_20000301</NAME>
+    <DESCRIPTION> HSMS2803: SOT23 Package 3-terminal, HSMS-280x common anode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS8205_20000301</NAME>
+    <DESCRIPTION> HSMS8205: SOT143 Package 4-terminal, HSMS-820x unconnected pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS285P_20000301</NAME>
+    <DESCRIPTION> HSMS285P: SOT363 Package 6-terminal, HSMS-285x bridge quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_tsb_1sv186_19930908</NAME>
+    <DESCRIPTION> 1sv186: 1-2J1A, PN if(max)=NA, Vr(max)=30, P(max)=NA, UHF Tuning</DESCRIPTION>
+    <VENDOR>Toshiba</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_1n5139a_19930908</NAME>
+    <DESCRIPTION> 1n5139a: 51-02, PN if(max)=250, Vr(max)=60, P(max)=400, Tuning, UHF</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_phl_bb219_19930908</NAME>
+    <DESCRIPTION> bb219: SOD80, PN if(max)=20, Vr(max)=30, P(max)=NA, VHF Tuning</DESCRIPTION>
+    <VENDOR>Phillips</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2827_20000301</NAME>
+    <DESCRIPTION> HSMS2827: SOT143 Package 4-terminal, HSMS-282x ring quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_hsms2818_19930908</NAME>
+    <DESCRIPTION> hsms2818: SOT143, SCHOTTKY if(max)=35, Vr(max)=20, P(max)=250, General RF</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mv7404t1_19930908</NAME>
+    <DESCRIPTION> mv7404t1: SOT223, PN if(max)=NA, Vr(max)=NA, P(max)=NA, NA</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS280C_20000301</NAME>
+    <DESCRIPTION> HSMS280C: SOT323 Package 3-terminal, HSMS-280x series pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bas70_19930908</NAME>
+    <DESCRIPTION> bas70: SOT23, SCHOTTKY if(max)=15, Vr(max)=70, P(max)=NA, General Purpose RF</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bas70_04_19930908</NAME>
+    <DESCRIPTION> bas70_04: SOT23, SCHOTTKY if(max)=15, Vr(max)=70, P(max)=NA, General Purpose RF</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bb619_19930908</NAME>
+    <DESCRIPTION> bb619: SOD123, PN if(max)=20, Vr(max)=30, P(max)=NA, VHF/CATV Tuning</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS280K_20000301</NAME>
+    <DESCRIPTION> HSMS280K: SOT363 Package 6-terminal, HSMS-280x High isolation unconnected pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS8101_20000301</NAME>
+    <DESCRIPTION> HSMS8101: SOT23 Package 3-terminal, HSMS-820x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2820_20000301</NAME>
+    <DESCRIPTION> HSMS2820: SOT23 Package 3-terminal, HSMS-282x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2812_20000301</NAME>
+    <DESCRIPTION> HSMS2812: SOT23 Package 3-terminal, HSMS-281x series pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2804_20000301</NAME>
+    <DESCRIPTION> HSMS2804: SOT23 Package 3-terminal, HSMS-280x common cathode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_1n5148_19930908</NAME>
+    <DESCRIPTION> 1n5148: 51-02, PN if(max)=250, Vr(max)=60, P(max)=400, Tuning, UHF</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_bav70lt1_19930908</NAME>
+    <DESCRIPTION> bav70lt1: SOT23, PN if(max)=50, Vr(max)=70, P(max)=NA, Low Current Switching</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2860_20000301</NAME>
+    <DESCRIPTION> HSMS2860: SOT23 Package 3-terminal, HSMS-286x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bat15_099r_19930908</NAME>
+    <DESCRIPTION> bat15_099r: SOT143, SCHOTTKY if(max)=110, Vr(max)=NA, P(max)=NA, NA</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2852_20000301</NAME>
+    <DESCRIPTION> HSMS2852: SOT23 Package 3-terminal, HSMS-285x series</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2828_20000301</NAME>
+    <DESCRIPTION> HSMS2828: SOT143 Package 4-terminal, HSMS-282x bridge quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbv105gl_19930908</NAME>
+    <DESCRIPTION> mmbv105gl: SOT23, PN if(max)=200, Vr(max)=30, P(max)=200, VHF Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbv409l_19930908</NAME>
+    <DESCRIPTION> mmbv409l: SOT23, PN if(max)=200, Vr(max)=20, P(max)=225, VHF Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbv609l_19930908</NAME>
+    <DESCRIPTION> mmbv609l: SOT23, PN if(max)=100, Vr(max)=20, P(max)=225, FM Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bb620_19930908</NAME>
+    <DESCRIPTION> bb620: SOD123, PN if(max)=20, Vr(max)=30, P(max)=NA, TV/VTR Tuning</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS281B_20000301</NAME>
+    <DESCRIPTION> HSMS281B: SOT323 Package 3-terminal, HSMS-281x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbv809l_19930908</NAME>
+    <DESCRIPTION> mmbv809l: SOT23, PN if(max)=20, Vr(max)=20, P(max)=225, Tuning, 900 MHz</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bas40_04_19930908</NAME>
+    <DESCRIPTION> bas40_04: SOT23, SCHOTTKY if(max)=40, Vr(max)=40, P(max)=NA, General Purpose RF</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mv409_19930908</NAME>
+    <DESCRIPTION> mv409: 182-02, PN if(max)=200, Vr(max)=20, P(max)=280, VHF Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bb515_19930908</NAME>
+    <DESCRIPTION> bb515: SOD123, PN if(max)=20, Vr(max)=30, P(max)=NA, VHF Tuning</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS285B_20000301</NAME>
+    <DESCRIPTION> HSMS285B: SOT323 Package 3-terminal, HSMS-285x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS280L_20000301</NAME>
+    <DESCRIPTION> HSMS280L: SOT363 Package 6-terminal, HSMS-280x unconnected trio</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mv2111_19930908</NAME>
+    <DESCRIPTION> mv2111: 182-02, PN if(max)=200, Vr(max)=30, P(max)=280, FM/TV Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2700_20000301</NAME>
+    <DESCRIPTION> HSMS2700: SOT23 Package 3-terminal, HSMS-270x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS282P_20000301</NAME>
+    <DESCRIPTION> HSMS282P: SOT363 Package 6-terminal, HSMS-282x bridge quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HBAT5400_20000301</NAME>
+    <DESCRIPTION> HBAT5400: SOT23 Package 3-terminal, HBAT-540x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2813_20000301</NAME>
+    <DESCRIPTION> HSMS2813: SOT23 Package 3-terminal, HSMS-281x common anode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2805_20000301</NAME>
+    <DESCRIPTION> HSMS2805: SOT143 Package 4-terminal, HSMS-280x unconnected pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS286P_20000301</NAME>
+    <DESCRIPTION> HSMS286P: SOT363 Package 6-terminal, HSMS-286x bridge quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS8207_20000301</NAME>
+    <DESCRIPTION> HSMS8207: SOT143 Package 4-terminal, HSMS-820x ring quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2829_20000301</NAME>
+    <DESCRIPTION> HSMS2829: SOT143 Package 4-terminal, HSMS-282x crossover quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bas40_19930908</NAME>
+    <DESCRIPTION> bas40: SOT23, SCHOTTKY if(max)=40, Vr(max)=40, P(max)=NA, General Purpose RF</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbd101l_19930908</NAME>
+    <DESCRIPTION> mmbd101l: SOT23, SCHOTTKY if(max)=NA, Vr(max)=4, P(max)=280, UHF Mixer</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS281C_20000301</NAME>
+    <DESCRIPTION> HSMS281C: SOT323 Package 3-terminal, HSMS-281x series pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbd301l_19930908</NAME>
+    <DESCRIPTION> mmbd301l: SOT23, SCHOTTKY if(max)=NA, Vr(max)=30, P(max)=280, UHF-VHF Detector</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS280E_20000301</NAME>
+    <DESCRIPTION> HSMS280E: SOT323 Package 3-terminal, HSMS-280x common anode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hit_hsr276_19930908</NAME>
+    <DESCRIPTION> hsr276: SRP, SCHOTTKY if(max)=30, Vr(max)=3, P(max)=NA, Tuner Mixer</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hit_hvu306a_19930908</NAME>
+    <DESCRIPTION> hvu306a: URP, PN if(max)=NA, Vr(max)=NA, P(max)=NA, NA</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bb831_19930908</NAME>
+    <DESCRIPTION> bb831: SOD323, PN if(max)=20, Vr(max)=30, P(max)=NA, RF Tuning</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS285C_20000301</NAME>
+    <DESCRIPTION> HSMS285C: SOT323 Package 3-terminal, HSMS-285x series pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mbd301_19930908</NAME>
+    <DESCRIPTION> mbd301: 182-02, SCHOTTKY if(max)=NA, Vr(max)=30, P(max)=280, UHF-VHF Detector</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS281K_20000301</NAME>
+    <DESCRIPTION> HSMS281K: SOT363 Package 6-terminal, HSMS-281x High isolation unconnected pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS280M_20000301</NAME>
+    <DESCRIPTION> HSMS280M: SOT363 Package 6-terminal, HSMS-280x common cathode quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mv2112_19930908</NAME>
+    <DESCRIPTION> mv2112: 182-02, PN if(max)=200, Vr(max)=30, P(max)=280, FM/TV Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_tsb_1sv214_19930908</NAME>
+    <DESCRIPTION> 1sv214: SOD323, PN if(max)=NA, Vr(max)=30, P(max)=NA, TV Tuning</DESCRIPTION>
+    <VENDOR>Toshiba</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mv2104_19930908</NAME>
+    <DESCRIPTION> mv2104: 182-02, PN if(max)=200, Vr(max)=30, P(max)=280, FM/TV Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hit_hsk120_19930908</NAME>
+    <DESCRIPTION> hsk120: LLD, PN if(max)=150, Vr(max)=60, P(max)=NA, High Speed Switching</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2822_20000301</NAME>
+    <DESCRIPTION> HSMS2822: SOT23 Package 3-terminal, HSMS-282x series</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2814_20000301</NAME>
+    <DESCRIPTION> HSMS2814: SOT23 Package 3-terminal, HSMS-281x common cathode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_bas16t_19930908</NAME>
+    <DESCRIPTION> bas16t: SOT23, PN if(max)=50, Vr(max)=75, P(max)=NA, Low Current Switching</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bat14_099r_19930908</NAME>
+    <DESCRIPTION> bat14_099r: SOT143, SCHOTTKY if(max)=90, Vr(max)=NA, P(max)=NA, NA</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_hsms2805_19930908</NAME>
+    <DESCRIPTION> hsms2805: SOT143, SCHOTTKY if(max)=15, Vr(max)=70, P(max)=250, General RF</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_bal99lt1_19930908</NAME>
+    <DESCRIPTION> bal99lt1: SOT23, PN if(max)=50, Vr(max)=70, P(max)=NA, Low Current Switching</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_phl_bb804_19930908</NAME>
+    <DESCRIPTION> bb804: SOT23, PN if(max)=50, Vr(max)=18, P(max)=NA, FM Tuning</DESCRIPTION>
+    <VENDOR>Phillips</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2862_20000301</NAME>
+    <DESCRIPTION> HSMS2862: SOT23 Package 3-terminal, HSMS-286x series</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_phl_bby31_19930908</NAME>
+    <DESCRIPTION> bby31: SOT23, PN if(max)=20, Vr(max)=28, P(max)=NA, UHF Tuning</DESCRIPTION>
+    <VENDOR>Phillips</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mv104_19930908</NAME>
+    <DESCRIPTION> mv104: 29-04, PN if(max)=200, Vr(max)=32, P(max)=280, FM Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hit_hvm14s_19930908</NAME>
+    <DESCRIPTION> hvm14s: SOT23, PN if(max)=50, Vr(max)=50, P(max)=100, VHF/UHF Attenuator</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hit_hvu202_19930908</NAME>
+    <DESCRIPTION> hvu202: URP, PN if(max)=NA, Vr(max)=NA, P(max)=NA, NA</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mv209_19930908</NAME>
+    <DESCRIPTION> mv209: 182-02, PN if(max)=200, Vr(max)=30, P(max)=280, VHF Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS282B_20000301</NAME>
+    <DESCRIPTION> HSMS282B: SOT323 Package 3-terminal, HSMS-282x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS280F_20000301</NAME>
+    <DESCRIPTION> HSMS280F: SOT323 Package 3-terminal, HSMS-280x common cathode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bat62_19930908</NAME>
+    <DESCRIPTION> bat62: SOT143, SCHOTTKY if(max)=20, Vr(max)=40, P(max)=NA, NA</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS286B_20000301</NAME>
+    <DESCRIPTION> HSMS286B: SOT323 Package 3-terminal, HSMS-286x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbd352l_19930908</NAME>
+    <DESCRIPTION> mmbd352l: SOT23, SCHOTTKY if(max)=NA, Vr(max)=4, P(max)=225, UHF-VHF Mixer/Detector</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bby51_19930908</NAME>
+    <DESCRIPTION> bby51: SOT23, PN if(max)=20, Vr(max)=7, P(max)=NA, RF Tuning</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS281L_20000301</NAME>
+    <DESCRIPTION> HSMS281L: SOT363 Package 6-terminal, HSMS-281x unconnected trio</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mv2113_19930908</NAME>
+    <DESCRIPTION> mv2113: 182-02, PN if(max)=200, Vr(max)=30, P(max)=280, FM/TV Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS280N_20000301</NAME>
+    <DESCRIPTION> HSMS280N: SOT363 Package 6-terminal, HSMS-280x common anode quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mv2105_19930908</NAME>
+    <DESCRIPTION> mv2105: 182-02, PN if(max)=200, Vr(max)=30, P(max)=280, FM/TV Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_tsb_1sv215_19930908</NAME>
+    <DESCRIPTION> 1sv215: SOD323, PN if(max)=NA, Vr(max)=30, P(max)=NA, CATV Tuning</DESCRIPTION>
+    <VENDOR>Toshiba</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hit_hsb88ws_19930908</NAME>
+    <DESCRIPTION> hsb88ws: MOP, SCHOTTKY if(max)=15, Vr(max)=10, P(max)=150, CATV Mixer</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbd354lt1_19930908</NAME>
+    <DESCRIPTION> mmbd354lt1: SOT23, SCHOTTKY if(max)=NA, Vr(max)=4, P(max)=NA, UHF-VHF Mixer/Detector</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS285L_20000301</NAME>
+    <DESCRIPTION> HSMS285L: SOT363 Package 6-terminal, HSMS-285x unconnected trio</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2702_20000301</NAME>
+    <DESCRIPTION> HSMS2702: SOT23 Package 3-terminal, HSMS-270x series</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hit_hsm276s_19930908</NAME>
+    <DESCRIPTION> hsm276s: SOT23, SCHOTTKY if(max)=30, Vr(max)=3, P(max)=NA, CATV Mixer</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS282R_20000301</NAME>
+    <DESCRIPTION> HSMS282R: SOT363 Package 6-terminal, HSMS-282x ring quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_phl_bb215_19930908</NAME>
+    <DESCRIPTION> bb215: SOD80, PN if(max)=20, Vr(max)=30, P(max)=NA, UHF Tuning</DESCRIPTION>
+    <VENDOR>Phillips</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HBAT5402_20000301</NAME>
+    <DESCRIPTION> HBAT5402: SOT23 Package 3-terminal, HBAT-540x series</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2823_20000301</NAME>
+    <DESCRIPTION> HSMS2823: SOT23 Package 3-terminal, HSMS-282x common anode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sms_bas125_19930908</NAME>
+    <DESCRIPTION> bas125: SOT23, SCHOTTKY if(max)=40, Vr(max)=40, P(max)=NA, NA</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2815_20000301</NAME>
+    <DESCRIPTION> HSMS2815: SOT143 Package 4-terminal, HSMS-281x unconnected pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2807_20000301</NAME>
+    <DESCRIPTION> HSMS2807: SOT143 Package 4-terminal, HSMS-280x ring quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_1n5456a_19930908</NAME>
+    <DESCRIPTION> 1n5456a: 51-02, PN if(max)=NA, Vr(max)=30, P(max)=400, Tuning, UHF</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS286R_20000301</NAME>
+    <DESCRIPTION> HSMS286R: SOT363 Package 6-terminal, HSMS-286x ring quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_sny_1t32_19930908</NAME>
+    <DESCRIPTION> 1t32: M205, PN if(max)=NA, Vr(max)=30, P(max)=NA, VHF-UHF Tuning</DESCRIPTION>
+    <VENDOR>Sony</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS8209_20000301</NAME>
+    <DESCRIPTION> HSMS8209: SOT143 Package 4-terminal, HSMS-820x cross over quad</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2863_20000301</NAME>
+    <DESCRIPTION> HSMS2863: SOT23 Package 3-terminal, HSMS-286x common anode pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS2855_20000301</NAME>
+    <DESCRIPTION> HSMS2855: SOT143 Package 4-terminal, HSMS-285x unconnected pair</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_mot_mmbv432l_19930908</NAME>
+    <DESCRIPTION> mmbv432l: SOT23, PN if(max)=200, Vr(max)=14, P(max)=350, FM Tuning</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+ <COMPONENT>
+    <NAME>di_hp_HSMS270B_20000301</NAME>
+    <DESCRIPTION> HSMS270B: SOT323 Package 3-terminal, HSMS-270x single</DESCRIPTION>
+    <VENDOR>Agilent Technologies</VENDOR>
+    <LIBRARY>HfDiodeLibrary</LIBRARY>
+    <URL>http://www.semiconductor.agilent.com</URL>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+ </COMPONENT>
+
+</COMPONENTS>

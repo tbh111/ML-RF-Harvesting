@@ -1,0 +1,315 @@
+<?xml version="1.0" ?>
+<COMPONENTS>
+ <COMPONENT>
+    <NAME>ap_pjf_2N2609_19930601</NAME>
+    <DESCRIPTION>Basic Description: PJFET Device, Part number: 2N2609, Key parameters: Beta=0.000574386 Vto=-3.3016508 Cgs=7.52098E-12 Cgd=7.55229E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_2N3909A_19930601</NAME>
+    <DESCRIPTION>Basic Description: PJFET Device, Part number: 2N3909A, Key parameters: Beta=0.000664097 Vto=-2.3558912 Cgs=6.07982E-12 Cgd=6.10652E-12</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_2N5114_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Siliconix, Basic Description: PJFET Device, Part number: 2N5114, Key parameters: Beta=0.00177843 Vto=-5.0804865 Cgs=6.23253E-11 Cgd=4.03995E-11</DESCRIPTION>
+    <VENDOR>Siliconix</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_2N5265_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PJFET Device, Part number: 2N5265, Key parameters: Beta=0.00013 Vto=-2 Cgs=3E-12 Cgd=3E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_2N5460_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PJFET Device, Part number: 2N5460, Key parameters: Beta=0.000646903 Vto=-1.5192 Cgs=6.58257E-12 Cgd=6.91907E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_2N5461_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PJFET Device, Part number: 2N5461, Key parameters: Beta=0.000688594 Vto=-1.7004958 Cgs=5.33733E-12 Cgd=5.23331E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_2N5462_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PJFET Device, Part number: 2N5462, Key parameters: Beta=0.000468524 Vto=-3.2670203 Cgs=7.36863E-12 Cgd=7.3036E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_2N5463_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PJFET Device, Part number: 2N5463, Key parameters: Beta=0.000625 Vto=-2 Cgs=4E-12 Cgd=3.4E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_2N5464_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PJFET Device, Part number: 2N5464, Key parameters: Beta=0.000375 Vto=-4 Cgs=4E-12 Cgd=3.4E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_2N5465_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PJFET Device, Part number: 2N5465, Key parameters: Beta=0.000560134 Vto=-5.14093435 Cgs=6.39209E-12 Cgd=6.44233E-12</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_2SJ84_19930601</NAME>
+    <DESCRIPTION>Basic Description: PJFET Device, Part number: 2SJ84, Key parameters: Beta=0.00508 Vto=-1.054 Cgs=2.2E-11 Cgd=2.2E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_IDEALPCH_19930601</NAME>
+    <DESCRIPTION>Basic Description: PJFET Device, Part number: IDEALPCH, Key parameters: Vto=-2</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J174_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PJFET Device, Part number: J174, Key parameters: Beta=0.00309345 Vto=-5.00923623 Cgs=2.53556E-11 Cgd=2.49343E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J175_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PJFET Device, Part number: J175, Key parameters: Beta=0.00393645 Vto=-3.92324535 Cgs=1.39345E-11 Cgd=1.33537E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J176_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PJFET Device, Part number: J176, Key parameters: Beta=0.00563422 Vto=-1.33453642 Cgs=1.89345E-11 Cgd=1.82342E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J177_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PJFET Device, Part number: J177, Key parameters: Beta=0.00446322 Vto=-2.0012623 Cgs=2.12303E-11 Cgd=2.01344E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_MPF970_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: PJFET Device, Part number: MPF970, Key parameters: Beta=0.000857 Vto=-7 Cgs=1.4E-11 Cgd=1.4E-11</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_SST174_19930601</NAME>
+    <DESCRIPTION>Basic Description: PJFET Device, Part number: SST174, Key parameters: Beta=0.001 Vto=-7 Cgs=3.6E-11 Cgd=3.6E-11</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J174_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J174, Package: TO-92, Key parameters: Beta=813e-6 Vto=-6.552 Cgs=9e-12 Cgd=6.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J175_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J175, Package: TO-92, Key parameters: Beta=1.031e-3 Vto=-3.762 Cgs=9e-12 Cgd=6.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J176_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J176, Package: TO-92, Key parameters: Beta=2.3e-3 Vto=-1.82 Cgs=9e-12 Cgd=6.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J177_19930602</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J177, Package: TO-92, Key parameters: Beta=3.3e-3 Vto=-1.386 Cgs=9e-12 Cgd=6.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J270_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J270, Package: TO-92, Key parameters: Beta=4.187e-3 Vto=-1.03 Cgs=15e-12 Cgd=10.83e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J271_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J271, Package: TO-92, Key parameters: Beta=1.6e-3 Vto=-2.519 Cgs=15e-12 Cgd=10.83e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N2608_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N2608, Package: TO-18, Key parameters: Beta=423.6e-6 Vto=-2.45 Cgs=8.37e-12 Cgd=6.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N2609_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N2609, Package: TO-18, Key parameters: Beta=3.2e-3 Vto=-1.408 Cgs=9e-12 Cgd=6.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N3329_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N3329, Package: TO-72, Key parameters: Beta=456.9e-6 Vto=-2.114 Cgs=9.94e-12 Cgd=7.96e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N3330_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N3330, Package: TO-72, Key parameters: Beta=502e-6 Vto=-2.686 Cgs=9.94e-12 Cgd=7.96e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N3331_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N3331, Package: TO-72, Key parameters: Beta=380.2e-6 Vto=-4.449 Cgs=9.94e-12 Cgd=7.96e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N3332_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N3332, Package: TO-72, Key parameters: Beta=527.2e-6 Vto=-2.636 Cgs=9.94e-12 Cgd=7.96e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N3820_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N3820, Package: TO-92, Key parameters: Beta=1.271e-3 Vto=-2.5 Cgs=16.58e-12 Cgd=13.27e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N4381_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N4381, Package: TO-18, Key parameters: Beta=2.658e-3 Vto=-1.8 Cgs=8.26e-12 Cgd=6.61e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N5018_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N5018, Package: TO-18, Key parameters: Beta=772.5e-6 Vto=-4.15 Cgs=9e-12 Cgd=6.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N5019_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N5019, Package: TO-18, Key parameters: Beta=1.775e-3 Vto=-2.229 Cgs=9e-12 Cgd=6.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N5020_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N5020, Package: TO-18, Key parameters: Beta=1.004e-3 Vto=-.8406 Cgs=10.68e-12 Cgd=8.55e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N5021_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N5021, Package: TO-18, Key parameters: Beta=2.658e-3 Vto=-.9996 Cgs=10.68e-12 Cgd=8.55e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N5114_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N5114, Package: TO-18, Key parameters: Beta=510.2e-6 Vto=-8.095 Cgs=9e-12 Cgd=6.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N5115_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N5115, Package: TO-18, Key parameters: Beta=1.031e-3 Vto=-4.896 Cgs=9e-12 Cgd=6.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N5116_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N5116, Package: TO-18, Key parameters: Beta=1.71e-3 Vto=-2.373 Cgs=9e-12 Cgd=6.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N5460_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N5460, Package: TO-92, Key parameters: Beta=1.107e-3 Vto=-1.75 Cgs=2.92e-12 Cgd=2.34e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N5461_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N5461, Package: TO-92, Key parameters: Beta=1.699e-3 Vto=-1.883 Cgs=2.92e-12 Cgd=2.34e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_J2N5462_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: J2N5462, Package: TO-92, Key parameters: Beta=2.006e-3 Vto=-2.271 Cgs=2.92e-12 Cgd=2.34e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_MPF2608_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: MPF2608, Package: TO-18, Key parameters: Beta=423.6e-6 Vto=-2.45 Cgs=8.37e-12 Cgd=6.7e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_MPF3330_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: MPF3330, Package: TO-72, Key parameters: Beta=502e-6 Vto=-2.686 Cgs=9.94e-12 Cgd=7.96e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_P1086_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: P1086, Package: TO-92, Key parameters: Beta=772.5e-6 Vto=-4.15 Cgs=9e-12 Cgd=6.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_P1087_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: P1087, Package: TO-92, Key parameters: Beta=1.775e-3 Vto=-2.229 Cgs=9e-12 Cgd=6.5e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_PN4342_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: PN4342, Package: TO-92, Key parameters: Beta=2.006e-3 Vto=-1.988 Cgs=7.91e-12 Cgd=6.33e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_PN4360_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: PN4360, Package: TO-92, Key parameters: Beta=4.032e-3 Vto=-2.057 Cgs=7.91e-12 Cgd=6.33e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_PN5033_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: PN5033, Package: TO-92, Key parameters: Beta=1.57e-3 Vto=-1.105 Cgs=10.19e-12 Cgd=8.16e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_U304_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: U304, Package: TO-18, Key parameters: Beta=1.5e-3 Vto=-5.81 Cgs=16.5e-12 Cgd=16.15e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_U305_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: U305, Package: TO-18, Key parameters: Beta=1.8e-3 Vto=-4.014 Cgs=16.5e-12 Cgd=16.15e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_pjf_U306_19930601</NAME>
+    <DESCRIPTION>Manufacturer: National, Basic Description: PJFET Device, Part number: U306, Package: TO-18, Key parameters: Beta=2.5e-3 Vto=-2.062 Cgs=16.5e-12 Cgd=16.15e-12</DESCRIPTION>
+    <VENDOR>National</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+</COMPONENTS>

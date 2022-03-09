@@ -1,0 +1,3285 @@
+<?xml version="1.0" ?>
+<COMPONENTS>
+ <COMPONENT>
+    <NAME>ap_nms_1N6757_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 1N6757, Key parameters: Vto=3.53 Kp=11.33</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6660_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6660, Key parameters: Vto=1.4 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6661_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6661, Key parameters: Vto=2.45 Kp=0.172</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6755_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6755, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6756_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: 2N6756, Key parameters: Vto=3.389 Kp=8.933</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6757_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6757, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6758_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6758, Key parameters: Vto=3.3736 Kp=6.7727</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6759_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6759, Key parameters: Vto=2.75 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6760_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6760, Key parameters: Vto=3.569 Kp=10.22</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6761_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: 2N6761, Key parameters: Vto=2.75 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6762_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: 2N6762, Key parameters: Vto=3.8505 Kp=58.27</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6763_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6763, Key parameters: Vto=2.75 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6764_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: 2N6764, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6765_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6765, Key parameters: Vto=3.196 Kp=9.894</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6766_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: 2N6766, Key parameters: Vto=2.75 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6767_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6767, Key parameters: Vto=3.02 Kp=6.01</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6768_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: 2N6768, Key parameters: Vto=2.75 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6769_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: 2N6769, Key parameters: Vto=3.334 Kp=9.273</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6770_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: 2N6770, Key parameters: Vto=2.7 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6782_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6782, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6784_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: 2N6784, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6786_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6786, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6788_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6788, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6790_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: 2N6790, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6792_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6792, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6794_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6794, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6796_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6796, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6798_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: 2N6798, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6800_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6800, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2N6802_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2N6802, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2SK430_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Hitachi, Basic Description: NMOS Transistor, Part number: 2SK430, Key parameters: Vto=2.715 Kp=0.749</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2SK553_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Hitachi, Basic Description: NMOS Transistor, Part number: 2SK553, Key parameters: Vto=3.004 Kp=4.104</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2SK579_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: 2SK579, Key parameters: Vto=3.355352 Kp=1.375125</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2SK580_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Hitachi, Basic Description: NMOS Transistor, Part number: 2SK580, Key parameters: Vto=3.395 Kp=1.588</DESCRIPTION>
+    <VENDOR>Hitachi</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2SK811_19930601</NAME>
+    <DESCRIPTION>Manufacturer: NEC, Basic Description: NMOS Transistor, Part number: 2SK811, Key parameters: Vto=1.732 Kp=9.516</DESCRIPTION>
+    <VENDOR>NEC</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_2SK817_19930601</NAME>
+    <DESCRIPTION>Manufacturer: NEC, Basic Description: NMOS Transistor, Part number: 2SK817, Key parameters: Vto=1.835 Kp=46.049</DESCRIPTION>
+    <VENDOR>NEC</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_BS107_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Siliconix, Basic Description: NMOS Transistor, Part number: BS107, Key parameters: Vto=2.372 Kp=0.28</DESCRIPTION>
+    <VENDOR>Siliconix</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_BS170_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NMOS Transistor, Part number: BS170, Key parameters: Vto=3.8 Kp=9</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_BUZ11A_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: BUZ11A, Key parameters: Vto=2.958 Kp=5.369</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_BUZ41A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Amperex, Basic Description: NMOS Transistor, Part number: BUZ41A, Key parameters: Vto=3.25 Kp=3.879</DESCRIPTION>
+    <VENDOR>Amperex</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_BUZ71_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Siemens, Basic Description: NMOS Transistor, Part number: BUZ71, Key parameters: Vto=3 Kp=4.17</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_BUZ71A_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Siemens, Basic Description: NMOS Transistor, Part number: BUZ71A, Key parameters: Vto=3 Kp=4.17</DESCRIPTION>
+    <VENDOR>Siemens</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IDEALNMOS_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IDEALNMOS, Key parameters: Vto=1 Kp=1E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF120_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF120, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF121_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF121, Key parameters: Vto=3.417 Kp=5.646</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF122_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF122, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF123_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF123, Key parameters: Vto=3.417 Kp=5.646</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF130_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF130, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF131_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF131, Key parameters: Vto=2.511 Kp=2.0357</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF132_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF132, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF133_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF133, Key parameters: Vto=3.093 Kp=4.51</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF140_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF140, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF141_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF141, Key parameters: Vto=3.477 Kp=8.196</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF142_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF142, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF143_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF143, Key parameters: Vto=3.477 Kp=8.196</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF150_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF150, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF151_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF151, Key parameters: Vto=3.218 Kp=5.447</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF152_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF152, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF153_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF153, Key parameters: Vto=3.218 Kp=5.447</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF220_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF220, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF221_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF221, Key parameters: Vto=3.532 Kp=8.269</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF222_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF222, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF223_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF223, Key parameters: Vto=3.532 Kp=8.269</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF230_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF230, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF231_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF231, Key parameters: Vto=3.53 Kp=11.33</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF232_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF232, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF233_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF233, Key parameters: Vto=3.53 Kp=11.33</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF240_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF240, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF241_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF241, Key parameters: Vto=4.121 Kp=47.285</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF242_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF242, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF243_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF243, Key parameters: Vto=4.121 Kp=47.285</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF250_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF250, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF251_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF251, Key parameters: Vto=3.196 Kp=9.894</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF252_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF252, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF253_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF253, Key parameters: Vto=3.196 Kp=9.894</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF320_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF320, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF321_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF321, Key parameters: Vto=3.341 Kp=3.422</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF322_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF322, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF323_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF323, Key parameters: Vto=3.341 Kp=3.422</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF330_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF330, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF331_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF331, Key parameters: Vto=3.42 Kp=6.413</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF332_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF332, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF333_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF333, Key parameters: Vto=3.42 Kp=6.413</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF340_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF340, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF341_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF341, Key parameters: Vto=4.071 Kp=18.45</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF342_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF342, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF343_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF343, Key parameters: Vto=4.071 Kp=18.45</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF350_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF350, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF351_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF351, Key parameters: Vto=3.02 Kp=6.01</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF352_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF352, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF353_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF353, Key parameters: Vto=3.02 Kp=6.01</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF420_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF420, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF421_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF421, Key parameters: Vto=4.054 Kp=3.452</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF422_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF422, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF423_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF423, Key parameters: Vto=4.054 Kp=3.452</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF430_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF430, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF431_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF431, Key parameters: Vto=3.457 Kp=4.956</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF432_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF432, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF433_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF433, Key parameters: Vto=3.457 Kp=4.956</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF440_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF440, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF442_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF442, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF450_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF450, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF451_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF451, Key parameters: Vto=3.3336 Kp=9.2726</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF452_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF452, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF453_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF453, Key parameters: Vto=3.3336 Kp=9.2726</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF510_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF510, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF511_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF511, Key parameters: Vto=3.75 Kp=2.8</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF512_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF512, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF513_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF513, Key parameters: Vto=3.75 Kp=2.8</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF520_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF520, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF521_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF521, Key parameters: Vto=3.417 Kp=5.646</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF522_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF522, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF523_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF523, Key parameters: Vto=3.417 Kp=5.646</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF530_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF530, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF531_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF531, Key parameters: Vto=2.511 Kp=2.0357</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF532_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF532, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF533_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF533, Key parameters: Vto=3.093 Kp=4.51</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF540_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF540, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF541_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF541, Key parameters: Vto=3.477 Kp=8.196</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF542_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF542, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF543_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF543, Key parameters: Vto=3.477 Kp=8.196</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF610_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF610, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF611_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF611, Key parameters: Vto=4.082 Kp=2.361</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF612_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF612, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF613_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF613, Key parameters: Vto=4.082 Kp=2.361</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF620_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF620, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF621_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF621, Key parameters: Vto=3.532 Kp=8.269</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF622_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF622, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF623_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF623, Key parameters: Vto=3.532 Kp=8.269</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF630_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF630, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF631_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF631, Key parameters: Vto=3.53 Kp=11.33</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF632_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF632, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF633_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF633, Key parameters: Vto=3.53 Kp=11.33</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF640_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF640, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF641_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF641, Key parameters: Vto=3.535 Kp=5.7773</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF642_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF642, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF643_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF643, Key parameters: Vto=3.535 Kp=5.7773</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF710_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF710, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF711_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF711, Key parameters: Vto=3.602 Kp=0.448</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF712_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF712, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF713_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF713, Key parameters: Vto=3.602 Kp=0.448</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF720_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF720, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF721_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF721, Key parameters: Vto=3.341 Kp=3.422</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF722_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF722, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF723_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF723, Key parameters: Vto=3.341 Kp=3.422</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF730_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF730, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF731_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF731, Key parameters: Vto=3.42 Kp=6.413</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF732_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF732, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF733_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF733, Key parameters: Vto=3.42 Kp=6.413</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF740_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF740, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF741_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF741, Key parameters: Vto=4.071 Kp=18.45</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF742_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF742, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF743_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF743, Key parameters: Vto=4.071 Kp=18.45</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF820_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF820, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF821_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF821, Key parameters: Vto=4.054 Kp=3.452</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF822_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF822, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF823_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF823, Key parameters: Vto=4.054 Kp=3.452</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF830_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF830, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF831_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF831, Key parameters: Vto=3.457 Kp=4.956</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF832_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF832, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF833_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRF833, Key parameters: Vto=3.457 Kp=4.956</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF840_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF840, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF841_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF841, Key parameters: Vto=3.62 Kp=7.47</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF842_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRF842, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD120_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRFD120, Key parameters: Vto=3.417 Kp=5.646</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD210_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFD210, Key parameters: Vto=4.082 Kp=2.361</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD213_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFD213, Key parameters: Vto=4.082 Kp=2.361</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD220_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFD220, Key parameters: Vto=3.532 Kp=8.269</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD223_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFD223, Key parameters: Vto=3.532 Kp=8.269</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF110_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF110, Key parameters: Vto=3.75 Kp=2.8</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF111_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF111, Key parameters: Vto=3.75 Kp=2.8</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF112_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF112, Key parameters: Vto=3.75 Kp=2.8</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF113_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF113, Key parameters: Vto=3.75 Kp=2.8</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF130_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRFF130, Key parameters: Vto=3.298 Kp=6.868</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF210_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF210, Key parameters: Vto=4.082 Kp=2.361</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF211_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF211, Key parameters: Vto=4.082 Kp=2.361</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF212_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF212, Key parameters: Vto=4.082 Kp=2.361</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF213_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF213, Key parameters: Vto=4.082 Kp=2.361</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF220_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF220, Key parameters: Vto=3.532 Kp=8.269</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF221_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF221, Key parameters: Vto=3.532 Kp=8.269</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF222_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF222, Key parameters: Vto=3.532 Kp=8.269</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF223_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF223, Key parameters: Vto=3.532 Kp=8.269</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF230_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International_Rectifier, Basic Description: NMOS Transistor, Part number: IRFF230, Key parameters: Vto=3.3736 Kp=6.7727</DESCRIPTION>
+    <VENDOR>International_Rectifier</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF231_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF231, Key parameters: Vto=3.53 Kp=11.33</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF232_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF232, Key parameters: Vto=3.53 Kp=11.33</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF233_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF233, Key parameters: Vto=3.53 Kp=11.33</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF310_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF310, Key parameters: Vto=3.65 Kp=0.62</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF311_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF311, Key parameters: Vto=3.602 Kp=0.448</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF312_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF312, Key parameters: Vto=3.602 Kp=0.448</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF313_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF313, Key parameters: Vto=3.602 Kp=0.448</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF320_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF320, Key parameters: Vto=3.341 Kp=3.422</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF321_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF321, Key parameters: Vto=3.341 Kp=3.422</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF322_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF322, Key parameters: Vto=3.341 Kp=3.422</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF323_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF323, Key parameters: Vto=3.341 Kp=3.422</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF330_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF330, Key parameters: Vto=3.42 Kp=6.413</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF331_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF331, Key parameters: Vto=3.42 Kp=6.413</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF332_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF332, Key parameters: Vto=3.42 Kp=6.413</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF333_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF333, Key parameters: Vto=3.42 Kp=6.413</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF420_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF420, Key parameters: Vto=4.054 Kp=3.452</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF421_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF421, Key parameters: Vto=4.054 Kp=3.452</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF422_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF422, Key parameters: Vto=4.054 Kp=3.452</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF423_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF423, Key parameters: Vto=4.054 Kp=3.452</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF430_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF430, Key parameters: Vto=3.457 Kp=4.956</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF431_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF431, Key parameters: Vto=3.457 Kp=4.956</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF432_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF432, Key parameters: Vto=3.457 Kp=4.956</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF433_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFF433, Key parameters: Vto=3.457 Kp=4.956</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFH150_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFH150, Key parameters: Vto=3.218 Kp=5.447</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFH350_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFH350, Key parameters: Vto=3.02 Kp=6.01</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFH450_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFH450, Key parameters: Vto=3.3336 Kp=9.2726</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ130_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ130, Key parameters: Vto=3.298 Kp=6.868</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ131_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ131, Key parameters: Vto=2.511 Kp=2.0357</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ132_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ132, Key parameters: Vto=3.093 Kp=4.51</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ133_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ133, Key parameters: Vto=3.093 Kp=4.51</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ140_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ140, Key parameters: Vto=3.541 Kp=10.06</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ141_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ141, Key parameters: Vto=3.477 Kp=8.196</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ142_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ142, Key parameters: Vto=3.477 Kp=8.196</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ143_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ143, Key parameters: Vto=3.477 Kp=8.196</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ220_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ220, Key parameters: Vto=3.532 Kp=8.269</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ221_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ221, Key parameters: Vto=3.532 Kp=8.269</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ222_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ222, Key parameters: Vto=3.532 Kp=8.269</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ223_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ223, Key parameters: Vto=3.532 Kp=8.269</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ230_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ230, Key parameters: Vto=3.3736 Kp=6.7727</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ231_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ231, Key parameters: Vto=3.53 Kp=11.33</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ232_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ232, Key parameters: Vto=3.53 Kp=11.33</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ233_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ233, Key parameters: Vto=3.53 Kp=11.33</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ240_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ240, Key parameters: Vto=4.121 Kp=47.285</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ241_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ241, Key parameters: Vto=4.121 Kp=47.285</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ242_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ242, Key parameters: Vto=4.121 Kp=47.285</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ243_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ243, Key parameters: Vto=4.121 Kp=47.285</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ340_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ340, Key parameters: Vto=4.071 Kp=18.45</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ341_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ341, Key parameters: Vto=4.071 Kp=18.45</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ342_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ342, Key parameters: Vto=4.071 Kp=18.45</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ343_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ343, Key parameters: Vto=4.071 Kp=18.45</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ420_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ420, Key parameters: Vto=4.054 Kp=3.452</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ421_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ421, Key parameters: Vto=4.054 Kp=3.452</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ422_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ422, Key parameters: Vto=4.054 Kp=3.452</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ423_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ423, Key parameters: Vto=4.054 Kp=3.452</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ430_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ430, Key parameters: Vto=3.457 Kp=4.956</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ431_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ431, Key parameters: Vto=3.457 Kp=4.956</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ432_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ432, Key parameters: Vto=3.457 Kp=4.956</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ433_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ433, Key parameters: Vto=3.457 Kp=4.956</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFJ440_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFJ440, Key parameters: Vto=3.62 Kp=7.47</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFM140_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFM140, Key parameters: Vto=3.541 Kp=10.06</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFM240_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFM240, Key parameters: Vto=4.121 Kp=47.285</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFM340_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFM340, Key parameters: Vto=4.071 Kp=18.45</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFM350_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFM350, Key parameters: Vto=3.02 Kp=6.01</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFM440_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFM440, Key parameters: Vto=3.62 Kp=7.47</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFM450_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFM450, Key parameters: Vto=3.3336 Kp=9.2726</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP140_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP140, Key parameters: Vto=3.477 Kp=8.196</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP141_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP141, Key parameters: Vto=3.477 Kp=8.196</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP142_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP142, Key parameters: Vto=3.477 Kp=8.196</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP143_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP143, Key parameters: Vto=3.477 Kp=8.196</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP150_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP150, Key parameters: Vto=3.218 Kp=5.447</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP151_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP151, Key parameters: Vto=3.218 Kp=5.447</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP152_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP152, Key parameters: Vto=3.218 Kp=5.447</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP153_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP153, Key parameters: Vto=3.218 Kp=5.447</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP240_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP240, Key parameters: Vto=4.121 Kp=47.285</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP241_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP241, Key parameters: Vto=4.121 Kp=47.285</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP242_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP242, Key parameters: Vto=4.121 Kp=47.285</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP243_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP243, Key parameters: Vto=4.121 Kp=47.285</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP250_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP250, Key parameters: Vto=3.196 Kp=9.894</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP251_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP251, Key parameters: Vto=3.196 Kp=9.894</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP252_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP252, Key parameters: Vto=3.196 Kp=9.894</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP253_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP253, Key parameters: Vto=3.196 Kp=9.894</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP340_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP340, Key parameters: Vto=3.477 Kp=8.196</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP341_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP341, Key parameters: Vto=4.071 Kp=18.45</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP342_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP342, Key parameters: Vto=4.071 Kp=18.45</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP343_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP343, Key parameters: Vto=4.071 Kp=18.45</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP350_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP350, Key parameters: Vto=3.02 Kp=6.01</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP351_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP351, Key parameters: Vto=3.02 Kp=6.01</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP352_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP352, Key parameters: Vto=3.02 Kp=6.01</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP353_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP353, Key parameters: Vto=3.02 Kp=6.01</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP440_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP440, Key parameters: Vto=3.62 Kp=7.47</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP450_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP450, Key parameters: Vto=3.3336 Kp=9.2726</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP451_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP451, Key parameters: Vto=3.3336 Kp=9.2726</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP452_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP452, Key parameters: Vto=3.3336 Kp=9.2726</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP453_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP453, Key parameters: Vto=3.3336 Kp=9.2726</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFP460_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFP460, Key parameters: Vto=3.699022 Kp=14.986565</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFPE52_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFPE52, Key parameters: Vto=4.213713 Kp=9.0994</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFR110_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFR110, Key parameters: Vto=3.75 Kp=2.8</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFR111_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFR111, Key parameters: Vto=3.75 Kp=2.8</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFR120_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFR120, Key parameters: Vto=3.417 Kp=5.646</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFR121_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFR121, Key parameters: Vto=3.417 Kp=5.646</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFR210_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFR210, Key parameters: Vto=4.082 Kp=2.361</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFR212_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFR212, Key parameters: Vto=4.082 Kp=2.361</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFU120_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFU120, Key parameters: Vto=3.417 Kp=5.646</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFU121_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFU121, Key parameters: Vto=3.417 Kp=5.646</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFU210_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFU210, Key parameters: Vto=4.082 Kp=2.361</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFU212_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFU212, Key parameters: Vto=4.082 Kp=2.361</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFZ44_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRFZ44, Key parameters: Vto=3.611746 Kp=10.2594</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRH150_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: IRH150, Key parameters: Vto=3.218 Kp=5.447</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_MPM3002N_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: MPM3002N, Key parameters: Vto=3.8 Kp=3.2035</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_MTM12N10_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: MTM12N10, Key parameters: Vto=3 Kp=2.59155E-05</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_MTM40N18_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NMOS Transistor, Part number: MTM40N18, Key parameters: Vto=4.566 Kp=37.62</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_MTM40N20_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NMOS Transistor, Part number: MTM40N20, Key parameters: Vto=4.566 Kp=37.62</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_MTM45N12_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NMOS Transistor, Part number: MTM45N12, Key parameters: Vto=4.108 Kp=17.26</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_MTM45N15_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NMOS Transistor, Part number: MTM45N15, Key parameters: Vto=4.108 Kp=17.26</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_MTM55N08_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NMOS Transistor, Part number: MTM55N08, Key parameters: Vto=4.592 Kp=64.76</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_MTM55N10_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NMOS Transistor, Part number: MTM55N10, Key parameters: Vto=4.592 Kp=64.76</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_MTM60N05_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NMOS Transistor, Part number: MTM60N05, Key parameters: Vto=4.592 Kp=64.76</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_MTM60N06_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Motorola, Basic Description: NMOS Transistor, Part number: MTM60N06, Key parameters: Vto=4.592 Kp=64.76</DESCRIPTION>
+    <VENDOR>Motorola</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_RFM15N12_19930601</NAME>
+    <DESCRIPTION>Manufacturer: RCA, Basic Description: NMOS Transistor, Part number: RFM15N12, Key parameters: Vto=3.571 Kp=36.83</DESCRIPTION>
+    <VENDOR>RCA</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_RFP10N15_19930601</NAME>
+    <DESCRIPTION>Manufacturer: RCA, Basic Description: NMOS Transistor, Part number: RFP10N15, Key parameters: Vto=3.5 Kp=5.4863</DESCRIPTION>
+    <VENDOR>RCA</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_SD202_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: SD202, Key parameters: Vto=1 Kp=0.0078</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_SD214_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Siliconix, Basic Description: NMOS Transistor, Part number: SD214, Key parameters: Vto=1.5 Kp=0.0078</DESCRIPTION>
+    <VENDOR>Siliconix</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_VN0300M_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Siliconix, Basic Description: NMOS Transistor, Part number: VN0300M, Key parameters: Vto=0.929 Kp=0.118</DESCRIPTION>
+    <VENDOR>Siliconix</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_VN0545_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Supertex, Basic Description: NMOS Transistor, Part number: VN0545, Key parameters: Vto=2.69417 Kp=15.3207</DESCRIPTION>
+    <VENDOR>Supertex</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_VN0606M_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Siliconix, Basic Description: NMOS Transistor, Part number: VN0606M, Key parameters: Vto=1.248 Kp=0.119</DESCRIPTION>
+    <VENDOR>Siliconix</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_VN0645_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Supertex, Basic Description: NMOS Transistor, Part number: VN0645, Key parameters: Vto=1.97087 Kp=2.45124</DESCRIPTION>
+    <VENDOR>Supertex</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_VN0808M_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Siliconix, Basic Description: NMOS Transistor, Part number: VN0808M, Key parameters: Vto=1.248 Kp=0.119</DESCRIPTION>
+    <VENDOR>Siliconix</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_VN10LM_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Siliconix, Basic Description: NMOS Transistor, Part number: VN10LM, Key parameters: Vto=2.211 Kp=0.965</DESCRIPTION>
+    <VENDOR>Siliconix</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_VN2222_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Siliconix, Basic Description: NMOS Transistor, Part number: VN2222, Key parameters: Vto=2.6 Kp=0.12</DESCRIPTION>
+    <VENDOR>Siliconix</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_VN2222LM_19930601</NAME>
+    <DESCRIPTION>Manufacturer: Siliconix, Basic Description: NMOS Transistor, Part number: VN2222LM, Key parameters: Vto=2.211 Kp=0.965</DESCRIPTION>
+    <VENDOR>Siliconix</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_VNO3D_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: VNO3D, Key parameters: Vto=2.385333 Kp=2.187373</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_VNO3E_19930601</NAME>
+    <DESCRIPTION>Basic Description: NMOS Transistor, Part number: VNO3E, Key parameters: Vto=3.028325 Kp=2.2552</DESCRIPTION>
+    <VENDOR>---</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF034_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF034, Package: Rectifier, Key parameters: Vto=3.441 Kp=21.5e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF035_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF035, Package: Rectifier, Key parameters: Vto=3.441 Kp=20.69e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF044_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF044, Package: Rectifier, Key parameters: Vto=3.441 Kp=21.21e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF045_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF045, Package: Rectifier, Key parameters: Vto=3.441 Kp=21.21e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF120_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF120, Package: Rectifier, Key parameters: Vto=3.762 Kp=20.62e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF121_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF121, Package: Rectifier, Key parameters: Vto=3.762 Kp=20.62e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF122_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF122, Package: Rectifier, Key parameters: Vto=3.762 Kp=20.58e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF123_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF123, Package: Rectifier, Key parameters: Vto=3.762 Kp=20.58e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF130_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF130, Package: Rectifier, Key parameters: Vto=3.412 Kp=20.8e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF131_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF131, Package: Rectifier, Key parameters: Vto=3.412 Kp=20.8e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF132_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF132, Package: Rectifier, Key parameters: Vto=3.373 Kp=20.68e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF133_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF133, Package: Rectifier, Key parameters: Vto=3.373 Kp=20.68e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF140_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF140, Package: Rectifier, Key parameters: Vto=3.189 Kp=20.61e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF141_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF141, Package: Rectifier, Key parameters: Vto=3.189 Kp=20.61e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF142_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF142, Package: Rectifier, Key parameters: Vto=3.189 Kp=20.61e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF143_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF143, Package: Rectifier, Key parameters: Vto=3.189 Kp=20.61e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF150_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF150, Package: Rectifier, Key parameters: Vto=2.831 Kp=20.53e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF151_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF151, Package: Rectifier, Key parameters: Vto=2.831 Kp=20.53e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF152_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF152, Package: Rectifier, Key parameters: Vto=2.831 Kp=20.53e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF153_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF153, Package: Rectifier, Key parameters: Vto=2.831 Kp=20.53e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF220_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF220, Package: Rectifier, Key parameters: Vto=3.077 Kp=21.11e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF221_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF221, Package: Rectifier, Key parameters: Vto=3.077 Kp=21.11e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF222_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF222, Package: Rectifier, Key parameters: Vto=3.077 Kp=20.53e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF223_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF223, Package: Rectifier, Key parameters: Vto=3.077 Kp=20.53e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF224_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF224, Package: Rectifier, Key parameters: Vto=3.803 Kp=20.12e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF225_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF225, Package: Rectifier, Key parameters: Vto=3.803 Kp=20.12e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF230_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF230, Package: Rectifier, Key parameters: Vto=3.436 Kp=20.8e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF231_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF231, Package: Rectifier, Key parameters: Vto=3.436 Kp=20.8e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF232_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF232, Package: Rectifier, Key parameters: Vto=3.37 Kp=20.73e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF233_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF233, Package: Rectifier, Key parameters: Vto=3.37 Kp=20.73e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF234_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF234, Package: Rectifier, Key parameters: Vto=3.866 Kp=20.56e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF235_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF235, Package: Rectifier, Key parameters: Vto=3.866 Kp=20.66e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF240_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF240, Package: Rectifier, Key parameters: Vto=3.814 Kp=20.82e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF241_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF241, Package: Rectifier, Key parameters: Vto=3.814 Kp=20.82e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF242_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF242, Package: Rectifier, Key parameters: Vto=3.814 Kp=20.82e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF243_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF243, Package: Rectifier, Key parameters: Vto=3.814 Kp=20.82e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF244_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF244, Package: Rectifier, Key parameters: Vto=3.405 Kp=20.58e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF245_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF245, Package: Rectifier, Key parameters: Vto=3.405 Kp=20.58e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF250_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF250, Package: Rectifier, Key parameters: Vto=3.804 Kp=19.93e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF251_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF251, Package: Rectifier, Key parameters: Vto=3.804 Kp=19.93e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF252_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF252, Package: Rectifier, Key parameters: Vto=3.794 Kp=20.86e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF253_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF253, Package: Rectifier, Key parameters: Vto=3.794 Kp=20.86e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF254_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF254, Package: Rectifier, Key parameters: Vto=3.613 Kp=20.66e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF255_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF255, Package: Rectifier, Key parameters: Vto=3.613 Kp=20.66e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF320_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF320, Package: Rectifier, Key parameters: Vto=3.710 Kp=20.94e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF321_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF321, Package: Rectifier, Key parameters: Vto=3.710 Kp=20.94e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF322_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF322, Package: Rectifier, Key parameters: Vto=3.710 Kp=20.94e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF323_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF323, Package: Rectifier, Key parameters: Vto=3.710 Kp=20.94e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF330_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF330, Package: Rectifier, Key parameters: Vto=3.6 Kp=20.47e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF331_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF331, Package: Rectifier, Key parameters: Vto=3.6 Kp=20.47e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF332_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF332, Package: Rectifier, Key parameters: Vto=3.6 Kp=20.47e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF333_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF333, Package: Rectifier, Key parameters: Vto=3.6 Kp=20.47e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF340_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF340, Package: Rectifier, Key parameters: Vto=3.503 Kp=20.79e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF341_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF341, Package: Rectifier, Key parameters: Vto=3.503 Kp=20.79e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF342_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF342, Package: Rectifier, Key parameters: Vto=3.503 Kp=20.79e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF343_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF343, Package: Rectifier, Key parameters: Vto=3.503 Kp=20.79e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF350_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF350, Package: Rectifier, Key parameters: Vto=3.234 Kp=20.75e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF351_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF351, Package: Rectifier, Key parameters: Vto=3.234 Kp=20.75e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF352_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF352, Package: Rectifier, Key parameters: Vto=3.234 Kp=20.75e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF353_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF353, Package: Rectifier, Key parameters: Vto=3.234 Kp=20.75e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF360_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF360, Package: Rectifier, Key parameters: Vto=3.820 Kp=21.24e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF362_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF362, Package: Rectifier, Key parameters: Vto=3.820 Kp=21.24e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF420_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF420, Package: Rectifier, Key parameters: Vto=3.827 Kp=21.11e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF421_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF421, Package: Rectifier, Key parameters: Vto=3.827 Kp=21.11e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF422_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF422, Package: Rectifier, Key parameters: Vto=3.827 Kp=21.11e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF423_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF423, Package: Rectifier, Key parameters: Vto=3.827 Kp=21.11e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF430_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF430, Package: Rectifier, Key parameters: Vto=3.783 Kp=20.56e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF431_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF431, Package: Rectifier, Key parameters: Vto=3.783 Kp=20.56e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF432_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF432, Package: Rectifier, Key parameters: Vto=3.783 Kp=20.56e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF433_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF433, Package: Rectifier, Key parameters: Vto=3.783 Kp=20.56e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF440_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF440, Package: Rectifier, Key parameters: Vto=3.873 Kp=20.87e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF441_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF441, Package: Rectifier, Key parameters: Vto=3.873 Kp=20.87e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF442_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF442, Package: Rectifier, Key parameters: Vto=3.873 Kp=20.87e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF443_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF443, Package: Rectifier, Key parameters: Vto=3.873 Kp=20.87e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF448_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF448, Package: Rectifier, Key parameters: Vto=3.748 Kp=20.7e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF449_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF449, Package: Rectifier, Key parameters: Vto=3.748 Kp=20.7e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF450_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF450, Package: Rectifier, Key parameters: Vto=3.635 Kp=20.2e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF451_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF451, Package: Rectifier, Key parameters: Vto=3.635 Kp=20.2e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF452_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF452, Package: Rectifier, Key parameters: Vto=3.635 Kp=20.2e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF453_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF453, Package: Rectifier, Key parameters: Vto=3.635 Kp=20.2e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF460_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF460, Package: Rectifier, Key parameters: Vto=3.402 Kp=20.84e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF462_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF462, Package: Rectifier, Key parameters: Vto=3.402 Kp=20.84e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF510_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF510, Package: Rectifier, Key parameters: Vto=3.697 Kp=20.68e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF511_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF511, Package: Rectifier, Key parameters: Vto=3.697 Kp=20.68e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF512_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF512, Package: Rectifier, Key parameters: Vto=3.697 Kp=20.68e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF513_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF513, Package: Rectifier, Key parameters: Vto=3.697 Kp=20.68e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF520_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF520, Package: Rectifier, Key parameters: Vto=3.59 Kp=20.79e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF521_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF521, Package: Rectifier, Key parameters: Vto=3.59 Kp=20.79e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF522_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF522, Package: Rectifier, Key parameters: Vto=3.59 Kp=20.79e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF523_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF523, Package: Rectifier, Key parameters: Vto=3.59 Kp=20.79e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF530_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF530, Package: Rectifier, Key parameters: Vto=3.191 Kp=20.73e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF531_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF531, Package: Rectifier, Key parameters: Vto=3.191 Kp=20.73e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF532_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF532, Package: Rectifier, Key parameters: Vto=3.191 Kp=20.73e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF533_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF533, Package: Rectifier, Key parameters: Vto=3.191 Kp=20.73e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF540_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF540, Package: Rectifier, Key parameters: Vto=3.136 Kp=20.71e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF541_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF541, Package: Rectifier, Key parameters: Vto=3.136 Kp=20.71e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF542_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF542, Package: Rectifier, Key parameters: Vto=3.136 Kp=20.71e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF543_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF543, Package: Rectifier, Key parameters: Vto=3.136 Kp=20.71e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF610_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF610, Package: Rectifier, Key parameters: Vto=3.886 Kp=20.77e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF611_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF611, Package: Rectifier, Key parameters: Vto=3.886 Kp=20.77e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF612_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF612, Package: Rectifier, Key parameters: Vto=3.886 Kp=20.77e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF613_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF613, Package: Rectifier, Key parameters: Vto=3.886 Kp=20.77e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF614_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF614, Package: Rectifier, Key parameters: Vto=3.828 Kp=21.18e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF615_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF615, Package: Rectifier, Key parameters: Vto=3.828 Kp=21.18e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF620_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF620, Package: Rectifier, Key parameters: Vto=3.083 Kp=20.39e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF621_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF621, Package: Rectifier, Key parameters: Vto=3.083 Kp=20.39e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF622_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF622, Package: Rectifier, Key parameters: Vto=3.083 Kp=20.39e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF623_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF623, Package: Rectifier, Key parameters: Vto=3.083 Kp=20.39e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF624_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF624, Package: Rectifier, Key parameters: Vto=3.682 Kp=20.25e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF625_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF625, Package: Rectifier, Key parameters: Vto=3.682 Kp=20.25e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF630_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF630, Package: Rectifier, Key parameters: Vto=3.513 Kp=20.8e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF631_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF631, Package: Rectifier, Key parameters: Vto=3.513 Kp=20.8e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF632_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF632, Package: Rectifier, Key parameters: Vto=3.513 Kp=20.8e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF633_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF633, Package: Rectifier, Key parameters: Vto=3.513 Kp=20.8e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF634_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF634, Package: Rectifier, Key parameters: Vto=3.888 Kp=20.44e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF635_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF635, Package: Rectifier, Key parameters: Vto=3.888 Kp=20.44e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF640_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF640, Package: Rectifier, Key parameters: Vto=3.788 Kp=20.73e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF641_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF641, Package: Rectifier, Key parameters: Vto=3.788 Kp=20.73e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF642_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF642, Package: Rectifier, Key parameters: Vto=3.788 Kp=20.73e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF643_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF643, Package: Rectifier, Key parameters: Vto=3.788 Kp=20.73e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF644_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF644, Package: Rectifier, Key parameters: Vto=3.389 Kp=20.86e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF645_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF645, Package: Rectifier, Key parameters: Vto=3.389 Kp=20.86e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF710_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF710, Package: Rectifier, Key parameters: Vto=3.553 Kp=21.18e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF711_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF711, Package: Rectifier, Key parameters: Vto=3.553 Kp=21.18e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF712_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF712, Package: Rectifier, Key parameters: Vto=3.553 Kp=21.18e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF713_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF713, Package: Rectifier, Key parameters: Vto=3.553 Kp=21.18e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF720_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF720, Package: Rectifier, Key parameters: Vto=3.78 Kp=20.58e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF721_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF721, Package: Rectifier, Key parameters: Vto=3.78 Kp=20.58e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF722_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF722, Package: Rectifier, Key parameters: Vto=3.78 Kp=20.58e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF723_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF723, Package: Rectifier, Key parameters: Vto=3.78 Kp=20.58e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF730_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF730, Package: Rectifier, Key parameters: Vto=3.474 Kp=20.5e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF731_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF731, Package: Rectifier, Key parameters: Vto=3.474 Kp=20.5e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF732_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF732, Package: Rectifier, Key parameters: Vto=3.474 Kp=20.5e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF733_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF733, Package: Rectifier, Key parameters: Vto=3.474 Kp=20.5e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF740_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF740, Package: Rectifier, Key parameters: Vto=3.657 Kp=20.59e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF741_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF741, Package: Rectifier, Key parameters: Vto=3.657 Kp=20.59e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF742_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF742, Package: Rectifier, Key parameters: Vto=3.657 Kp=20.59e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF743_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF743, Package: Rectifier, Key parameters: Vto=3.657 Kp=20.59e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF820_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF820, Package: Rectifier, Key parameters: Vto=3.858 Kp=20.23e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF821_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF821, Package: Rectifier, Key parameters: Vto=3.858 Kp=20.23e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF822_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF822, Package: Rectifier, Key parameters: Vto=3.858 Kp=20.23e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF823_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF823, Package: Rectifier, Key parameters: Vto=3.858 Kp=20.23e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF830_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF830, Package: Rectifier, Key parameters: Vto=3.749 Kp=20.55e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF831_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF831, Package: Rectifier, Key parameters: Vto=3.749 Kp=20.55e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF832_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF832, Package: Rectifier, Key parameters: Vto=3.749 Kp=20.55e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF833_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF833, Package: Rectifier, Key parameters: Vto=3.749 Kp=20.55e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF840_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF840, Package: Rectifier, Key parameters: Vto=3.879 Kp=20.85e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF841_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF841, Package: Rectifier, Key parameters: Vto=3.879 Kp=20.85e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF842_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF842, Package: Rectifier, Key parameters: Vto=3.879 Kp=20.85e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRF843_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRF843, Package: Rectifier, Key parameters: Vto=3.879 Kp=20.85e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAC30_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAC30, Package: Rectifier, Key parameters: Vto=3.712 Kp=20.5e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAC32_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAC32, Package: Rectifier, Key parameters: Vto=3.712 Kp=20.5e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAC40_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAC40, Package: Rectifier, Key parameters: Vto=3.513 Kp=20.66e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAC42_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAC42, Package: Rectifier, Key parameters: Vto=3.513 Kp=20.66e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAE40_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAE40, Package: Rectifier, Key parameters: Vto=3.879 Kp=20.72e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAE42_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAE42, Package: Rectifier, Key parameters: Vto=3.879 Kp=20.72e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAE50_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAE50, Package: Rectifier, Key parameters: Vto=3.94 Kp=20.7e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAE52_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAE52, Package: Rectifier, Key parameters: Vto=3.94 Kp=20.7e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAF40_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAF40, Package: Rectifier, Key parameters: Vto=3.898 Kp=20.75e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAF42_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAF42, Package: Rectifier, Key parameters: Vto=3.898 Kp=20.75e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAF50_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAF50, Package: Rectifier, Key parameters: Vto=3.931 Kp=20.79e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAF52_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAF52, Package: Rectifier, Key parameters: Vto=3.931 Kp=20.79e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAG40_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAG40, Package: Rectifier, Key parameters: Vto=3.931 Kp=20.84e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAG42_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAG42, Package: Rectifier, Key parameters: Vto=3.931 Kp=20.84e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAG50_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAG50, Package: Rectifier, Key parameters: Vto=3.924 Kp=20.8e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFAG52_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFAG52, Package: Rectifier, Key parameters: Vto=3.924 Kp=20.8e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFBC30_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFBC30, Package: Rectifier, Key parameters: Vto=3.625 Kp=20.43e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFBC32_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFBC32, Package: Rectifier, Key parameters: Vto=3.625 Kp=20.43e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFBC40_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFBC40, Package: Rectifier, Key parameters: Vto=3.438 Kp=20.85e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFBC42_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFBC42, Package: Rectifier, Key parameters: Vto=3.438 Kp=20.85e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD010_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFD010, Package: Rectifier, Key parameters: Vto=3.129 Kp=20.33e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD012_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFD012, Package: Rectifier, Key parameters: Vto=3.129 Kp=20.33e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD020_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFD020, Package: Rectifier, Key parameters: Vto=3.913 Kp=20.55e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD022_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFD022, Package: Rectifier, Key parameters: Vto=3.913 Kp=20.55e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD110_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFD110, Package: Rectifier, Key parameters: Vto=3.759 Kp=20.81e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD113_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFD113, Package: Rectifier, Key parameters: Vto=3.759 Kp=20.81e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD120_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFD120, Package: Rectifier, Key parameters: Vto=2.995 Kp=20.66e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD123_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFD123, Package: Rectifier, Key parameters: Vto=2.995 Kp=20.66e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD1Z0_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFD1Z0, Package: Rectifier, Key parameters: Vto=3.936 Kp=21.17e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD1Z3_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFD1Z3, Package: Rectifier, Key parameters: Vto=3.936 Kp=21.17e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD210_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFD210, Package: Rectifier, Key parameters: Vto=3.648 Kp=20.76e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD213_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFD213, Package: Rectifier, Key parameters: Vto=3.648 Kp=20.76e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD220_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFD220, Package: Rectifier, Key parameters: Vto=3.115 Kp=21.04e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFD223_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFD223, Package: Rectifier, Key parameters: Vto=3.115 Kp=21.04e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF110_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF110, Package: Rectifier, Key parameters: Vto=3.694 Kp=20.82e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF111_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF111, Package: Rectifier, Key parameters: Vto=3.694 Kp=20.82e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF112_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF112, Package: Rectifier, Key parameters: Vto=3.694 Kp=20.82e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF113_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF113, Package: Rectifier, Key parameters: Vto=3.694 Kp=20.82e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF120_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF120, Package: Rectifier, Key parameters: Vto=3.251 Kp=20.55e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF121_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF121, Package: Rectifier, Key parameters: Vto=3.251 Kp=20.55e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF122_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF122, Package: Rectifier, Key parameters: Vto=3.251 Kp=20.55e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF123_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF123, Package: Rectifier, Key parameters: Vto=3.251 Kp=20.55e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF130_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF130, Package: Rectifier, Key parameters: Vto=3.214 Kp=20.79e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF131_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF131, Package: Rectifier, Key parameters: Vto=3.214 Kp=20.79e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF132_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF132, Package: Rectifier, Key parameters: Vto=3.214 Kp=20.79e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF133_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF133, Package: Rectifier, Key parameters: Vto=3.214 Kp=20.79e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF210_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF210, Package: Rectifier, Key parameters: Vto=3.807 Kp=20.8e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF211_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF211, Package: Rectifier, Key parameters: Vto=3.807 Kp=20.8e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF212_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF212, Package: Rectifier, Key parameters: Vto=3.807 Kp=20.8e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF213_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF213, Package: Rectifier, Key parameters: Vto=3.807 Kp=20.8e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF220_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF220, Package: Rectifier, Key parameters: Vto=3.101 Kp=21.11e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF221_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF221, Package: Rectifier, Key parameters: Vto=3.101 Kp=21.11e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF222_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF222, Package: Rectifier, Key parameters: Vto=3.101 Kp=21.11e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF223_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF223, Package: Rectifier, Key parameters: Vto=3.101 Kp=21.11e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_IRFF230_19930602</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: IRFF230, Package: Rectifier, Key parameters: Vto=3.414 Kp=20.77e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6755_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6755, Package: Rectifier, Key parameters: Vto=3.143 Kp=21.35e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6756_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6756, Package: Rectifier, Key parameters: Vto=3.143 Kp=21.35e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6757_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6757, Package: Rectifier, Key parameters: Vto=3.391 Kp=19.85e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6758_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6758, Package: Rectifier, Key parameters: Vto=3.391 Kp=19.85e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6759_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6759, Package: Rectifier, Key parameters: Vto=3.179 Kp=20.77e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6760_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6760, Package: Rectifier, Key parameters: Vto=3.179 Kp=20.77e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6761_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6761, Package: Rectifier, Key parameters: Vto=3.166 Kp=20.62e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6762_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6762, Package: Rectifier, Key parameters: Vto=3.166 Kp=20.62e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6763_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6763, Package: Rectifier, Key parameters: Vto=3.061 Kp=20.52e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6764_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6764, Package: Rectifier, Key parameters: Vto=3.061 Kp=20.52e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6765_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6765, Package: Rectifier, Key parameters: Vto=3.064 Kp=20.74e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6766_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6766, Package: Rectifier, Key parameters: Vto=3.064 Kp=20.74e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6767_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6767, Package: Rectifier, Key parameters: Vto=2.885 Kp=20.77e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6768_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6768, Package: Rectifier, Key parameters: Vto=2.885 Kp=20.77e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6769_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6769, Package: Rectifier, Key parameters: Vto=3.31 Kp=20.65e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6770_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6770, Package: Rectifier, Key parameters: Vto=3.31 Kp=20.65e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6782_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6782, Package: Rectifier, Key parameters: Vto=3.201 Kp=20.85e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6784_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6784, Package: Rectifier, Key parameters: Vto=3.274 Kp=20.86e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6786_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6786, Package: Rectifier, Key parameters: Vto=3.906 Kp=21.11e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6788_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6788, Package: Rectifier, Key parameters: Vto=3.011 Kp=20.84e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6790_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6790, Package: Rectifier, Key parameters: Vto=3.016 Kp=20.41e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6792_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6792, Package: Rectifier, Key parameters: Vto=3.025 Kp=20.9e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6794_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6794, Package: Rectifier, Key parameters: Vto=3.32 Kp=20.5e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6796_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6796, Package: Rectifier, Key parameters: Vto=3.141 Kp=20.65e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6798_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6798, Package: Rectifier, Key parameters: Vto=3.054 Kp=20.02e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6800_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6800, Package: Rectifier, Key parameters: Vto=3.206 Kp=20.62e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+ <COMPONENT>
+    <NAME>ap_nms_M2N6802_19930601</NAME>
+    <DESCRIPTION>Manufacturer: International, Basic Description: NMOS Transistor, Part number: M2N6802, Package: Rectifier, Key parameters: Vto=3.101 Kp=20.88e-6</DESCRIPTION>
+    <VENDOR>International</VENDOR>
+    <LIBRARY>Analog_Parts_Library</LIBRARY>
+ </COMPONENT>
+</COMPONENTS>

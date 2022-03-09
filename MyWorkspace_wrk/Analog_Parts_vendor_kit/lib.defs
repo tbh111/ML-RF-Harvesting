@@ -1,0 +1,5 @@
+# ADS technology library definitions file
+INCLUDE  $HPEESOF_DIR/oalibs/tech.defs
+
+DEFINE Analog_Parts ./Analog_Parts
+ASSIGN Analog_Parts libMode readOnly

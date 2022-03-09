@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation_files Version="1.0" Time="周二 3月 8 21:51:59 2022" Simulator="hpeesofsim">
+ <File name="annotation_1.xml">
+  <Controller name="HB2">
+   <P>Pin: -2.0000000000000000e+01</P>
+   <P>F0: 2.3999999999999999e+00</P>
+  </Controller>
+ </File>
+</annotation_files>
